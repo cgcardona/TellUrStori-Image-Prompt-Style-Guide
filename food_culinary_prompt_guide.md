@@ -63,10 +63,9 @@
 
 ## Negative Prompts
 
-- "spoiled", "rotten", "moldy", "expired"
-- "artificial", "plastic", "fake", "inedible"
-- "messy", "dirty", "unappetizing", "disgusting"
-- "processed", "packaged", "fast food", "junk food"
+```text
+spoiled, rotten, moldy, expired, artificial, plastic, fake, inedible, messy, dirty, unappetizing, disgusting, processed, packaged, fast food, junk food
+```
 
 ## Sample Prompts by Category
 
