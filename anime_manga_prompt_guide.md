@@ -27,13 +27,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```text
 [character description], [pose/action], [clothing], [background], [lighting], [anime style], [quality], [mood]
 ```
 
-### Example:
+### Example
 
 ```text
 Anime girl with long blue hair and large green eyes, sitting on a windowsill reading a book, wearing a school uniform, cherry blossoms outside, soft natural lighting, shoujo anime style, high quality, peaceful mood
@@ -71,13 +71,13 @@ Anime girl with long blue hair and large green eyes, sitting on a windowsill rea
 
 ## Style-Specific Modifiers
 
-### Anime Quality Enhancers:
+### Anime Quality Enhancers
 
 ```text
 anime style, high quality anime, detailed anime art, professional anime illustration, studio ghibli style, modern anime, cel-shaded, clean line art
 ```
 
-### Manga Quality Enhancers:
+### Manga Quality Enhancers
 
 ```text
 manga style, black and white manga, detailed line art, professional manga illustration, screentones, manga panels, dynamic composition
@@ -85,13 +85,13 @@ manga style, black and white manga, detailed line art, professional manga illust
 
 ## Negative Prompts
 
-### Essential Anime/Manga Negatives:
+### Essential Anime/Manga Negatives
 
 ```text
 realistic, photorealistic, 3d render, CGI, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn face, bad hands, bad eyes, ugly, mutated, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn face, bad hands, bad eyes
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```text
 western cartoon, disney style, realistic proportions, photographic, live action, movie still, screenshot, video game render
@@ -145,7 +145,7 @@ Mature anime character with short dark hair and serious expression, wearing a bu
 
 ### 4. Fantasy Adventure
 
-```
+```text
 Anime girl with long green hair and pointed ears, wearing magical robes, casting a spell in an enchanted forest, ethereal lighting, fantasy anime style, high quality, mystical atmosphere
 ```
 
@@ -230,4 +230,4 @@ Anime character with cybernetic implants, wearing futuristic clothing, standing 
 4. **Wrong lighting**: Use anime-appropriate lighting descriptions
 5. **Generic backgrounds**: Include specific anime-style background elements
 
-Remember: Anime and manga have distinct visual languages. Focus on the characteristic features like large eyes, distinctive hair, and clean line art while maintaining the style's unique aesthetic. 
+Remember: Anime and manga have distinct visual languages. Focus on the characteristic features like large eyes, distinctive hair, and clean line art while maintaining the style's unique aesthetic.

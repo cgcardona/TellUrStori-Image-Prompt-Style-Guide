@@ -26,13 +26,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```text
 [building type], [architectural style], [view type], [lighting], [materials], [visualization style], [quality], [purpose]
 ```
 
-### Example:
+### Example
 
 ```text
 A modern glass office building, contemporary architecture, exterior view with natural lighting, steel and glass materials, photorealistic architectural visualization, high quality, commercial presentation
@@ -70,13 +70,13 @@ A modern glass office building, contemporary architecture, exterior view with na
 
 ## Style-Specific Modifiers
 
-### Architectural Quality Enhancers:
+### Architectural Quality Enhancers
 
 ```text
 architectural visualization, architectural render, building visualization, architectural illustration, professional architecture, architectural photography, building design, architectural presentation
 ```
 
-### Software References:
+### Software References
 
 ```text
 3ds Max render, V-Ray render, Corona render, Lumion render, SketchUp render, Revit render, architectural software
@@ -84,13 +84,13 @@ architectural visualization, architectural render, building visualization, archi
 
 ## Negative Prompts
 
-### Essential Architectural Negatives:
+### Essential Architectural Negatives
 
 ```text
 low quality, blurry, pixelated, deformed, bad proportions, unrealistic, fantasy, impossible architecture, cartoon, anime, painting, drawing, illustration
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```text
 amateur photography, poor lighting, bad composition, unrealistic materials, impossible physics, fantasy building
@@ -236,4 +236,4 @@ A classical building, traditional architecture, exterior view with natural light
 4. **Missing context**: Include environmental and site context
 5. **Low quality**: Maintain professional presentation standards
 
-Remember: Architectural visualization emphasizes accuracy, professionalism, and clear communication of design intent. Focus on precise proportions, appropriate materials, and professional presentation while maintaining architectural authenticity. 
+Remember: Architectural visualization emphasizes accuracy, professionalism, and clear communication of design intent. Focus on precise proportions, appropriate materials, and professional presentation while maintaining architectural authenticity.

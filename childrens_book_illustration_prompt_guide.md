@@ -26,15 +26,15 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
-```
+```text
 [scene/subject], [age group], [style], [color palette], [mood], [children's book style], [quality], [story element]
 ```
 
-### Example:
+### Example
 
-```
+```text
 A friendly bear reading a book to forest animals, preschool age group, warm watercolor style, soft earth tones, cozy mood, children's book illustration style, high quality, bedtime story scene
 ```
 
@@ -70,29 +70,29 @@ A friendly bear reading a book to forest animals, preschool age group, warm wate
 
 ## Style-Specific Modifiers
 
-### Children's Book Quality Enhancers:
+### Children's Book Quality Enhancers
 
-```
+```text
 children's book illustration, children's art, kid-friendly illustration, storybook art, children's book art, family-friendly art, educational illustration, children's literature
 ```
 
-### Artist References:
+### Artist References
 
-```
+```text
 Beatrix Potter style, Dr. Seuss style, Eric Carle style, Maurice Sendak style, children's book illustrator, storybook artist
 ```
 
 ## Negative Prompts
 
-### Essential Children's Book Negatives:
+### Essential Children's Book Negatives
 
-```
+```text
 dark, scary, frightening, violent, adult content, mature themes, complex, confusing, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
-```
+```text
 realistic proportions, photographic, 3d render, CGI, complex composition, abstract art, modern art, contemporary art
 ```
 
@@ -100,19 +100,19 @@ realistic proportions, photographic, 3d render, CGI, complex composition, abstra
 
 ### Toddler Book Scene
 
-```
+```text
 A simple scene with a big red apple and a friendly worm, toddler age group, simple shapes and bright colors, minimal detail, children's book illustration style, high quality, learning about colors
 ```
 
 ### Preschool Story Scene
 
-```
+```text
 A friendly bear family having a picnic in the forest, preschool age group, warm watercolor style, soft earth tones, cozy mood, children's book illustration style, high quality, family story scene
 ```
 
 ### Early Reader Adventure
 
-```
+```text
 A brave little mouse exploring a magical garden, early reader age group, detailed watercolor style, vibrant garden colors, adventurous mood, children's book illustration style, high quality, adventure story
 ```
 
@@ -120,7 +120,7 @@ A brave little mouse exploring a magical garden, early reader age group, detaile
 
 ### 1. Toddler Color Learning
 
-```
+```text
 A simple scene with a big red apple and a friendly worm, toddler age group, simple shapes and bright colors, minimal detail, children's book illustration style, high quality, learning about colors
 ```
 
@@ -128,7 +128,7 @@ A simple scene with a big red apple and a friendly worm, toddler age group, simp
 
 ### 2. Preschool Family Story
 
-```
+```text
 A friendly bear family having a picnic in the forest, preschool age group, warm watercolor style, soft earth tones, cozy mood, children's book illustration style, high quality, family story scene
 ```
 
@@ -136,7 +136,7 @@ A friendly bear family having a picnic in the forest, preschool age group, warm 
 
 ### 3. Adventure Story
 
-```
+```text
 A brave little mouse exploring a magical garden, early reader age group, detailed watercolor style, vibrant garden colors, adventurous mood, children's book illustration style, high quality, adventure story
 ```
 
@@ -144,7 +144,7 @@ A brave little mouse exploring a magical garden, early reader age group, detaile
 
 ### 4. Bedtime Story
 
-```
+```text
 A sleepy bunny in pajamas reading a book by lamplight, preschool age group, soft watercolor style, gentle pastels, soothing mood, children's book illustration style, high quality, bedtime story scene
 ```
 
@@ -152,7 +152,7 @@ A sleepy bunny in pajamas reading a book by lamplight, preschool age group, soft
 
 ### 5. Learning Numbers
 
-```
+```text
 A friendly elephant counting colorful balloons, toddler age group, simple shapes and bright colors, clear details, children's book illustration style, high quality, educational counting scene
 ```
 
@@ -160,7 +160,7 @@ A friendly elephant counting colorful balloons, toddler age group, simple shapes
 
 ### 6. Animal Friends
 
-```
+```text
 A group of woodland animals having a tea party, preschool age group, warm watercolor style, friendly expressions, children's book illustration style, high quality, friendship story scene
 ```
 
@@ -168,7 +168,7 @@ A group of woodland animals having a tea party, preschool age group, warm waterc
 
 ### 7. Magical Adventure
 
-```
+```text
 A young girl riding a friendly dragon through fluffy clouds, early reader age group, detailed watercolor style, bright fantasy colors, children's book illustration style, high quality, magical adventure story
 ```
 
@@ -176,7 +176,7 @@ A young girl riding a friendly dragon through fluffy clouds, early reader age gr
 
 ### 8. School Day Story
 
-```
+```text
 A happy child walking to school with a backpack, preschool age group, warm watercolor style, bright morning colors, children's book illustration style, high quality, school story scene
 ```
 
@@ -184,7 +184,7 @@ A happy child walking to school with a backpack, preschool age group, warm water
 
 ### 9. Ocean Adventure
 
-```
+```text
 A curious seal exploring a coral reef with colorful fish, early reader age group, detailed watercolor style, vibrant ocean colors, children's book illustration style, high quality, underwater adventure story
 ```
 
@@ -192,7 +192,7 @@ A curious seal exploring a coral reef with colorful fish, early reader age group
 
 ### 10. Seasonal Story
 
-```
+```text
 A family of foxes playing in autumn leaves, preschool age group, warm watercolor style, golden autumn colors, cozy mood, children's book illustration style, high quality, seasonal story scene
 ```
 
@@ -236,4 +236,4 @@ A family of foxes playing in autumn leaves, preschool age group, warm watercolor
 4. **Inconsistent style**: Maintain child-friendly aesthetic throughout
 5. **Missing story elements**: Include narrative and educational components
 
-Remember: Children's book illustration emphasizes safety, education, and emotional connection. Focus on age-appropriate content, warm colors, and friendly characters while maintaining the distinctive children's book aesthetic. 
+Remember: Children's book illustration emphasizes safety, education, and emotional connection. Focus on age-appropriate content, warm colors, and friendly characters while maintaining the distinctive children's book aesthetic.
