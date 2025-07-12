@@ -63,10 +63,9 @@
 
 ## Negative Prompts
 
-- "silent", "quiet", "motionless", "still"
-- "fake", "artificial", "posed", "staged"
-- "broken", "damaged", "out of tune", "poor quality"
-- "amateur", "unskilled", "untalented", "mediocre"
+```text
+silent, quiet, motionless, still, fake, artificial, posed, staged, broken, damaged, out of tune, poor quality, amateur, unskilled, untalented, mediocre
+```
 
 ## Sample Prompts by Category
 
