@@ -27,12 +27,14 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
+
 ```
 [subject/scene], [action/pose], [environment], [lighting], [technology], [cyberpunk style], [quality], [mood/atmosphere]
 ```
 
-### Example:
+### Example
+
 ```
 A cyberpunk street samurai with neon-lit cybernetic implants, walking through a rain-soaked neon-lit street, holographic advertisements everywhere, dramatic neon lighting, cyberpunk art style, highly detailed, dystopian atmosphere
 ```
@@ -69,24 +71,28 @@ A cyberpunk street samurai with neon-lit cybernetic implants, walking through a 
 
 ## Style-Specific Modifiers
 
-### Cyberpunk Quality Enhancers:
+### Cyberpunk Quality Enhancers
+
 ```
 cyberpunk art, futuristic art, sci-fi art, high-tech art, digital art, neon art, cyberpunk illustration, futuristic concept art, dystopian art
 ```
 
-### Artist References:
+### Artist References
+
 ```
 Syd Mead style, Moebius style, H.R. Giger style, Ralph McQuarrie style, Chris Foss style, John Berkey style
 ```
 
 ## Negative Prompts
 
-### Essential Cyberpunk Negatives:
+### Essential Cyberpunk Negatives
+
 ```
 medieval, fantasy, historical, ancient, traditional, rustic, natural, organic, low-tech, primitive, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
+
 ```
 pastel colors, soft lighting, vintage, retro, old-fashioned, traditional architecture, natural materials, wooden structures, historical clothing
 ```
@@ -94,16 +100,19 @@ pastel colors, soft lighting, vintage, retro, old-fashioned, traditional archite
 ## Sample Prompts by Category
 
 ### Classic Cyberpunk Character
+
 ```
 A cyberpunk street samurai with chrome cybernetic arm and neon-lit visor, wearing a leather jacket with holographic patches, standing in a neon-lit alley, rain falling, dramatic neon lighting, cyberpunk art style, highly detailed, dystopian atmosphere
 ```
 
 ### Futuristic Cityscape
+
 ```
 A mega-city with towering glass skyscrapers and flying cars, neon-lit streets and holographic advertisements, dramatic sunset with neon glow, futuristic cityscape art, highly detailed, high-tech atmosphere
 ```
 
 ### Space Colony Scene
+
 ```
 A futuristic space colony with domed habitats and solar panels, astronauts in advanced suits, Earth visible in the background, clean minimalist lighting, sci-fi art style, highly detailed, optimistic future atmosphere
 ```
@@ -111,6 +120,7 @@ A futuristic space colony with domed habitats and solar panels, astronauts in ad
 ## 10 Example Prompts
 
 ### 1. Cyberpunk Street Scene
+
 ```
 A rain-soaked neon-lit street with holographic advertisements, cyberpunk characters walking past, dramatic neon lighting, cyberpunk art style, highly detailed, dystopian urban atmosphere
 ```
@@ -118,6 +128,7 @@ A rain-soaked neon-lit street with holographic advertisements, cyberpunk charact
 ![image](assets/cyberpunk_street_scene.png)
 
 ### 2. Futuristic Space Station
+
 ```
 A massive space station orbiting Earth, with docking bays and solar panels, astronauts in advanced suits, clean lighting, futuristic space art, highly detailed, sci-fi atmosphere
 ```
@@ -125,6 +136,7 @@ A massive space station orbiting Earth, with docking bays and solar panels, astr
 ![image](assets/futuristic_space_station.png)
 
 ### 3. Corporate Office
+
 ```
 A high-tech corporate office with holographic displays and neural interfaces, business people in futuristic suits, clean lighting, cyberpunk corporate art, highly detailed, professional atmosphere
 ```
@@ -132,6 +144,7 @@ A high-tech corporate office with holographic displays and neural interfaces, bu
 ![image](assets/corporate_office.png)
 
 ### 4. Underground Hacker Den
+
 ```
 A hidden hacker den with multiple screens and data streams, cyberpunk hackers with neural implants, dim lighting, cyberpunk underground art, highly detailed, secretive atmosphere
 ```
@@ -139,6 +152,7 @@ A hidden hacker den with multiple screens and data streams, cyberpunk hackers wi
 ![image](assets/underground_hacker_den.png)
 
 ### 5. Flying Car Chase
+
 ```
 A high-speed chase between flying cars through a mega-city, neon lights and holographic billboards, dynamic lighting, futuristic action art, highly detailed, adrenaline atmosphere
 ```
@@ -146,6 +160,7 @@ A high-speed chase between flying cars through a mega-city, neon lights and holo
 ![image](assets/flying_car_chase.png)
 
 ### 6. Robot Factory
+
 ```
 A massive automated factory with robotic workers and assembly lines, industrial lighting, futuristic manufacturing art, highly detailed, industrial atmosphere
 ```
@@ -153,6 +168,7 @@ A massive automated factory with robotic workers and assembly lines, industrial 
 ![image](assets/robot_factory.png)
 
 ### 7. Virtual Reality Scene
+
 ```
 A person immersed in virtual reality with neural interface, digital world surrounding them, ethereal lighting, cyberpunk VR art, highly detailed, digital atmosphere
 ```
@@ -160,6 +176,7 @@ A person immersed in virtual reality with neural interface, digital world surrou
 ![image](assets/virtual_reality_scene.png)
 
 ### 8. Solarpunk Garden
+
 ```
 A sustainable futuristic garden with bioluminescent plants and solar technology, eco-friendly design, natural lighting, solarpunk art style, highly detailed, optimistic atmosphere
 ```
@@ -167,6 +184,7 @@ A sustainable futuristic garden with bioluminescent plants and solar technology,
 ![image](assets/solarpunk_garden.png)
 
 ### 9. Cybernetic Enhancement
+
 ```
 A person undergoing cybernetic enhancement surgery, medical robots and advanced equipment, clinical lighting, cyberpunk medical art, highly detailed, technological atmosphere
 ```
@@ -174,6 +192,7 @@ A person undergoing cybernetic enhancement surgery, medical robots and advanced 
 ![image](assets/cybernetic_enhancement.png)
 
 ### 10. AI Laboratory
+
 ```
 A high-tech AI laboratory with artificial intelligence displays and robotic assistants, scientists in futuristic lab coats, bright lighting, futuristic research art, highly detailed, scientific atmosphere
 ```
@@ -218,4 +237,4 @@ A high-tech AI laboratory with artificial intelligence displays and robotic assi
 4. **Inconsistent style**: Maintain cyberpunk/futuristic aesthetic throughout
 5. **Missing atmosphere**: Always include mood and technological atmosphere
 
-Remember: Cyberpunk and futuristic art emphasize technology, innovation, and the relationship between humans and machines. Focus on high-tech elements, neon aesthetics, and forward-thinking design while maintaining visual coherence. 
+Remember: Cyberpunk and futuristic art emphasize technology, innovation, and the relationship between humans and machines. Focus on high-tech elements, neon aesthetics, and forward-thinking design while maintaining visual coherence.

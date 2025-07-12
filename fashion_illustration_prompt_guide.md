@@ -26,13 +26,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```
 [fashion item], [style/category], [pose/action], [background], [lighting], [fashion style], [quality], [mood]
 ```
 
-### Example:
+### Example
 
 ```
 A fashion model wearing an elegant evening gown, haute couture style, dynamic pose, minimal background, studio lighting, fashion illustration style, high quality, sophisticated mood
@@ -70,13 +70,13 @@ A fashion model wearing an elegant evening gown, haute couture style, dynamic po
 
 ## Style-Specific Modifiers
 
-### Fashion Illustration Quality Enhancers:
+### Fashion Illustration Quality Enhancers
 
 ```
 fashion illustration, fashion art, fashion design, fashion sketch, fashion drawing, professional fashion, fashion model, fashion photography
 ```
 
-### Fashion References:
+### Fashion References
 
 ```
 Vogue style, Harper's Bazaar style, Elle style, fashion magazine, runway fashion, haute couture, designer fashion
@@ -84,13 +84,13 @@ Vogue style, Harper's Bazaar style, Elle style, fashion magazine, runway fashion
 
 ## Negative Prompts
 
-### Essential Fashion Negatives:
+### Essential Fashion Negatives
 
 ```
 realistic proportions, normal proportions, everyday clothing, casual wear, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```
 amateur photography, poor lighting, bad composition, unrealistic poses, impossible anatomy, cartoon, anime, manga
@@ -236,4 +236,4 @@ A fashion illustration focusing on jewelry and accessories, elegant composition,
 4. **Missing fashion elements**: Include clothing and accessory details
 5. **Wrong mood**: Match mood to fashion category and style
 
-Remember: Fashion illustration emphasizes elegance, style, and professional presentation. Focus on fashion-appropriate proportions, clothing details, and contemporary style while maintaining the distinctive fashion illustration aesthetic. 
+Remember: Fashion illustration emphasizes elegance, style, and professional presentation. Focus on fashion-appropriate proportions, clothing details, and contemporary style while maintaining the distinctive fashion illustration aesthetic.

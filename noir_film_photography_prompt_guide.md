@@ -26,13 +26,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```
 [subject/scene], [noir elements], [lighting], [environment], [film style], [quality], [mood/atmosphere]
 ```
 
-### Example:
+### Example
 
 ```
 A detective in a trench coat, dramatic shadows and high contrast, rain-soaked city street, film noir photography style, high quality, mysterious atmosphere
@@ -70,13 +70,13 @@ A detective in a trench coat, dramatic shadows and high contrast, rain-soaked ci
 
 ## Style-Specific Modifiers
 
-### Noir Quality Enhancers:
+### Noir Quality Enhancers
 
 ```
 film noir, noir photography, black and white photography, dramatic photography, moody photography, vintage photography, classic film, noir art
 ```
 
-### Film References:
+### Film References
 
 ```
 Casablanca style, The Maltese Falcon style, Double Indemnity style, classic noir film, vintage film photography, retro photography
@@ -84,13 +84,13 @@ Casablanca style, The Maltese Falcon style, Double Indemnity style, classic noir
 
 ## Negative Prompts
 
-### Essential Noir Negatives:
+### Essential Noir Negatives
 
 ```
 color photography, bright lighting, cheerful mood, happy atmosphere, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```
 modern photography, digital photography, bright colors, sunny day, cheerful scene, happy mood, light atmosphere
@@ -236,4 +236,4 @@ A mysterious figure in a dramatic environment, high contrast lighting with deep 
 4. **Modern elements**: Include vintage, retro elements
 5. **Poor contrast**: Emphasize dramatic shadows and contrast
 
-Remember: Noir and film photography emphasize mystery, drama, and atmospheric storytelling. Focus on dramatic lighting, high contrast, and moody environments while maintaining the distinctive noir aesthetic. 
+Remember: Noir and film photography emphasize mystery, drama, and atmospheric storytelling. Focus on dramatic lighting, high contrast, and moody environments while maintaining the distinctive noir aesthetic.

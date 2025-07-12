@@ -26,13 +26,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```
 [subject/scene], [pixel art style], [color palette], [resolution], [game era], [quality], [mood]
 ```
 
-### Example:
+### Example
 
 ```
 A pixel art character sprite, 16-bit style with limited color palette, high resolution pixel art, retro game art style, high quality, nostalgic mood
@@ -70,13 +70,13 @@ A pixel art character sprite, 16-bit style with limited color palette, high reso
 
 ## Style-Specific Modifiers
 
-### Pixel Art Quality Enhancers:
+### Pixel Art Quality Enhancers
 
 ```
 pixel art, retro game art, 8-bit art, 16-bit art, sprite art, pixel perfect, retro gaming, classic game art, modern pixel art
 ```
 
-### Game References:
+### Game References
 
 ```
 Super Mario style, Zelda style, Final Fantasy style, Sonic style, Mega Man style, Pokemon style
@@ -84,13 +84,13 @@ Super Mario style, Zelda style, Final Fantasy style, Sonic style, Mega Man style
 
 ## Negative Prompts
 
-### Essential Pixel Art Negatives:
+### Essential Pixel Art Negatives
 
 ```
 smooth art, vector art, high resolution, realistic, photorealistic, 3d render, CGI, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```
 watercolor, oil painting, acrylic painting, sketch, cartoon, anime, manga, flat design, minimalist art
@@ -236,4 +236,4 @@ A pixel art retro game scene, 16-bit style with multiple sprites, expanded color
 4. **Inconsistent style**: Maintain pixel art aesthetic throughout
 5. **Missing resolution**: Specify pixel resolution for authenticity
 
-Remember: Pixel art and retro game styles emphasize deliberate pixel placement, limited color palettes, and nostalgic gaming aesthetics. Focus on clean pixels, appropriate resolutions, and retro color schemes while maintaining the distinctive pixel art aesthetic. 
+Remember: Pixel art and retro game styles emphasize deliberate pixel placement, limited color palettes, and nostalgic gaming aesthetics. Focus on clean pixels, appropriate resolutions, and retro color schemes while maintaining the distinctive pixel art aesthetic.

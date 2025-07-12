@@ -23,13 +23,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```
 [subject], [action/pose], [lighting], [camera settings], [style], [quality], [composition], [mood/atmosphere]
 ```
 
-### Example:
+### Example
 
 ```
 A majestic lion, standing proudly on a rocky outcrop, golden hour lighting, shot on Canon EOS R5 with 200mm f/2.8 lens, shallow depth of field, photorealistic, 8K resolution, rule of thirds composition, dramatic atmosphere, National Geographic style
@@ -64,13 +64,13 @@ A majestic lion, standing proudly on a rocky outcrop, golden hour lighting, shot
 
 ## Negative Prompts (What to Avoid)
 
-### Essential Negative Prompts:
+### Essential Negative Prompts
 
 ```
 blurry, low quality, pixelated, distorted, deformed, ugly, bad anatomy, watermark, signature, text, oversaturated, cartoon, anime, painting, drawing, illustration
 ```
 
-### Advanced Negative Prompts:
+### Advanced Negative Prompts
 
 ```
 low resolution, poor lighting, amateur photography, cell phone photo, grainy, noisy, out of focus, motion blur, chromatic aberration, lens flare, vignette
@@ -107,6 +107,7 @@ wildlife photography, natural habitat, environmental portrait, telephoto lens, s
 ### 1. **Weighting System**
 
 Use parentheses and numbers to emphasize elements:
+
 - `(photorealistic:1.2)` - 20% more emphasis
 - `(golden hour lighting:1.5)` - 50% more emphasis
 - `(blurry:-1.2)` - 20% less emphasis in negative prompts
@@ -114,6 +115,7 @@ Use parentheses and numbers to emphasize elements:
 ### 2. **Sequential Prompting**
 
 Break complex scenes into parts:
+
 ```
 "professional studio setup, three-point lighting, (subject), (pose), (expression), (clothing), (background), photorealistic, 8K resolution"
 ```
@@ -253,4 +255,4 @@ Abstract light patterns and colors, creative photography, experimental lighting,
 - Learn photography terminology
 - Understand lighting and composition principles
 
-Remember: The best prompts are specific, technical, and well-structured. Practice and experimentation are key to mastering Stable Diffusion prompt engineering. 
+Remember: The best prompts are specific, technical, and well-structured. Practice and experimentation are key to mastering Stable Diffusion prompt engineering.

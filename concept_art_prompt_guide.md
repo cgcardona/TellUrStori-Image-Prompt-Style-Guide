@@ -26,13 +26,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```
 [subject type], [design purpose], [style/technique], [presentation], [concept art style], [quality], [industry standard]
 ```
 
-### Example:
+### Example
 
 ```
 A fantasy warrior character concept, detailed costume design with multiple views, digital painting technique, professional presentation, concept art style, high quality, industry standard
@@ -70,13 +70,13 @@ A fantasy warrior character concept, detailed costume design with multiple views
 
 ## Style-Specific Modifiers
 
-### Concept Art Quality Enhancers:
+### Concept Art Quality Enhancers
 
 ```
 concept art, character design, environment design, concept illustration, professional concept art, industry standard, design concept, concept sketch
 ```
 
-### Industry References:
+### Industry References
 
 ```
 film concept art, game concept art, animation concept art, illustration concept art, production design, visual development
@@ -84,13 +84,13 @@ film concept art, game concept art, animation concept art, illustration concept 
 
 ## Negative Prompts
 
-### Essential Concept Art Negatives:
+### Essential Concept Art Negatives
 
 ```
 finished illustration, final artwork, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```
 amateur art, sketchy, unfinished, rough, messy, unclear, confusing, poorly designed
@@ -236,4 +236,4 @@ A fantasy creature anatomy concept, detailed skeletal and muscular structure, mu
 4. **Unclear purpose**: Specify design purpose and application
 5. **Missing quality**: Maintain industry-standard quality throughout
 
-Remember: Concept art emphasizes design exploration, clear communication, and professional presentation. Focus on design purpose, presentation quality, and industry standards while maintaining the distinctive concept art aesthetic. 
+Remember: Concept art emphasizes design exploration, clear communication, and professional presentation. Focus on design purpose, presentation quality, and industry standards while maintaining the distinctive concept art aesthetic.

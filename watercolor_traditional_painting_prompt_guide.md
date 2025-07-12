@@ -26,13 +26,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```
 [subject/scene], [painting technique], [brushwork style], [color palette], [texture], [traditional style], [quality], [mood]
 ```
 
-### Example:
+### Example
 
 ```
 A serene lake landscape, watercolor painting with soft washes, loose brushwork, cool blue and green palette, paper texture visible, traditional watercolor art style, high quality, peaceful mood
@@ -70,13 +70,13 @@ A serene lake landscape, watercolor painting with soft washes, loose brushwork, 
 
 ## Style-Specific Modifiers
 
-### Watercolor Quality Enhancers:
+### Watercolor Quality Enhancers
 
 ```
 watercolor painting, traditional watercolor, professional watercolor, watercolor art, watercolor illustration, watercolor technique, traditional painting, artist quality watercolor
 ```
 
-### Traditional Painting References:
+### Traditional Painting References
 
 ```
 impressionist style, expressionist style, realistic painting, traditional oil painting, acrylic painting, gouache painting, ink painting, traditional art
@@ -84,13 +84,13 @@ impressionist style, expressionist style, realistic painting, traditional oil pa
 
 ## Negative Prompts
 
-### Essential Watercolor Negatives:
+### Essential Watercolor Negatives
 
 ```
 digital art, computer generated, vector art, flat design, geometric, mechanical, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```
 photographic, realistic, 3d render, CGI, digital illustration, flat colors, geometric shapes, modern design, contemporary art
@@ -216,4 +216,4 @@ A rural landscape, traditional painting with detailed brushwork and natural colo
 4. **Inconsistent technique**: Maintain traditional painting style throughout
 5. **Missing texture**: Include surface and texture descriptions
 
-Remember: Watercolor and traditional painting emphasize the organic, hand-crafted nature of art. Focus on paint textures, brushwork, and traditional techniques while avoiding digital or mechanical qualities. 
+Remember: Watercolor and traditional painting emphasize the organic, hand-crafted nature of art. Focus on paint textures, brushwork, and traditional techniques while avoiding digital or mechanical qualities.

@@ -27,13 +27,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```
 [main subject], [simple composition], [limited elements], [flat design], [color palette], [minimalist style], [quality], [purpose]
 ```
 
-### Example:
+### Example
 
 ```
 A single tree silhouette, centered composition with generous white space, flat design with solid colors, minimalist art style, clean and simple, high quality
@@ -71,13 +71,13 @@ A single tree silhouette, centered composition with generous white space, flat d
 
 ## Style-Specific Modifiers
 
-### Minimalist Quality Enhancers:
+### Minimalist Quality Enhancers
 
 ```
 minimalist art, flat design, clean design, simple art, geometric art, modern minimalist, contemporary minimalist, clean illustration, flat illustration
 ```
 
-### Design References:
+### Design References
 
 ```
 Swiss design style, Bauhaus style, Scandinavian design style, Japanese minimalist style, modern flat design, contemporary minimalist
@@ -85,13 +85,13 @@ Swiss design style, Bauhaus style, Scandinavian design style, Japanese minimalis
 
 ## Negative Prompts
 
-### Essential Minimalist Negatives:
+### Essential Minimalist Negatives
 
 ```
 cluttered, busy, complex, detailed, ornate, decorative, realistic, photorealistic, 3d, gradients, shadows, textures, patterns, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```
 realistic lighting, photographic, detailed textures, complex backgrounds, multiple elements, busy composition, ornate details, decorative elements
@@ -237,4 +237,4 @@ A minimalist composition with essential elements only, clean design with generou
 4. **Inconsistent style**: Maintain minimalist aesthetic throughout
 5. **Missing focus**: Ensure clear visual hierarchy and focal points
 
-Remember: Minimalist and flat design emphasize simplicity, clarity, and essential elements. Focus on clean compositions, limited color palettes, and clear visual communication while avoiding unnecessary complexity. 
+Remember: Minimalist and flat design emphasize simplicity, clarity, and essential elements. Focus on clean compositions, limited color palettes, and clear visual communication while avoiding unnecessary complexity.

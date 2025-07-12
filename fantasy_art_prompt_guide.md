@@ -26,12 +26,14 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
+
 ```
 [subject/scene], [action/pose], [environment], [lighting], [magical elements], [fantasy style], [quality], [mood/atmosphere]
 ```
 
-### Example:
+### Example
+
 ```
 A majestic dragon perched on a mountain peak, wings spread wide, mystical floating islands in the background, dramatic sunset lighting with magical aurora, high fantasy art style, highly detailed, epic atmosphere
 ```
@@ -68,24 +70,28 @@ A majestic dragon perched on a mountain peak, wings spread wide, mystical floati
 
 ## Style-Specific Modifiers
 
-### Fantasy Quality Enhancers:
+### Fantasy Quality Enhancers
+
 ```
 fantasy art, high fantasy, epic fantasy, magical art, mystical illustration, fantasy concept art, detailed fantasy, professional fantasy illustration, otherworldly art
 ```
 
-### Artist References:
+### Artist References
+
 ```
 Frank Frazetta style, Boris Vallejo style, Larry Elmore style, Todd Lockwood style, Michael Whelan style, Donato Giancola style
 ```
 
 ## Negative Prompts
 
-### Essential Fantasy Negatives:
+### Essential Fantasy Negatives
+
 ```
 realistic, photorealistic, modern, contemporary, mundane, everyday, boring, simple, low quality, blurry, pixelated, distorted, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
+
 ```
 sci-fi, futuristic, technological, urban, cityscape, modern architecture, contemporary fashion, realistic proportions, photographic
 ```
@@ -93,16 +99,19 @@ sci-fi, futuristic, technological, urban, cityscape, modern architecture, contem
 ## Sample Prompts by Category
 
 ### High Fantasy Character
+
 ```
 A noble elven warrior with flowing silver hair and glowing blue eyes, wearing ornate golden armor with magical runes, standing on a floating crystal platform, ethereal lighting with magical particles, high fantasy art style, highly detailed, epic hero pose
 ```
 
 ### Dark Fantasy Scene
+
 ```
 A dark sorcerer in flowing black robes with glowing red eyes, casting dark magic in a gothic cathedral, dramatic shadows and ominous lighting, dark fantasy art style, highly detailed, sinister atmosphere
 ```
 
 ### Fantasy Landscape
+
 ```
 A mystical floating city with crystal spires and magical bridges, surrounded by ethereal clouds and floating islands, golden hour lighting with magical aurora, fantasy landscape art, highly detailed, otherworldly atmosphere
 ```
@@ -110,6 +119,7 @@ A mystical floating city with crystal spires and magical bridges, surrounded by 
 ## 10 Example Prompts
 
 ### 1. Dragon Rider
+
 ```
 A brave warrior riding a majestic dragon, soaring over a fantasy landscape, dramatic sunset lighting, high fantasy art style, highly detailed, epic adventure atmosphere
 ```
@@ -117,6 +127,7 @@ A brave warrior riding a majestic dragon, soaring over a fantasy landscape, dram
 ![image](assets/atmospheric_abstract.png)
 
 ### 2. Enchanted Forest
+
 ```
 A mystical forest with glowing mushrooms and ethereal mist, magical creatures hidden among ancient trees, soft magical lighting, fantasy landscape art, highly detailed, mysterious atmosphere
 ```
@@ -124,6 +135,7 @@ A mystical forest with glowing mushrooms and ethereal mist, magical creatures hi
 ![image](assets/atmospheric_abstract.png)
 
 ### 3. Wizard's Tower
+
 ```
 A towering wizard's tower with magical energy swirling around it, floating in a mystical realm, dramatic lighting with magical effects, fantasy architecture art, highly detailed, magical atmosphere
 ```
@@ -131,6 +143,7 @@ A towering wizard's tower with magical energy swirling around it, floating in a 
 ![image](assets/atmospheric_abstract.png)
 
 ### 4. Battle Scene
+
 ```
 A massive battle between fantasy armies, with magical spells and flying creatures, epic scale composition, dramatic lighting, high fantasy art style, highly detailed, intense action atmosphere
 ```
@@ -138,6 +151,7 @@ A massive battle between fantasy armies, with magical spells and flying creature
 ![image](assets/atmospheric_abstract.png)
 
 ### 5. Fairy Tale Castle
+
 ```
 A beautiful castle floating on clouds, with rainbow bridges and magical gardens, golden hour lighting, fantasy architecture art, highly detailed, dreamlike atmosphere
 ```
@@ -145,6 +159,7 @@ A beautiful castle floating on clouds, with rainbow bridges and magical gardens,
 ![image](assets/atmospheric_abstract.png)
 
 ### 6. Dark Sorcerer
+
 ```
 A powerful dark sorcerer casting forbidden magic, surrounded by dark energy and shadowy creatures, ominous lighting, dark fantasy art style, highly detailed, sinister atmosphere
 ```
@@ -152,6 +167,7 @@ A powerful dark sorcerer casting forbidden magic, surrounded by dark energy and 
 ![image](assets/atmospheric_abstract.png)
 
 ### 7. Mythical Beast
+
 ```
 A majestic unicorn with glowing horn and ethereal mane, standing in a crystal cave, magical lighting, fantasy creature art, highly detailed, mystical atmosphere
 ```
@@ -159,6 +175,7 @@ A majestic unicorn with glowing horn and ethereal mane, standing in a crystal ca
 ![image](assets/atmospheric_abstract.png)
 
 ### 8. Fantasy City
+
 ```
 A sprawling fantasy city with flying ships and magical architecture, bustling with magical creatures, warm lighting, fantasy urban art, highly detailed, vibrant atmosphere
 ```
@@ -166,6 +183,7 @@ A sprawling fantasy city with flying ships and magical architecture, bustling wi
 ![image](assets/atmospheric_abstract.png)
 
 ### 9. Elemental Battle
+
 ```
 A battle between elemental beings, fire, water, earth, and air clashing in spectacular fashion, dynamic lighting, fantasy action art, highly detailed, elemental atmosphere
 ```
@@ -173,6 +191,7 @@ A battle between elemental beings, fire, water, earth, and air clashing in spect
 ![image](assets/atmospheric_abstract.png)
 
 ### 10. Ancient Ruins
+
 ```
 Mysterious ancient ruins with magical inscriptions and glowing artifacts, overgrown with mystical plants, atmospheric lighting, fantasy exploration art, highly detailed, mysterious atmosphere
 ```
@@ -217,4 +236,4 @@ Mysterious ancient ruins with magical inscriptions and glowing artifacts, overgr
 4. **Inconsistent style**: Maintain fantasy aesthetic throughout the prompt
 5. **Missing atmosphere**: Always include mood and atmospheric elements
 
-Remember: Fantasy art thrives on imagination and otherworldly elements. Focus on magical, mystical, and epic qualities while maintaining visual coherence and artistic quality. 
+Remember: Fantasy art thrives on imagination and otherworldly elements. Focus on magical, mystical, and epic qualities while maintaining visual coherence and artistic quality.

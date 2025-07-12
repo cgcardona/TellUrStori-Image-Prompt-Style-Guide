@@ -27,13 +27,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```
 [main subject], [surreal elements], [impossible scene], [lighting], [symbolic elements], [surrealist style], [quality], [mood/emotion]
 ```
 
-### Example:
+### Example
 
 ```
 A melting clock draped over a barren tree branch, floating in an infinite desert landscape, impossible shadows cast by multiple suns, surrealist art style, highly detailed, dreamlike atmosphere
@@ -71,13 +71,13 @@ A melting clock draped over a barren tree branch, floating in an infinite desert
 
 ## Style-Specific Modifiers
 
-### Surrealist Quality Enhancers:
+### Surrealist Quality Enhancers
 
 ```
 surrealist art, dreamlike art, surreal illustration, symbolic art, metaphysical art, surrealist painting, dream art, impossible art, surrealist style
 ```
 
-### Artist References:
+### Artist References
 
 ```
 Salvador Dalí style, René Magritte style, Max Ernst style, Frida Kahlo style, Giorgio de Chirico style, Yves Tanguy style
@@ -85,13 +85,13 @@ Salvador Dalí style, René Magritte style, Max Ernst style, Frida Kahlo style, 
 
 ## Negative Prompts
 
-### Essential Surrealist Negatives:
+### Essential Surrealist Negatives
 
 ```
 realistic, photorealistic, normal, ordinary, everyday, mundane, logical, rational, realistic proportions, realistic physics, realistic lighting, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```
 conventional, traditional, realistic architecture, normal objects, everyday scenes, logical composition, realistic perspective, photographic
@@ -217,4 +217,4 @@ A world where solid objects are made of liquid, with flowing buildings and liqui
 4. **Inconsistent style**: Maintain surrealist aesthetic throughout
 5. **Missing symbolism**: Include symbolic and metaphorical elements
 
-Remember: Surrealism and dreamlike art thrive on the impossible, the unconscious, and the symbolic. Focus on creating scenes that defy logic and reality while maintaining emotional and psychological depth. 
+Remember: Surrealism and dreamlike art thrive on the impossible, the unconscious, and the symbolic. Focus on creating scenes that defy logic and reality while maintaining emotional and psychological depth.
