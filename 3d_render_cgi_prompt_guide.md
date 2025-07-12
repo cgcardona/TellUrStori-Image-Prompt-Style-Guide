@@ -26,13 +26,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```text
 [subject/scene], [3d technique], [lighting], [materials], [perspective], [render style], [quality], [purpose]
 ```
 
-### Example:
+### Example
 
 ```text
 A modern chair in a minimalist room, 3D render with studio lighting, chrome and leather materials, three-quarter perspective, photorealistic render style, high quality, product visualization
@@ -70,13 +70,13 @@ A modern chair in a minimalist room, 3D render with studio lighting, chrome and 
 
 ## Style-Specific Modifiers
 
-### 3D Render Quality Enhancers:
+### 3D Render Quality Enhancers
 
 ```text
 3D render, CGI, computer generated, 3D visualization, photorealistic render, professional 3D, high-quality render, 3D modeling, digital 3D
 ```
 
-### Software References:
+### Software References
 
 ```text
 Blender render, Maya render, 3ds Max render, Cinema 4D render, V-Ray render, Arnold render, Octane render, Redshift render
@@ -84,13 +84,13 @@ Blender render, Maya render, 3ds Max render, Cinema 4D render, V-Ray render, Arn
 
 ## Negative Prompts
 
-### Essential 3D Render Negatives:
+### Essential 3D Render Negatives
 
 ```text
 2D art, painting, drawing, illustration, traditional art, hand-drawn, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```text
 watercolor, oil painting, acrylic painting, sketch, cartoon, anime, manga, flat design, minimalist art
