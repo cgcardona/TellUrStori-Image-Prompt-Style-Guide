@@ -26,13 +26,13 @@
 
 ## Essential Prompt Structure
 
-### Base Template:
+### Base Template
 
 ```text
 [abstract elements], [composition style], [color palette], [technique], [abstract style], [quality], [mood/emotion]
 ```
 
-### Example:
+### Example
 
 ```text
 Abstract geometric shapes, dynamic composition with bold colors, gestural brushwork, expressionist abstract art style, high quality, energetic mood
@@ -70,13 +70,13 @@ Abstract geometric shapes, dynamic composition with bold colors, gestural brushw
 
 ## Style-Specific Modifiers
 
-### Abstract Art Quality Enhancers:
+### Abstract Art Quality Enhancers
 
 ```text
 abstract art, abstract painting, abstract composition, abstract design, contemporary abstract, modern abstract, abstract expressionism, abstract art style
 ```
 
-### Artist References:
+### Artist References
 
 ```text
 Jackson Pollock style, Mark Rothko style, Piet Mondrian style, Wassily Kandinsky style, abstract expressionist, modern abstract artist
@@ -84,13 +84,13 @@ Jackson Pollock style, Mark Rothko style, Piet Mondrian style, Wassily Kandinsky
 
 ## Negative Prompts
 
-### Essential Abstract Negatives:
+### Essential Abstract Negatives
 
 ```text
 realistic, representational, figurative, recognizable objects, photographic, literal, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
-### Advanced Negatives:
+### Advanced Negatives
 
 ```text
 traditional art, classical art, realistic painting, figurative art, representational art, literal interpretation
@@ -236,4 +236,4 @@ Abstract atmospheric painting, ethereal composition with subtle colors, soft col
 4. **Inconsistent style**: Keep abstract aesthetic throughout
 5. **Missing emotion**: Include emotional or expressive elements
 
-Remember: Abstract art emphasizes non-representational forms, emotional expression, and artistic creativity. Focus on color, composition, and technique while avoiding literal or realistic representation. 
+Remember: Abstract art emphasizes non-representational forms, emotional expression, and artistic creativity. Focus on color, composition, and technique while avoiding literal or realistic representation.
