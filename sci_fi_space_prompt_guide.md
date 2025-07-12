@@ -62,10 +62,9 @@
 
 ## Negative Prompts
 
-- "medieval", "ancient", "primitive", "low technology"
-- "earth-like", "terrestrial", "familiar", "ordinary"
-- "organic", "natural", "biological", "earthly"
-- "simple", "basic", "crude", "primitive"
+```text
+medieval, ancient, primitive, low technology, earth-like, terrestrial, familiar, ordinary, organic, natural, biological, earthly, simple, basic, crude, primitive
+```
 
 ## Sample Prompts by Category
 
