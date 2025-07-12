@@ -34,9 +34,7 @@
 
 ### Example
 
-```text
 A modern chair in a minimalist room, 3D render with studio lighting, chrome and leather materials, three-quarter perspective, photorealistic render style, high quality, product visualization
-```
 
 ## Advanced Techniques
 
