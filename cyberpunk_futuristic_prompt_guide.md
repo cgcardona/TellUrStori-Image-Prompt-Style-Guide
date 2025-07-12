@@ -115,50 +115,70 @@ A futuristic space colony with domed habitats and solar panels, astronauts in ad
 A rain-soaked neon-lit street with holographic advertisements, cyberpunk characters walking past, dramatic neon lighting, cyberpunk art style, highly detailed, dystopian urban atmosphere
 ```
 
+![image](assets/cyberpunk_street_scene.png)
+
 ### 2. Futuristic Space Station
 ```
 A massive space station orbiting Earth, with docking bays and solar panels, astronauts in advanced suits, clean lighting, futuristic space art, highly detailed, sci-fi atmosphere
 ```
+
+![image](assets/futuristic_space_station.png)
 
 ### 3. Corporate Office
 ```
 A high-tech corporate office with holographic displays and neural interfaces, business people in futuristic suits, clean lighting, cyberpunk corporate art, highly detailed, professional atmosphere
 ```
 
+![image](assets/corporate_office.png)
+
 ### 4. Underground Hacker Den
 ```
 A hidden hacker den with multiple screens and data streams, cyberpunk hackers with neural implants, dim lighting, cyberpunk underground art, highly detailed, secretive atmosphere
 ```
+
+![image](assets/underground_hacker_den.png)
 
 ### 5. Flying Car Chase
 ```
 A high-speed chase between flying cars through a mega-city, neon lights and holographic billboards, dynamic lighting, futuristic action art, highly detailed, adrenaline atmosphere
 ```
 
+![image](assets/flying_car_chase.png)
+
 ### 6. Robot Factory
 ```
 A massive automated factory with robotic workers and assembly lines, industrial lighting, futuristic manufacturing art, highly detailed, industrial atmosphere
 ```
+
+![image](assets/robot_factory.png)
 
 ### 7. Virtual Reality Scene
 ```
 A person immersed in virtual reality with neural interface, digital world surrounding them, ethereal lighting, cyberpunk VR art, highly detailed, digital atmosphere
 ```
 
+![image](assets/virtual_reality_scene.png)
+
 ### 8. Solarpunk Garden
 ```
 A sustainable futuristic garden with bioluminescent plants and solar technology, eco-friendly design, natural lighting, solarpunk art style, highly detailed, optimistic atmosphere
 ```
+
+![image](assets/solarpunk_garden.png)
 
 ### 9. Cybernetic Enhancement
 ```
 A person undergoing cybernetic enhancement surgery, medical robots and advanced equipment, clinical lighting, cyberpunk medical art, highly detailed, technological atmosphere
 ```
 
+![image](assets/cybernetic_enhancement.png)
+
 ### 10. AI Laboratory
 ```
 A high-tech AI laboratory with artificial intelligence displays and robotic assistants, scientists in futuristic lab coats, bright lighting, futuristic research art, highly detailed, scientific atmosphere
 ```
+
+![image](assets/ai_laboratory.png)
 
 ## Advanced Tips
 

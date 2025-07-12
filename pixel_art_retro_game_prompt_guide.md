@@ -124,11 +124,15 @@ A modern pixel art landscape, high-resolution pixels with rich color palette, co
 A pixel art character sprite, 8-bit style with limited color palette, 16x16 resolution, retro game art style, high quality, nostalgic mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 2. 16-bit RPG Scene
 
 ```
 A pixel art RPG scene, 16-bit style with expanded color palette, detailed sprites, retro game art style, high quality, fantasy atmosphere
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 3. Modern Pixel Art
 
@@ -136,11 +140,15 @@ A pixel art RPG scene, 16-bit style with expanded color palette, detailed sprite
 A modern pixel art landscape, high-resolution pixels with rich color palette, contemporary pixel art style, high quality, artistic mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 4. Platformer Sprite
 
 ```
 A pixel art platformer character, 16-bit style with jumping pose, limited color palette, retro game art style, high quality, action mood
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 5. Arcade Sprite
 
@@ -148,11 +156,15 @@ A pixel art platformer character, 16-bit style with jumping pose, limited color 
 A pixel art arcade character, 8-bit style with simple design, limited colors, classic arcade art style, high quality, retro mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 6. RPG Character
 
 ```
 A pixel art RPG character, 16-bit style with detailed design, expanded color palette, retro game art style, high quality, fantasy mood
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 7. Strategy Game Sprite
 
@@ -160,11 +172,15 @@ A pixel art RPG character, 16-bit style with detailed design, expanded color pal
 A pixel art strategy game unit, 16-bit style with tactical pose, limited color palette, retro game art style, high quality, strategic mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 8. Isometric Scene
 
 ```
 A pixel art isometric scene, 16-bit style with 3D perspective, expanded color palette, retro game art style, high quality, architectural mood
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 9. Modern Pixel Portrait
 
@@ -172,11 +188,15 @@ A pixel art isometric scene, 16-bit style with 3D perspective, expanded color pa
 A modern pixel art portrait, high-resolution pixels with rich colors, contemporary pixel art style, high quality, artistic mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 10. Retro Game Scene
 
 ```
 A pixel art retro game scene, 16-bit style with multiple sprites, expanded color palette, retro game art style, high quality, nostalgic atmosphere
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ## Advanced Tips
 

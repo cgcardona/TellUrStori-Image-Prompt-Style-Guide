@@ -124,11 +124,15 @@ A fashion illustration of luxury handbags and shoes, elegant composition, minima
 A fashion model wearing an elaborate haute couture gown, elegant pose with flowing fabric, minimal background, studio lighting, fashion illustration style, high quality, luxury mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 2. Streetwear Fashion
 
 ```
 A fashion model wearing contemporary streetwear, dynamic urban pose, city background, natural lighting, fashion illustration style, high quality, trendy mood
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 3. Fashion Accessories
 
@@ -136,11 +140,15 @@ A fashion model wearing contemporary streetwear, dynamic urban pose, city backgr
 A fashion illustration of luxury handbags and shoes, elegant composition, minimal background, studio lighting, fashion illustration style, high quality, sophisticated mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 4. Evening Wear
 
 ```
 A fashion model wearing an elegant evening dress, sophisticated pose, minimal background, studio lighting, fashion illustration style, high quality, glamorous mood
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 5. Business Fashion
 
@@ -148,11 +156,15 @@ A fashion model wearing an elegant evening dress, sophisticated pose, minimal ba
 A fashion model wearing a business suit, professional pose, office background, natural lighting, fashion illustration style, high quality, professional mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 6. Casual Fashion
 
 ```
 A fashion model wearing casual clothing, relaxed pose, urban background, natural lighting, fashion illustration style, high quality, comfortable mood
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 7. Vintage Fashion
 
@@ -160,11 +172,15 @@ A fashion model wearing casual clothing, relaxed pose, urban background, natural
 A fashion model wearing vintage clothing, classic pose, retro background, warm lighting, fashion illustration style, high quality, nostalgic mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 8. Wedding Fashion
 
 ```
 A fashion model wearing a wedding dress, elegant pose, minimal background, soft lighting, fashion illustration style, high quality, romantic mood
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 9. Swimwear Fashion
 
@@ -172,11 +188,15 @@ A fashion model wearing a wedding dress, elegant pose, minimal background, soft 
 A fashion model wearing swimwear, dynamic pose, beach background, natural lighting, fashion illustration style, high quality, summer mood
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 10. Accessories Focus
 
 ```
 A fashion illustration focusing on jewelry and accessories, elegant composition, minimal background, studio lighting, fashion illustration style, high quality, luxury mood
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ## Advanced Tips
 

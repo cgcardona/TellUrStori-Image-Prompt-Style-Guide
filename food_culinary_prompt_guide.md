@@ -92,50 +92,70 @@
 An elegant plated dish with fine dining presentation, professional lighting, restaurant quality, culinary art, food photography style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 2. Chef's Special
 ```
 A chef's special dish with artistic plating, professional kitchen, culinary expertise, fine dining atmosphere, food photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 3. Gourmet Ingredients
 ```
 Premium ingredients with fresh produce, professional food photography, culinary quality, food styling, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 4. Wine Pairing
 ```
 A fine dining meal with wine pairing, elegant table setting, restaurant atmosphere, culinary experience, food photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 5. Dessert Course
 ```
 An elegant dessert with pastry chef creation, fine dining presentation, culinary artistry, food photography style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 6. Family Meal
 ```
 A homestyle cooking scene with family meal, comfortable atmosphere, natural lighting, home kitchen, food photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 7. Baking Scene
 ```
 Fresh baked goods in home kitchen, warm lighting, homemade atmosphere, baking scene, food photography style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 8. Comfort Food
 ```
 Comfort food with homestyle cooking, cozy atmosphere, family recipe, home cooking style, food photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 9. Garden Fresh
 ```
 Garden fresh vegetables for home cooking, natural ingredients, farm to table, organic food, food photography style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 10. Sunday Dinner
 ```
 A sunday family dinner with traditional meal, home kitchen, warm atmosphere, family gathering, food photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ## Advanced Tips
 

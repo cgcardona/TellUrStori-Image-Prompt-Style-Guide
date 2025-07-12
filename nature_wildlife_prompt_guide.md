@@ -94,11 +94,15 @@
 A majestic lion in close-up portrait, golden mane, amber eyes, natural lighting, african savanna background, wildlife photography style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 2. Eagle in Flight
 
 ```
 A bald eagle soaring through sky, spread wings, dramatic clouds, natural flight, wilderness setting, wildlife photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 3. Wolf Pack
 
@@ -106,11 +110,15 @@ A bald eagle soaring through sky, spread wings, dramatic clouds, natural flight,
 A wolf pack in social interaction, natural behavior, forest environment, misty atmosphere, wild wolves, wildlife photography style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 4. Elephant Family
 
 ```
 An elephant family with matriarch leading, natural habitat, golden hour lighting, african landscape, wildlife photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 5. Tiger Hunting
 
@@ -118,11 +126,15 @@ An elephant family with matriarch leading, natural habitat, golden hour lighting
 A bengal tiger stalking prey, natural hunting behavior, tall grass, dramatic lighting, wild tiger, wildlife photography style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 6. Mountain Lake
 
 ```
 An alpine lake with crystal clear water, mountain peaks, reflection, natural landscape, pristine wilderness, nature photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 7. Tropical Rainforest
 
@@ -130,11 +142,15 @@ An alpine lake with crystal clear water, mountain peaks, reflection, natural lan
 A dense rainforest with lush vegetation, tropical plants, natural lighting, biodiversity, wild nature, nature photography style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 8. Desert Sunset
 
 ```
 A desert landscape with sand dunes, sunset colors, dramatic sky, natural lighting, arid environment, nature photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 9. Coral Reef
 
@@ -142,11 +158,15 @@ A desert landscape with sand dunes, sunset colors, dramatic sky, natural lightin
 A vibrant coral reef with marine life, underwater scene, natural colors, ocean environment, biodiversity, nature photography style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 10. Arctic Tundra
 
 ```
 An arctic landscape with snow coverage, polar environment, natural lighting, pristine wilderness, cold climate, nature photography, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ## Advanced Tips
 

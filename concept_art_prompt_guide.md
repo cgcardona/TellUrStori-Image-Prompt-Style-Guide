@@ -124,11 +124,15 @@ A fantasy dragon creature concept, detailed anatomy and design, multiple views a
 A sci-fi warrior character concept, detailed costume and armor design, multiple views including front and side, digital painting technique, professional presentation, concept art style, high quality, industry standard
 ```
 
+![image](assets/character_concept_design.png)
+
 ### 2. Environment Concept Design
 
 ```
 A fantasy castle environment concept, architectural design with detailed structures, atmospheric lighting and mood, digital painting technique, professional presentation, concept art style, high quality, world-building design
 ```
+
+![image](assets/environment_concept_design.png)
 
 ### 3. Creature Concept Design
 
@@ -136,11 +140,15 @@ A fantasy castle environment concept, architectural design with detailed structu
 A fantasy dragon creature concept, detailed anatomy and design, multiple views and poses, digital painting technique, professional presentation, concept art style, high quality, creature design
 ```
 
+![image](assets/creature_concept_design.png)
+
 ### 4. Prop Concept Design
 
 ```
 A futuristic weapon concept, detailed design with multiple angles, technical specifications, digital painting technique, professional presentation, concept art style, high quality, prop design
 ```
+
+![image](assets/prop_concept_design.png)
 
 ### 5. Vehicle Concept Design
 
@@ -148,11 +156,15 @@ A futuristic weapon concept, detailed design with multiple angles, technical spe
 A sci-fi vehicle concept, detailed exterior and interior design, multiple views and technical details, digital painting technique, professional presentation, concept art style, high quality, vehicle design
 ```
 
+![image](assets/vehicle_concept_design.png)
+
 ### 6. Architecture Concept Design
 
 ```
 A futuristic building concept, detailed architectural design with structural elements, atmospheric lighting, digital painting technique, professional presentation, concept art style, high quality, architectural design
 ```
+
+![image](assets/architecture_concept_design.png)
 
 ### 7. Landscape Concept Design
 
@@ -160,11 +172,15 @@ A futuristic building concept, detailed architectural design with structural ele
 A fantasy landscape concept, detailed environmental design with terrain features, atmospheric lighting and mood, digital painting technique, professional presentation, concept art style, high quality, environmental design
 ```
 
+![image](assets/landscape_concept_design.png)
+
 ### 8. Costume Concept Design
 
 ```
 A fantasy costume concept, detailed clothing design with fabric textures, multiple views, digital painting technique, professional presentation, concept art style, high quality, costume design
 ```
+
+![image](assets/costume_concept_design.png)
 
 ### 9. Weapon Concept Design
 
@@ -172,11 +188,15 @@ A fantasy costume concept, detailed clothing design with fabric textures, multip
 A fantasy weapon concept, detailed design with ornate details, multiple angles, digital painting technique, professional presentation, concept art style, high quality, weapon design
 ```
 
+![image](assets/weapon_concept_design.png)
+
 ### 10. Creature Anatomy Concept
 
 ```
 A fantasy creature anatomy concept, detailed skeletal and muscular structure, multiple views, digital painting technique, professional presentation, concept art style, high quality, creature anatomy design
 ```
+
+![image](assets/creature_anatomy_concept.png)
 
 ## Advanced Tips
 

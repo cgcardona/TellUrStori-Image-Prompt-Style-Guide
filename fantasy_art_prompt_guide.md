@@ -114,50 +114,70 @@ A mystical floating city with crystal spires and magical bridges, surrounded by 
 A brave warrior riding a majestic dragon, soaring over a fantasy landscape, dramatic sunset lighting, high fantasy art style, highly detailed, epic adventure atmosphere
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 2. Enchanted Forest
 ```
 A mystical forest with glowing mushrooms and ethereal mist, magical creatures hidden among ancient trees, soft magical lighting, fantasy landscape art, highly detailed, mysterious atmosphere
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 3. Wizard's Tower
 ```
 A towering wizard's tower with magical energy swirling around it, floating in a mystical realm, dramatic lighting with magical effects, fantasy architecture art, highly detailed, magical atmosphere
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 4. Battle Scene
 ```
 A massive battle between fantasy armies, with magical spells and flying creatures, epic scale composition, dramatic lighting, high fantasy art style, highly detailed, intense action atmosphere
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 5. Fairy Tale Castle
 ```
 A beautiful castle floating on clouds, with rainbow bridges and magical gardens, golden hour lighting, fantasy architecture art, highly detailed, dreamlike atmosphere
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 6. Dark Sorcerer
 ```
 A powerful dark sorcerer casting forbidden magic, surrounded by dark energy and shadowy creatures, ominous lighting, dark fantasy art style, highly detailed, sinister atmosphere
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 7. Mythical Beast
 ```
 A majestic unicorn with glowing horn and ethereal mane, standing in a crystal cave, magical lighting, fantasy creature art, highly detailed, mystical atmosphere
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 8. Fantasy City
 ```
 A sprawling fantasy city with flying ships and magical architecture, bustling with magical creatures, warm lighting, fantasy urban art, highly detailed, vibrant atmosphere
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 9. Elemental Battle
 ```
 A battle between elemental beings, fire, water, earth, and air clashing in spectacular fashion, dynamic lighting, fantasy action art, highly detailed, elemental atmosphere
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 10. Ancient Ruins
 ```
 Mysterious ancient ruins with magical inscriptions and glowing artifacts, overgrown with mystical plants, atmospheric lighting, fantasy exploration art, highly detailed, mysterious atmosphere
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ## Advanced Tips
 

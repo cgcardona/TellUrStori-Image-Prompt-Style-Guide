@@ -125,11 +125,15 @@ A minimalist mountain landscape, simple silhouettes with generous white space, f
 A simple geometric logo with clean lines, centered composition, flat design with solid colors, minimalist art style, professional and clean, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 2. Flat Design Icon
 
 ```
 A flat design icon with simple geometric shapes, clean composition with white space, bold solid colors, modern flat design style, highly detailed, clean and simple
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 3. Minimalist Landscape
 
@@ -137,11 +141,15 @@ A flat design icon with simple geometric shapes, clean composition with white sp
 A minimalist mountain landscape, simple silhouettes with generous white space, flat design with limited color palette, clean and simple art style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 4. Geometric Abstract
 
 ```
 Abstract geometric composition with simple shapes, clean lines and minimal elements, flat design with bold colors, minimalist art style, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 5. Flat Design Character
 
@@ -149,11 +157,15 @@ Abstract geometric composition with simple shapes, clean lines and minimal eleme
 A simple flat design character with basic geometric shapes, clean composition with white space, limited color palette, modern flat design style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 6. Minimalist Typography
 
 ```
 Clean typography design with simple fonts, centered composition with generous white space, flat design with solid colors, minimalist art style, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 7. Flat Design Scene
 
@@ -161,11 +173,15 @@ Clean typography design with simple fonts, centered composition with generous wh
 A simple flat design scene with geometric elements, clean composition with minimal details, flat design with bold colors, modern flat design style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 8. Minimalist Pattern
 
 ```
 A minimalist pattern with simple geometric shapes, clean composition with white space, flat design with limited colors, minimalist art style, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 9. Flat Design Object
 
@@ -173,11 +189,15 @@ A minimalist pattern with simple geometric shapes, clean composition with white 
 A simple flat design object with clean lines, centered composition with white space, flat design with solid colors, modern flat design style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 10. Minimalist Composition
 
 ```
 A minimalist composition with essential elements only, clean design with generous white space, flat design with simple colors, minimalist art style, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ## Advanced Tips
 

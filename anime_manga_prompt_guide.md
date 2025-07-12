@@ -125,11 +125,15 @@ Anime character with detailed line art, black and white manga style, sitting in 
 Anime girl with long silver hair and large blue eyes, wearing a flowing pink dress, sitting under cherry blossoms, soft natural lighting, shoujo anime style, high quality, romantic mood, detailed character design
 ```
 
+![image](assets/shoujo_romance_scene.png)
+
 ### 2. Shounen Battle Scene
 
 ```
 Anime boy with spiky red hair and fierce expression, wearing a battle uniform, dynamic fighting pose with energy aura, destroyed city background, dramatic lighting, shounen anime style, high quality, intense action scene
 ```
+
+![image](assets/shounen_battle_scene.png)
 
 ### 3. Seinen Drama
 
@@ -137,11 +141,15 @@ Anime boy with spiky red hair and fierce expression, wearing a battle uniform, d
 Mature anime character with short dark hair and serious expression, wearing a business suit, standing in a rainy city street, moody lighting, seinen anime style, high quality, dramatic atmosphere
 ```
 
+![image](assets/seinen_drama.png)
+
 ### 4. Fantasy Adventure
 
 ```
 Anime girl with long green hair and pointed ears, wearing magical robes, casting a spell in an enchanted forest, ethereal lighting, fantasy anime style, high quality, mystical atmosphere
 ```
+
+![image](assets/fantasy_adventure.png)
 
 ### 5. School Life
 
@@ -149,11 +157,15 @@ Anime girl with long green hair and pointed ears, wearing magical robes, casting
 Anime students in school uniforms, sitting in a classroom, natural daylight through windows, slice-of-life anime style, high quality, peaceful everyday mood
 ```
 
+![image](assets/school_life.png)
+
 ### 6. Mecha Action
 
 ```
 Anime pilot in a cockpit, wearing a pilot suit, controlling a giant robot, futuristic city background, neon lighting, mecha anime style, high quality, sci-fi action scene
 ```
+
+![image](assets/mecha_action.png)
 
 ### 7. Magical Girl
 
@@ -161,11 +173,15 @@ Anime pilot in a cockpit, wearing a pilot suit, controlling a giant robot, futur
 Anime girl with colorful hair and magical costume, transforming pose with sparkles, magical realm background, bright colorful lighting, magical girl anime style, high quality, magical atmosphere
 ```
 
+![image](assets/magical_girl.png)
+
 ### 8. Sports Anime
 
 ```
 Anime athlete with determined expression, wearing sports uniform, dynamic action pose, stadium background, bright lighting, sports anime style, high quality, energetic mood
 ```
+
+![image](assets/sports_anime.png)
 
 ### 9. Historical Drama
 
@@ -173,11 +189,15 @@ Anime athlete with determined expression, wearing sports uniform, dynamic action
 Anime character in traditional kimono, standing in a Japanese garden, soft natural lighting, historical anime style, high quality, elegant atmosphere
 ```
 
+![image](assets/historical_drama.png)
+
 ### 10. Cyberpunk Anime
 
 ```
 Anime character with cybernetic implants, wearing futuristic clothing, standing in a neon-lit alley, dramatic lighting, cyberpunk anime style, high quality, dystopian atmosphere
 ```
+
+![image](assets/cyberpunk_anime.png)
 
 ## Advanced Tips
 

@@ -115,50 +115,70 @@ A dramatic comic book cover with a hero in iconic pose, bold background with act
 A muscular superhero in dynamic fighting pose, wearing a colorful costume, dramatic cityscape background, bold comic book lighting, comic book art style with strong line work, high quality, intense action scene
 ```
 
+![image](assets/superhero_battle.png)
+
 ### 2. Graphic Novel Scene
 ```
 A complex character with detailed facial expression, standing in a moody urban environment, dramatic lighting with strong shadows, graphic novel art style, highly detailed, emotional storytelling
 ```
+
+![image](assets/graphic_novel_scene.png)
 
 ### 3. Comic Book Cover
 ```
 A dramatic comic book cover with a hero in iconic pose, bold background with action elements, vibrant comic book colors, strong line work and inking, comic book cover art style, high quality, epic atmosphere
 ```
 
+![image](assets/comic_book_cover.png)
+
 ### 4. Villain Introduction
 ```
 A sinister villain with dark costume and menacing pose, standing in a dramatic environment, bold shadows and lighting, comic book art style with strong line work, high quality, ominous atmosphere
 ```
+
+![image](assets/villain_introduction.png)
 
 ### 5. Team Shot
 ```
 A group of superheroes in dynamic poses, standing together against a dramatic background, bold comic book lighting, comic book art style with strong line work, high quality, heroic team atmosphere
 ```
 
+![image](assets/team_shot.png)
+
 ### 6. Action Sequence
 ```
 A superhero in mid-action pose with speed lines and energy effects, dynamic background, bold comic book lighting, comic book art style with strong line work, high quality, intense action scene
 ```
+
+![image](assets/action_sequence.png)
 
 ### 7. Character Portrait
 ```
 A detailed character portrait with expressive face and dramatic lighting, strong line work and bold colors, comic book art style, high quality, character study
 ```
 
+![image](assets/character_portrait.png)
+
 ### 8. Fantasy Scene
 ```
 A fantasy character in magical environment, with mystical elements and dramatic lighting, comic book art style with strong line work, high quality, magical atmosphere
 ```
+
+![image](assets/fantasy_scene.png)
 
 ### 9. Urban Scene
 ```
 A character in urban environment with cityscape background, dramatic lighting and shadows, comic book art style with strong line work, high quality, urban atmosphere
 ```
 
+![image](assets/urban_scene.png)
+
 ### 10. Sci-Fi Scene
 ```
 A sci-fi character in futuristic environment, with technological elements and dramatic lighting, comic book art style with strong line work, high quality, futuristic atmosphere
 ```
+
+![image](assets/sci_fi_scene.png)
 
 ## Advanced Tips
 

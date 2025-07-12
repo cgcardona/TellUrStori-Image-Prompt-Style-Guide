@@ -93,17 +93,23 @@
 A futuristic spaceship with sleek design, energy engines, holographic controls, cosmic background, sci-fi lighting, space technology, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 2. Space Station
 
 ```
 An orbital space station with modular design, solar panels, docking bays, earth view, space environment, sci-fi technology, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 3. Alien Vessel
 
 ```
 An alien spacecraft with organic technology, bioluminescent features, cosmic energy, otherworldly design, sci-fi art style, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 4. Military Starship
 

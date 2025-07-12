@@ -93,11 +93,15 @@
 A business executive with confident pose, wearing professional attire, studio lighting, formal portrait style, authentic expression, character depth, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 2. Creative Professional
 
 ```
 A creative professional in artistic environment, natural lighting, authentic expression, character study, artistic atmosphere, portrait photography style, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 3. Medical Professional
 
@@ -105,11 +109,15 @@ A creative professional in artistic environment, natural lighting, authentic exp
 A medical professional in healthcare setting, natural lighting, caring expression, character portrait, professional atmosphere, documentary style, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 4. Teacher
 
 ```
 A teacher in classroom environment, warm lighting, encouraging expression, educational setting, character study, portrait photography style, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 5. Chef
 
@@ -117,11 +125,15 @@ A teacher in classroom environment, warm lighting, encouraging expression, educa
 A chef in kitchen environment, warm lighting, passionate expression, culinary professional, character portrait, authentic atmosphere, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 6. Artist at Work
 
 ```
 An artist in creative process, studio environment, natural lighting, focused expression, character study, artistic atmosphere, portrait style, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 7. Elderly Wisdom
 
@@ -129,11 +141,15 @@ An artist in creative process, studio environment, natural lighting, focused exp
 An elderly person with wise expression, natural lighting, life experience showing, dignified portrait, character depth, respectful atmosphere, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 8. Young Dreamer
 
 ```
 A young person with hopeful expression, natural lighting, future aspirations, youthful energy, character portrait, optimistic atmosphere, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ### 9. Cultural Elder
 
@@ -141,11 +157,15 @@ A young person with hopeful expression, natural lighting, future aspirations, yo
 A cultural elder in traditional dress, respectful lighting, heritage representation, dignified portrait, cultural authenticity, character study, high quality
 ```
 
+![image](assets/atmospheric_abstract.png)
+
 ### 10. Everyday Hero
 
 ```
 An everyday person with authentic expression, natural lighting, relatable character, human warmth, documentary style, genuine atmosphere, high quality
 ```
+
+![image](assets/atmospheric_abstract.png)
 
 ## Advanced Tips
 
