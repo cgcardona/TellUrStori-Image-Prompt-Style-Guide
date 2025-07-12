@@ -94,7 +94,7 @@
 A rock band in live performance, electric guitars, stage lighting, concert atmosphere, musical energy, music photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/rock_concert.png)
 
 ### 2. Jazz Trio
 
@@ -102,7 +102,7 @@ A rock band in live performance, electric guitars, stage lighting, concert atmos
 A jazz trio in intimate venue, smooth performance, warm lighting, musical sophistication, music photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/jazz_trio.png)
 
 ### 3. Classical Orchestra
 
@@ -110,7 +110,7 @@ A jazz trio in intimate venue, smooth performance, warm lighting, musical sophis
 A classical orchestra in concert hall, formal performance, elegant lighting, symphonic music, music photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/classical_orchestra.png)
 
 ### 4. Solo Guitarist
 
@@ -118,7 +118,7 @@ A classical orchestra in concert hall, formal performance, elegant lighting, sym
 A solo guitarist in acoustic performance, intimate setting, natural lighting, musical passion, music photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/solo_guitarist.png)
 
 ### 5. DJ Performance
 
@@ -126,7 +126,7 @@ A solo guitarist in acoustic performance, intimate setting, natural lighting, mu
 A DJ with electronic music, club atmosphere, dynamic lighting, modern performance, music photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/dj_performance.png)
 
 ### 6. Recording Studio
 
@@ -134,7 +134,7 @@ A DJ with electronic music, club atmosphere, dynamic lighting, modern performanc
 A musician in studio recording session, professional equipment, studio lighting, creative process, music photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/recording_studio.png)
 
 ### 7. Band Practice
 
@@ -142,7 +142,7 @@ A musician in studio recording session, professional equipment, studio lighting,
 A band practice in rehearsal space, musical collaboration, casual atmosphere, creative energy, music photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/band_practice.png)
 
 ### 8. Vocal Recording
 
@@ -150,7 +150,7 @@ A band practice in rehearsal space, musical collaboration, casual atmosphere, cr
 A vocalist recording at studio microphone, professional setup, controlled lighting, musical performance, music photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/vocal_recording.png)
 
 ### 9. Instrument Close-up
 
@@ -158,7 +158,7 @@ A vocalist recording at studio microphone, professional setup, controlled lighti
 A musical instrument in detailed close-up, professional photography, studio lighting, musical art, music photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/instrument_close_up.png)
 
 ### 10. Producer at Work
 
@@ -166,7 +166,7 @@ A musical instrument in detailed close-up, professional photography, studio ligh
 A music producer at studio console, professional equipment, creative environment, musical production, music photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/producer_at_work.png)
 
 ## Advanced Tips
 

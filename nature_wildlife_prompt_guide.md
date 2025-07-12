@@ -94,7 +94,7 @@
 A majestic lion in close-up portrait, golden mane, amber eyes, natural lighting, african savanna background, wildlife photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/lion_portrait.png)
 
 ### 2. Eagle in Flight
 
@@ -102,7 +102,7 @@ A majestic lion in close-up portrait, golden mane, amber eyes, natural lighting,
 A bald eagle soaring through sky, spread wings, dramatic clouds, natural flight, wilderness setting, wildlife photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/eagle_in_flight.png)
 
 ### 3. Wolf Pack
 
@@ -110,7 +110,7 @@ A bald eagle soaring through sky, spread wings, dramatic clouds, natural flight,
 A wolf pack in social interaction, natural behavior, forest environment, misty atmosphere, wild wolves, wildlife photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/wolf_pack.png)
 
 ### 4. Elephant Family
 
@@ -118,7 +118,7 @@ A wolf pack in social interaction, natural behavior, forest environment, misty a
 An elephant family with matriarch leading, natural habitat, golden hour lighting, african landscape, wildlife photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/elephant_family.png)
 
 ### 5. Tiger Hunting
 
@@ -126,7 +126,7 @@ An elephant family with matriarch leading, natural habitat, golden hour lighting
 A bengal tiger stalking prey, natural hunting behavior, tall grass, dramatic lighting, wild tiger, wildlife photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/tiger_hunting.png)
 
 ### 6. Mountain Lake
 
@@ -134,7 +134,7 @@ A bengal tiger stalking prey, natural hunting behavior, tall grass, dramatic lig
 An alpine lake with crystal clear water, mountain peaks, reflection, natural landscape, pristine wilderness, nature photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/mountain_lake.png)
 
 ### 7. Tropical Rainforest
 
@@ -142,7 +142,7 @@ An alpine lake with crystal clear water, mountain peaks, reflection, natural lan
 A dense rainforest with lush vegetation, tropical plants, natural lighting, biodiversity, wild nature, nature photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/tropical_rainforest.png)
 
 ### 8. Desert Sunset
 
@@ -150,7 +150,7 @@ A dense rainforest with lush vegetation, tropical plants, natural lighting, biod
 A desert landscape with sand dunes, sunset colors, dramatic sky, natural lighting, arid environment, nature photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/desert_sunset.png)
 
 ### 9. Coral Reef
 
@@ -158,7 +158,7 @@ A desert landscape with sand dunes, sunset colors, dramatic sky, natural lightin
 A vibrant coral reef with marine life, underwater scene, natural colors, ocean environment, biodiversity, nature photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/coral_reef.png)
 
 ### 10. Arctic Tundra
 
@@ -166,7 +166,7 @@ A vibrant coral reef with marine life, underwater scene, natural colors, ocean e
 An arctic landscape with snow coverage, polar environment, natural lighting, pristine wilderness, cold climate, nature photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/arctic_tundra.png)
 
 ## Advanced Tips
 

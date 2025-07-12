@@ -124,7 +124,7 @@ A vintage car on a foggy street, black and white photography with film grain, dr
 A detective in a trench coat standing in a rain-soaked alley, dramatic shadows and high contrast lighting, film noir photography style, black and white, high quality, mysterious atmosphere
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/classic_film_noir_scene.png)
 
 ### 2. Neo-Noir Character
 
@@ -132,7 +132,7 @@ A detective in a trench coat standing in a rain-soaked alley, dramatic shadows a
 A femme fatale in elegant dress, dramatic side lighting with deep shadows, urban background, neo-noir photography style, high quality, seductive and mysterious mood
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/neo_noir_character.png)
 
 ### 3. Vintage Film Photography
 
@@ -140,7 +140,7 @@ A femme fatale in elegant dress, dramatic side lighting with deep shadows, urban
 A vintage car on a foggy street, black and white photography with film grain, dramatic lighting, classic film photography style, high quality, nostalgic atmosphere
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/vintage_film_photography.png)
 
 ### 4. Urban Noir Scene
 
@@ -148,7 +148,7 @@ A vintage car on a foggy street, black and white photography with film grain, dr
 A shadowy figure in a neon-lit alley, dramatic side lighting with deep shadows, urban environment, film noir photography style, black and white, high quality, mysterious atmosphere
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/urban_noir_scene.png)
 
 ### 5. Interior Noir Scene
 
@@ -156,7 +156,7 @@ A shadowy figure in a neon-lit alley, dramatic side lighting with deep shadows, 
 A dimly lit office with dramatic shadows, chiaroscuro lighting, urban interior, film noir photography style, black and white, high quality, moody atmosphere
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/interior_noir_scene.png)
 
 ### 6. Rainy Street Scene
 
@@ -164,7 +164,7 @@ A dimly lit office with dramatic shadows, chiaroscuro lighting, urban interior, 
 A rain-soaked city street with dramatic lighting, high contrast shadows, urban environment, film noir photography style, black and white, high quality, atmospheric mood
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/rainy_street_scene.png)
 
 ### 7. Silhouette Scene
 
@@ -172,7 +172,7 @@ A rain-soaked city street with dramatic lighting, high contrast shadows, urban e
 A mysterious silhouette against a dramatic background, backlighting with deep shadows, urban environment, film noir photography style, black and white, high quality, mysterious atmosphere
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/silhouette_scene.png)
 
 ### 8. Foggy Scene
 
@@ -180,7 +180,7 @@ A mysterious silhouette against a dramatic background, backlighting with deep sh
 A foggy street with dramatic lighting, atmospheric weather conditions, urban environment, film noir photography style, black and white, high quality, moody atmosphere
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/foggy_scene.png)
 
 ### 9. Bar Scene
 
@@ -188,7 +188,7 @@ A foggy street with dramatic lighting, atmospheric weather conditions, urban env
 A smoky bar interior with dramatic lighting, chiaroscuro shadows, urban interior, film noir photography style, black and white, high quality, atmospheric mood
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/bar_scene.png)
 
 ### 10. Mystery Scene
 
@@ -196,7 +196,7 @@ A smoky bar interior with dramatic lighting, chiaroscuro shadows, urban interior
 A mysterious figure in a dramatic environment, high contrast lighting with deep shadows, urban setting, film noir photography style, black and white, high quality, mysterious atmosphere
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/mystery_scene.png)
 
 ## Advanced Tips
 
