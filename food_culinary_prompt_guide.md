@@ -94,7 +94,7 @@
 An elegant plated dish with fine dining presentation, professional lighting, restaurant quality, culinary art, food photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/elegant_plated_dish.png)
 
 ### 2. Chef's Special
 
@@ -102,7 +102,7 @@ An elegant plated dish with fine dining presentation, professional lighting, res
 A chef's special dish with artistic plating, professional kitchen, culinary expertise, fine dining atmosphere, food photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/chefs_special.png)
 
 ### 3. Gourmet Ingredients
 
@@ -110,7 +110,7 @@ A chef's special dish with artistic plating, professional kitchen, culinary expe
 Premium ingredients with fresh produce, professional food photography, culinary quality, food styling, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/gourmet_ingredients.png)
 
 ### 4. Wine Pairing
 
@@ -118,7 +118,7 @@ Premium ingredients with fresh produce, professional food photography, culinary 
 A fine dining meal with wine pairing, elegant table setting, restaurant atmosphere, culinary experience, food photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/wine_pairing.png)
 
 ### 5. Dessert Course
 
@@ -126,7 +126,7 @@ A fine dining meal with wine pairing, elegant table setting, restaurant atmosphe
 An elegant dessert with pastry chef creation, fine dining presentation, culinary artistry, food photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/dessert_course.png)
 
 ### 6. Family Meal
 
@@ -134,7 +134,7 @@ An elegant dessert with pastry chef creation, fine dining presentation, culinary
 A homestyle cooking scene with family meal, comfortable atmosphere, natural lighting, home kitchen, food photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/family_meal.png)
 
 ### 7. Baking Scene
 
@@ -142,7 +142,7 @@ A homestyle cooking scene with family meal, comfortable atmosphere, natural ligh
 Fresh baked goods in home kitchen, warm lighting, homemade atmosphere, baking scene, food photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/baking_scene.png)
 
 ### 8. Comfort Food
 
@@ -150,7 +150,7 @@ Fresh baked goods in home kitchen, warm lighting, homemade atmosphere, baking sc
 Comfort food with homestyle cooking, cozy atmosphere, family recipe, home cooking style, food photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/comfort_food.png)
 
 ### 9. Garden Fresh
 
@@ -158,7 +158,7 @@ Comfort food with homestyle cooking, cozy atmosphere, family recipe, home cookin
 Garden fresh vegetables for home cooking, natural ingredients, farm to table, organic food, food photography style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/garden_fresh.png)
 
 ### 10. Sunday Dinner
 
@@ -166,7 +166,7 @@ Garden fresh vegetables for home cooking, natural ingredients, farm to table, or
 A sunday family dinner with traditional meal, home kitchen, warm atmosphere, family gathering, food photography, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/sunday_dinner.png)
 
 ## Advanced Tips
 
