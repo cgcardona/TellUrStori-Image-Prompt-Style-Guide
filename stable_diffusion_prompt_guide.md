@@ -154,12 +154,12 @@ A majestic eagle in flight, natural habitat, environmental portrait, shot on Can
 A confident businesswoman, professional headshot pose, three-point studio lighting, shot on Canon EOS R5 with 85mm f/1.4 lens, shallow depth of field, sharp focus on eyes, natural skin texture, professional makeup, high-end fashion photography, photorealistic, 8K resolution, award-winning portrait
 ```
 
-![image](assets/portrait_photography.png)
+![image](asmountainsets/portrait_photography.png)
 
 ### 2. Landscape Photography
 
 ```text
-Majestic mountain range at sunset, golden hour lighting, dramatic clouds, aerial drone photography, wide-angle lens, rule of thirds composition, leading lines, HDR processing, National Geographic style, photorealistic, 8K resolution, professional landscape photography
+Majestic range at sunset, golden hour lighting, dramatic clouds, aerial drone photography, wide-angle lens, rule of thirds composition, leading lines, HDR processing, National Geographic style, photorealistic, 8K resolution, professional landscape photography
 ```
 
 ![image](assets/landscape_photography.png)
@@ -167,7 +167,7 @@ Majestic mountain range at sunset, golden hour lighting, dramatic clouds, aerial
 ### 3. Wildlife Photography
 
 ```text
-A majestic eagle in flight, natural habitat, environmental portrait, shot on Canon EOS R5 with 400mm f/2.8 lens, shallow depth of field, golden hour backlighting, sharp focus on the bird, National Geographic style, wildlife photography, photorealistic, 8K resolution
+A majestic eagle in flight, natural habitat, environmentalportrait, shot on Canon EOS R5 with 400mm f/2.8 lens, shallow depth of field, golden hour backlighting, sharp focus on the bird, National Geographic style, wildlife photography, photorealistic, 8K resolution
 ```
 
 ![image](assets/wildlife_photography.png)
