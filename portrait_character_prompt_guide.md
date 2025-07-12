@@ -62,10 +62,9 @@
 
 ## Negative Prompts
 
-- "fake", "artificial", "plastic", "unrealistic"
-- "stereotypical", "clichéd", "generic", "boring"
-- "unflattering", "ugly", "distorted", "poor quality"
-- "emotionless", "blank", "lifeless", "soulless"
+```text
+fake, artificial, plastic, unrealistic, stereotypical, clichéd, generic, boring, unflattering, ugly, distorted, poor quality, emotionless, blank, lifeless, soulless
+```
 
 ## Sample Prompts by Category
 
