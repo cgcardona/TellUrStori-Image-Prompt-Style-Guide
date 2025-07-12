@@ -28,13 +28,13 @@
 
 ### Base Template:
 
-```
+```text
 [building type], [architectural style], [view type], [lighting], [materials], [visualization style], [quality], [purpose]
 ```
 
 ### Example:
 
-```
+```text
 A modern glass office building, contemporary architecture, exterior view with natural lighting, steel and glass materials, photorealistic architectural visualization, high quality, commercial presentation
 ```
 
@@ -72,13 +72,13 @@ A modern glass office building, contemporary architecture, exterior view with na
 
 ### Architectural Quality Enhancers:
 
-```
+```text
 architectural visualization, architectural render, building visualization, architectural illustration, professional architecture, architectural photography, building design, architectural presentation
 ```
 
 ### Software References:
 
-```
+```text
 3ds Max render, V-Ray render, Corona render, Lumion render, SketchUp render, Revit render, architectural software
 ```
 
@@ -86,13 +86,13 @@ architectural visualization, architectural render, building visualization, archi
 
 ### Essential Architectural Negatives:
 
-```
+```text
 low quality, blurry, pixelated, deformed, bad proportions, unrealistic, fantasy, impossible architecture, cartoon, anime, painting, drawing, illustration
 ```
 
 ### Advanced Negatives:
 
-```
+```text
 amateur photography, poor lighting, bad composition, unrealistic materials, impossible physics, fantasy building
 ```
 
@@ -100,19 +100,19 @@ amateur photography, poor lighting, bad composition, unrealistic materials, impo
 
 ### Modern Office Building
 
-```
+```text
 A sleek glass office tower, contemporary architecture, exterior view with natural lighting, steel and glass materials, photorealistic architectural visualization, high quality, commercial presentation
 ```
 
 ### Luxury Interior
 
-```
+```text
 A modern luxury apartment interior, contemporary design, living room view with natural lighting, marble and wood materials, photorealistic interior visualization, high quality, real estate marketing
 ```
 
 ### Urban Master Plan
 
-```
+```text
 A mixed-use urban development, modern architecture, aerial view with natural lighting, concrete and glass materials, architectural master plan visualization, high quality, urban planning presentation
 ```
 
@@ -120,7 +120,7 @@ A mixed-use urban development, modern architecture, aerial view with natural lig
 
 ### 1. Modern Office Building
 
-```
+```text
 A sleek glass office tower, contemporary architecture, exterior view with natural lighting, steel and glass materials, photorealistic architectural visualization, high quality, commercial presentation
 ```
 
@@ -128,7 +128,7 @@ A sleek glass office tower, contemporary architecture, exterior view with natura
 
 ### 2. Luxury Interior
 
-```
+```text
 A modern luxury apartment interior, contemporary design, living room view with natural lighting, marble and wood materials, photorealistic interior visualization, high quality, real estate marketing
 ```
 
@@ -136,7 +136,7 @@ A modern luxury apartment interior, contemporary design, living room view with n
 
 ### 3. Urban Master Plan
 
-```
+```text
 A mixed-use urban development, modern architecture, aerial view with natural lighting, concrete and glass materials, architectural master plan visualization, high quality, urban planning presentation
 ```
 
@@ -144,7 +144,7 @@ A mixed-use urban development, modern architecture, aerial view with natural lig
 
 ### 4. Residential House
 
-```
+```text
 A modern residential house, contemporary architecture, exterior view with natural lighting, wood and stone materials, photorealistic architectural visualization, high quality, residential presentation
 ```
 
@@ -152,7 +152,7 @@ A modern residential house, contemporary architecture, exterior view with natura
 
 ### 5. Hotel Interior
 
-```
+```text
 A luxury hotel lobby, contemporary design, interior view with artificial lighting, marble and glass materials, photorealistic interior visualization, high quality, hospitality presentation
 ```
 
@@ -160,7 +160,7 @@ A luxury hotel lobby, contemporary design, interior view with artificial lightin
 
 ### 6. Museum Building
 
-```
+```text
 A modern museum building, contemporary architecture, exterior view with dramatic lighting, concrete and glass materials, photorealistic architectural visualization, high quality, cultural presentation
 ```
 
@@ -168,7 +168,7 @@ A modern museum building, contemporary architecture, exterior view with dramatic
 
 ### 7. Retail Center
 
-```
+```text
 A modern retail center, contemporary architecture, exterior view with natural lighting, steel and glass materials, photorealistic architectural visualization, high quality, commercial presentation
 ```
 
@@ -176,7 +176,7 @@ A modern retail center, contemporary architecture, exterior view with natural li
 
 ### 8. Sustainable Building
 
-```
+```text
 A green building, sustainable architecture, exterior view with natural lighting, eco-friendly materials, photorealistic architectural visualization, high quality, environmental presentation
 ```
 
@@ -184,7 +184,7 @@ A green building, sustainable architecture, exterior view with natural lighting,
 
 ### 9. Industrial Facility
 
-```
+```text
 A modern industrial facility, contemporary architecture, exterior view with natural lighting, concrete and steel materials, photorealistic architectural visualization, high quality, industrial presentation
 ```
 
@@ -192,7 +192,7 @@ A modern industrial facility, contemporary architecture, exterior view with natu
 
 ### 10. Classical Building
 
-```
+```text
 A classical building, traditional architecture, exterior view with natural lighting, stone and marble materials, photorealistic architectural visualization, high quality, heritage presentation
 ```
 
