@@ -125,11 +125,15 @@ A floating castle made of melting stone, with staircases leading to nowhere, win
 A landscape where mountains are melting like wax, with floating clocks and impossible shadows, surreal lighting, surrealist art style, highly detailed, dreamlike atmosphere
 ```
 
+![image](assets/melting_reality.png)
+
 ### 2. Floating Library
 
 ```text
 A library floating in space with books that have wings, impossible staircases leading to nowhere, ethereal lighting, surrealist art style, highly detailed, mystical atmosphere
 ```
+
+![image](assets/floating_library.png)
 
 ### 3. Dream Portrait
 
@@ -137,11 +141,15 @@ A library floating in space with books that have wings, impossible staircases le
 A person with a face made of clouds and eyes that are windows to different worlds, floating in a surreal landscape, dreamlike lighting, surrealist portrait art, highly detailed, ethereal mood
 ```
 
+![image](assets/dream_portrait.png)
+
 ### 4. Impossible Garden
 
 ```text
 A garden where flowers grow upside down and trees have roots in the sky, with floating water and impossible colors, surreal lighting, surrealist landscape art, highly detailed, dreamlike atmosphere
 ```
+
+![image](assets/impossible_garden.png)
 
 ### 5. Time Distortion
 
@@ -149,11 +157,15 @@ A garden where flowers grow upside down and trees have roots in the sky, with fl
 A scene where time flows backwards, with clocks running counterclockwise and people walking backwards, impossible lighting, surrealist art style, highly detailed, temporal distortion atmosphere
 ```
 
+![image](assets/time_distortion.png)
+
 ### 6. Floating City
 
 ```text
 A city floating in the clouds with buildings made of impossible materials, staircases leading to the sky, dreamlike lighting, surrealist urban art, highly detailed, otherworldly atmosphere
 ```
+
+![image](assets/floating_city.png)
 
 ### 7. Morphing Objects
 
@@ -161,11 +173,15 @@ A city floating in the clouds with buildings made of impossible materials, stair
 Objects that are constantly changing shape, a chair becoming a bird, a table becoming a tree, surreal lighting, surrealist transformation art, highly detailed, metamorphic atmosphere
 ```
 
+![image](assets/morphing_objects.png)
+
 ### 8. Dream Forest
 
 ```text
 A forest where trees have faces and branches are made of light, with floating leaves and impossible shadows, mystical lighting, surrealist nature art, highly detailed, enchanted atmosphere
 ```
+
+![image](assets/dream_forest.png)
 
 ### 9. Infinite Mirror
 
@@ -173,11 +189,15 @@ A forest where trees have faces and branches are made of light, with floating le
 A mirror that reflects infinite versions of the same scene, with each reflection showing a different impossible world, surreal lighting, surrealist art style, highly detailed, infinite atmosphere
 ```
 
+![image](assets/infinite_mirror.png)
+
 ### 10. Liquid Reality
 
 ```text
 A world where solid objects are made of liquid, with flowing buildings and liquid people, impossible physics, surreal lighting, surrealist art style, highly detailed, fluid atmosphere
 ```
+
+![image](assets/liquid_reality.png)
 
 ## Advanced Tips
 

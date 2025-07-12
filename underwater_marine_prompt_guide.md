@@ -93,11 +93,15 @@
 A colorful coral reef with tropical fish, clear water, sunlight through surface, marine ecosystem, underwater photography style, high quality
 ```
 
+![image](assets/vibrant_coral_reef.png)
+
 ### 2. Reef Fish School
 
 ```text
 Schooling tropical fish with coral background, underwater lighting, marine life, natural behavior, underwater photography, high quality
 ```
+
+![image](assets/reef_fish_school.png)
 
 ### 3. Coral Garden
 
@@ -105,11 +109,15 @@ Schooling tropical fish with coral background, underwater lighting, marine life,
 An underwater coral garden with diverse marine life, clear blue water, natural lighting, reef ecosystem, underwater photography style, high quality
 ```
 
+![image](assets/coral_garden.png)
+
 ### 4. Anemone and Clownfish
 
 ```text
 Clownfish in anemone, coral reef environment, underwater close-up, marine symbiosis, underwater photography, high quality
 ```
+
+![image](assets/anemone_and_clownfish.png)
 
 ### 5. Reef Exploration
 
@@ -117,11 +125,15 @@ Clownfish in anemone, coral reef environment, underwater close-up, marine symbio
 A diver exploring coral reef, colorful marine life, underwater photography, marine adventure, underwater photography style, high quality
 ```
 
+![image](assets/reef_exploration.png)
+
 ### 6. Abyssal Plain
 
 ```text
 A deep sea environment with bioluminescent creatures, complete darkness, abyssal depth, marine life, underwater photography, high quality
 ```
+
+![image](assets/abyssal_plain.png)
 
 ### 7. Hydrothermal Vents
 
@@ -129,11 +141,15 @@ A deep sea environment with bioluminescent creatures, complete darkness, abyssal
 Hydrothermal vents with deep sea ecosystem, chemosynthetic life, underwater geology, underwater photography style, high quality
 ```
 
+![image](assets/hydrothermal_vents.png)
+
 ### 8. Deep Sea Fish
 
 ```text
 Deep sea fish with bioluminescence, dark environment, pressure effects, abyssal creatures, underwater photography, high quality
 ```
+
+![image](assets/deep_sea_fish.png)
 
 ### 9. Giant Squid
 
@@ -141,11 +157,15 @@ Deep sea fish with bioluminescence, dark environment, pressure effects, abyssal 
 A giant squid in deep ocean, mysterious creature, underwater encounter, marine biology, underwater photography style, high quality
 ```
 
+![image](assets/giant_squid.png)
+
 ### 10. Deep Sea Exploration
 
 ```text
 A submarine in deep sea, underwater lights, marine exploration, deep ocean environment, underwater photography, high quality
 ```
+
+![image](assets/deep_sea_exploration.png)
 
 ## Advanced Tips
 

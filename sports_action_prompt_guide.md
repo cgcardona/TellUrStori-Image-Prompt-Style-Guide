@@ -93,11 +93,15 @@
 A basketball player in mid-air dunk, dynamic action, indoor arena, dramatic lighting, sports photography, athletic performance, high quality
 ```
 
+![image](assets/basketball_action.png)
+
 ### 2. Soccer Match
 
 ```text
 Soccer players in competitive match, outdoor field, natural lighting, team sport, action shot, sports photography style, high quality
 ```
+
+![image](assets/soccer_match.png)
 
 ### 3. Football Play
 
@@ -105,11 +109,15 @@ Soccer players in competitive match, outdoor field, natural lighting, team sport
 A football player running with ball, stadium lighting, team sport, athletic action, sports moment, sports photography, high quality
 ```
 
+![image](assets/football_play.png)
+
 ### 4. Baseball Pitch
 
 ```text
 A baseball pitcher in throwing motion, outdoor stadium, natural lighting, athletic performance, sports photography style, high quality
 ```
+
+![image](assets/baseball_pitch.png)
 
 ### 5. Hockey Game
 
@@ -117,11 +125,15 @@ A baseball pitcher in throwing motion, outdoor stadium, natural lighting, athlet
 Hockey players in fast action, indoor rink, arena lighting, team sport, dynamic movement, sports photography, high quality
 ```
 
+![image](assets/hockey_game.png)
+
 ### 6. Tennis Serve
 
 ```text
 A tennis player in serving motion, outdoor court, natural lighting, individual sport, athletic action, sports photography style, high quality
 ```
+
+![image](assets/tennis_serve.png)
 
 ### 7. Gymnastics
 
@@ -129,11 +141,15 @@ A tennis player in serving motion, outdoor court, natural lighting, individual s
 A gymnast in mid-routine, indoor gym, dramatic lighting, athletic performance, dynamic pose, sports photography, high quality
 ```
 
+![image](assets/gymnastics.png)
+
 ### 8. Swimming
 
 ```text
 A swimmer in racing stroke, indoor pool, aquatic lighting, individual sport, water action, sports photography style, high quality
 ```
+
+![image](assets/swimming.png)
 
 ### 9. Track Running
 
@@ -141,11 +157,15 @@ A swimmer in racing stroke, indoor pool, aquatic lighting, individual sport, wat
 A track runner sprinting, outdoor track, natural lighting, athletic movement, speed, sports photography, high quality
 ```
 
+![image](assets/track_running.png)
+
 ### 10. Boxing Match
 
 ```text
 Boxers in fighting stance, indoor ring, dramatic lighting, combat sport, action shot, sports photography style, high quality
 ```
+
+![image](assets/boxing_match.png)
 
 ## Advanced Tips
 

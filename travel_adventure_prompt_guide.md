@@ -93,11 +93,15 @@
 A mountain landscape with panoramic view, natural lighting, outdoor adventure, wilderness setting, travel photography style, high quality
 ```
 
+![image](assets/mountain_vista.png)
+
 ### 2. Tropical Beach
 
 ```text
 A tropical beach with crystal clear water, palm trees, natural lighting, paradise setting, travel photography, high quality
 ```
+
+![image](assets/tropical_beach.png)
 
 ### 3. Desert Sunset
 
@@ -105,11 +109,15 @@ A tropical beach with crystal clear water, palm trees, natural lighting, paradis
 A desert landscape with sand dunes, sunset colors, dramatic sky, adventure atmosphere, travel photography style, high quality
 ```
 
+![image](assets/desert_sunset.png)
+
 ### 4. Forest Trail
 
 ```text
 A forest trail with dense vegetation, natural lighting, hiking adventure, wilderness, travel photography, high quality
 ```
+
+![image](assets/forest_trail.png)
 
 ### 5. Alpine Lake
 
@@ -117,11 +125,15 @@ A forest trail with dense vegetation, natural lighting, hiking adventure, wilder
 An alpine lake with mountain reflection, clear water, natural beauty, outdoor adventure, travel photography style, high quality
 ```
 
+![image](assets/alpine_lake.png)
+
 ### 6. Local Market
 
 ```text
 A local market with street vendors, cultural immersion, authentic experience, travel photography, documentary style, high quality
 ```
+
+![image](assets/local_market.png)
 
 ### 7. Traditional Village
 
@@ -129,11 +141,15 @@ A local market with street vendors, cultural immersion, authentic experience, tr
 A traditional village with local architecture, cultural heritage, authentic travel, rural setting, travel photography style, high quality
 ```
 
+![image](assets/traditional_village.png)
+
 ### 8. Cultural Festival
 
 ```text
 A cultural festival with traditional celebration, local people, authentic experience, travel documentary, cultural photography, high quality
 ```
+
+![image](assets/cultural_festival.png)
 
 ### 9. Local Craftsman
 
@@ -141,11 +157,15 @@ A cultural festival with traditional celebration, local people, authentic experi
 A local craftsman doing traditional work, cultural immersion, authentic portrait, travel photography style, high quality
 ```
 
+![image](assets/local_craftsman.png)
+
 ### 10. Street Food
 
 ```text
 A street food vendor with local cuisine, cultural experience, authentic travel, urban setting, travel photography, high quality
 ```
+
+![image](assets/street_food.png)
 
 ## Advanced Tips
 

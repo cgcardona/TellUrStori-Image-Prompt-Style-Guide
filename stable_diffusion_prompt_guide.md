@@ -154,11 +154,15 @@ A majestic eagle in flight, natural habitat, environmental portrait, shot on Can
 A confident businesswoman, professional headshot pose, three-point studio lighting, shot on Canon EOS R5 with 85mm f/1.4 lens, shallow depth of field, sharp focus on eyes, natural skin texture, professional makeup, high-end fashion photography, photorealistic, 8K resolution, award-winning portrait
 ```
 
+![image](assets/portrait_photography.png)
+
 ### 2. Landscape Photography
 
 ```text
 Majestic mountain range at sunset, golden hour lighting, dramatic clouds, aerial drone photography, wide-angle lens, rule of thirds composition, leading lines, HDR processing, National Geographic style, photorealistic, 8K resolution, professional landscape photography
 ```
+
+![image](assets/landscape_photography.png)
 
 ### 3. Wildlife Photography
 
@@ -166,11 +170,15 @@ Majestic mountain range at sunset, golden hour lighting, dramatic clouds, aerial
 A majestic eagle in flight, natural habitat, environmental portrait, shot on Canon EOS R5 with 400mm f/2.8 lens, shallow depth of field, golden hour backlighting, sharp focus on the bird, National Geographic style, wildlife photography, photorealistic, 8K resolution
 ```
 
+![image](assets/wildlife_photography.png)
+
 ### 4. Macro Photography
 
 ```text
 A dewdrop on a spider web, macro lens shot, shallow depth of field, natural morning light, shot on Canon EOS R5 with 100mm f/2.8 macro lens, intricate details, National Geographic style, photorealistic, 8K resolution, professional macro photography
 ```
+
+![image](assets/macro_photography.png)
 
 ### 5. Street Photography
 
@@ -178,11 +186,15 @@ A dewdrop on a spider web, macro lens shot, shallow depth of field, natural morn
 A busy urban intersection at night, street photography, neon lights and traffic streaks, shot on Leica Q2 with 28mm f/1.7 lens, cinematic lighting, documentary style, photorealistic, 8K resolution, award-winning street photography
 ```
 
+![image](assets/street_photography.png)
+
 ### 6. Architectural Photography
 
 ```text
 A modern glass skyscraper, architectural photography, dramatic perspective, golden hour lighting, shot on Canon EOS R5 with 24-70mm f/2.8 lens, clean lines and geometry, professional real estate photography, photorealistic, 8K resolution
 ```
+
+![image](assets/architectural_photography.png)
 
 ### 7. Food Photography
 
@@ -190,11 +202,15 @@ A modern glass skyscraper, architectural photography, dramatic perspective, gold
 A gourmet dish with artistic plating, food photography, studio lighting setup, shot on Canon EOS R5 with 85mm f/1.4 lens, shallow depth of field, professional food styling, commercial photography, photorealistic, 8K resolution
 ```
 
+![image](assets/food_photography.png)
+
 ### 8. Fashion Photography
 
 ```text
 A fashion model in designer clothing, editorial fashion photography, dramatic studio lighting, shot on Canon EOS R5 with 85mm f/1.4 lens, shallow depth of field, Vogue style, professional fashion photography, photorealistic, 8K resolution
 ```
+
+![image](assets/fashion_photography.png)
 
 ### 9. Automotive Photography
 
@@ -202,11 +218,15 @@ A fashion model in designer clothing, editorial fashion photography, dramatic st
 A luxury sports car on a mountain road, automotive photography, golden hour lighting, dynamic angle, shot on Canon EOS R5 with 24-70mm f/2.8 lens, motion blur background, professional automotive photography, photorealistic, 8K resolution
 ```
 
+![image](assets/automotive_photography.png)
+
 ### 10. Abstract Photography
 
 ```text
 Abstract light patterns and colors, creative photography, experimental lighting, shot on Canon EOS R5 with 50mm f/1.8 lens, artistic composition, fine art photography, photorealistic, 8K resolution, gallery-worthy abstract art
 ```
+
+![image](assets/abstract_photography.png)
 
 ## Advanced Tips
 

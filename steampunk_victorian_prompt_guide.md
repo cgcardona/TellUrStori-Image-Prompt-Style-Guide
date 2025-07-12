@@ -88,11 +88,15 @@
 A portrait of a steampunk inventor with brass goggles, leather apron, copper tools, gas lamp lighting, detailed facial features, victorian workshop background, steampunk style, high quality
 ```
 
+![image](assets/steampunk_inventor.png)
+
 ### 2. Victorian Lady
 
 ```text
 An elegant victorian lady in silk dress, lace gloves, parasol, ornate jewelry, soft natural lighting, garden setting, victorian style, high quality
 ```
+
+![image](assets/victorian_lady.png)
 
 ### 3. Steam Engineer
 
@@ -100,11 +104,15 @@ An elegant victorian lady in silk dress, lace gloves, parasol, ornate jewelry, s
 A steam engineer with brass helmet, copper pipes, leather gloves, workshop environment, dramatic lighting, steampunk style, high quality
 ```
 
+![image](assets/steam_engineer.png)
+
 ### 4. Victorian Gentleman
 
 ```text
 A distinguished victorian gentleman with top hat, waistcoat, pocket watch, library interior, warm lighting, victorian style, high quality
 ```
+
+![image](assets/victorian_gentleman.png)
 
 ### 5. Steampunk Aviator
 
@@ -112,11 +120,15 @@ A distinguished victorian gentleman with top hat, waistcoat, pocket watch, libra
 A steampunk aviator with leather flying cap, brass goggles, copper airship controls, sky background, steampunk style, high quality
 ```
 
+![image](assets/steampunk_aviator.png)
+
 ### 6. Steam-Powered Factory
 
 ```text
 A steam-powered factory interior with brass machinery, copper pipes, coal smoke, industrial lighting, workers, steampunk style, high quality
 ```
+
+![image](assets/steam_powered_factory.png)
 
 ### 7. Victorian Parlor
 
@@ -124,11 +136,15 @@ A steam-powered factory interior with brass machinery, copper pipes, coal smoke,
 A victorian parlor with ornate furniture, gas lighting, lace curtains, fireplace, elegant atmosphere, victorian style, high quality
 ```
 
+![image](assets/victorian_parlor.png)
+
 ### 8. Steampunk Airship
 
 ```text
 A steampunk airship deck with brass controls, copper tubing, wooden deck, sky views, steam clouds, steampunk style, high quality
 ```
+
+![image](assets/steampunk_airship.png)
 
 ### 9. Victorian Street
 
@@ -136,11 +152,15 @@ A steampunk airship deck with brass controls, copper tubing, wooden deck, sky vi
 A victorian street scene with gas lamps, horse-drawn carriages, brick buildings, cobblestone streets, victorian style, high quality
 ```
 
+![image](assets/victorian_street.png)
+
 ### 10. Steam Workshop
 
 ```text
 A steam workshop with brass tools, copper pipes, leather aprons, wood workbenches, warm lighting, steampunk style, high quality
 ```
+
+![image](assets/steam_workshop.png)
 
 ## Advanced Tips
 

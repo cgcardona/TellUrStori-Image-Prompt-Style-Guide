@@ -93,11 +93,15 @@
 A busy urban street with diverse crowd, natural lighting, city atmosphere, street photography, authentic urban life, high quality
 ```
 
+![image](assets/busy_street_scene.png)
+
 ### 2. Street Vendor
 
 ```text
 A street vendor at urban market, authentic scene, natural lighting, city life, street photography style, high quality
 ```
+
+![image](assets/street_vendor.png)
 
 ### 3. Urban Commuter
 
@@ -105,11 +109,15 @@ A street vendor at urban market, authentic scene, natural lighting, city life, s
 A commuter on street with city background, natural pose, urban environment, street photography, documentary style, high quality
 ```
 
+![image](assets/urban_commuter.png)
+
 ### 4. Street Musician
 
 ```text
 A street performer in urban setting, natural lighting, city entertainment, authentic moment, street photography, high quality
 ```
+
+![image](assets/street_musician.png)
 
 ### 5. Urban Family
 
@@ -117,11 +125,15 @@ A street performer in urban setting, natural lighting, city entertainment, authe
 A family on city street, natural interaction, urban background, street life, documentary style photography, high quality
 ```
 
+![image](assets/urban_family.png)
+
 ### 6. City Skyline
 
 ```text
 An urban skyline with modern buildings, cityscape view, natural lighting, urban architecture, street photography, high quality
 ```
+
+![image](assets/city_skyline.png)
 
 ### 7. Historic Street
 
@@ -129,11 +141,15 @@ An urban skyline with modern buildings, cityscape view, natural lighting, urban 
 A historic urban street with old buildings, traditional architecture, city heritage, street photography style, high quality
 ```
 
+![image](assets/historic_street.png)
+
 ### 8. Street Market
 
 ```text
 An urban market with street vendors, city commerce, natural lighting, street life, authentic atmosphere, high quality
 ```
+
+![image](assets/street_market.png)
 
 ### 9. Industrial Area
 
@@ -141,11 +157,15 @@ An urban market with street vendors, city commerce, natural lighting, street lif
 An industrial urban area with factories, urban industry, gritty atmosphere, city environment, street photography, high quality
 ```
 
+![image](assets/industrial_area.png)
+
 ### 10. Urban Park
 
 ```text
 A city park with urban green space, people relaxing, natural lighting, urban recreation, street photography, high quality
 ```
+
+![image](assets/urban_park.png)
 
 ## Advanced Tips
 

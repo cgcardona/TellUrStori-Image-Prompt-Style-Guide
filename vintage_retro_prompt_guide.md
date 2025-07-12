@@ -99,11 +99,15 @@
 A vintage portrait with art deco style, flapper dress, geometric background, vintage lighting, 1920s aesthetic, retro photography, high quality
 ```
 
+![image](assets/art_deco_portrait.png)
+
 ### 2. Speakeasy Scene
 
 ```text
 A vintage speakeasy with jazz musicians, art deco interior, vintage lighting, prohibition era atmosphere, 1920s style, high quality
 ```
+
+![image](assets/speakeasy_scene.png)
 
 ### 3. Vintage Car
 
@@ -111,11 +115,15 @@ A vintage speakeasy with jazz musicians, art deco interior, vintage lighting, pr
 A classic vintage car with art deco design, chrome details, vintage street scene, 1930s aesthetic, retro photography, high quality
 ```
 
+![image](assets/vintage_car.png)
+
 ### 4. Gangster Portrait
 
 ```text
 A vintage gangster in pinstripe suit, fedora hat, vintage film noir lighting, 1920s style, retro photography, high quality
 ```
+
+![image](assets/gangster_portrait.png)
 
 ### 5. Vintage Advertisement
 
@@ -123,11 +131,15 @@ A vintage gangster in pinstripe suit, fedora hat, vintage film noir lighting, 19
 A vintage ad with art deco typography, vintage product, retro colors, 1930s advertising style, vintage design, high quality
 ```
 
+![image](assets/vintage_advertisement.png)
+
 ### 6. Pin-up Girl
 
 ```text
 A vintage pin-up in 1940s style, retro fashion, vintage photography, classic beauty, pin-up art style, high quality
 ```
+
+![image](assets/pin_up_girl.png)
 
 ### 7. Vintage Diner
 
@@ -135,11 +147,15 @@ A vintage pin-up in 1940s style, retro fashion, vintage photography, classic bea
 A classic diner with vintage interior, jukebox, vintage cars outside, 1950s aesthetic, retro photography, high quality
 ```
 
+![image](assets/vintage_diner.png)
+
 ### 8. Rock and Roll
 
 ```text
 A vintage rock concert with 1950s musicians, vintage instruments, retro lighting, classic rock atmosphere, vintage style, high quality
 ```
+
+![image](assets/rock_and_roll.png)
 
 ### 9. Suburban Life
 
@@ -147,11 +163,15 @@ A vintage rock concert with 1950s musicians, vintage instruments, retro lighting
 A vintage suburban home with 1950s family, vintage appliances, retro lifestyle, classic americana, vintage photography, high quality
 ```
 
+![image](assets/suburban_life.png)
+
 ### 10. Vintage Military
 
 ```text
 A vintage military portrait with 1940s uniform, vintage photography, war era atmosphere, classic style, retro photography, high quality
 ```
+
+![image](assets/vintage_military.png)
 
 ## Advanced Tips
 
