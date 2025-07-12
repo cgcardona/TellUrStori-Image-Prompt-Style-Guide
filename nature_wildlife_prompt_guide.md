@@ -63,10 +63,9 @@
 
 ## Negative Prompts
 
-- "domesticated", "pet", "captive", "zoo"
-- "artificial", "man-made", "urban", "city"
-- "cartoon", "animated", "fantasy", "mythical"
-- "dead", "injured", "sick", "distressed"
+```text
+domesticated, pet, captive, zoo, artificial, man-made, urban, city, cartoon, animated, fantasy, mythical, dead, injured, sick, distressed
+```
 
 ## Sample Prompts by Category
 
