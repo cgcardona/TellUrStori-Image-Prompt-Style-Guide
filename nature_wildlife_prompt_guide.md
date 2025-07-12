@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [wildlife/nature elements], [environment], [lighting], [season], [artistic style], [technical quality]
 ```
 
@@ -90,7 +90,7 @@
 
 ### 1. Lion Portrait
 
-```
+```text
 A majestic lion in close-up portrait, golden mane, amber eyes, natural lighting, african savanna background, wildlife photography style, high quality
 ```
 
@@ -98,7 +98,7 @@ A majestic lion in close-up portrait, golden mane, amber eyes, natural lighting,
 
 ### 2. Eagle in Flight
 
-```
+```text
 A bald eagle soaring through sky, spread wings, dramatic clouds, natural flight, wilderness setting, wildlife photography, high quality
 ```
 
@@ -106,7 +106,7 @@ A bald eagle soaring through sky, spread wings, dramatic clouds, natural flight,
 
 ### 3. Wolf Pack
 
-```
+```text
 A wolf pack in social interaction, natural behavior, forest environment, misty atmosphere, wild wolves, wildlife photography style, high quality
 ```
 
@@ -114,7 +114,7 @@ A wolf pack in social interaction, natural behavior, forest environment, misty a
 
 ### 4. Elephant Family
 
-```
+```text
 An elephant family with matriarch leading, natural habitat, golden hour lighting, african landscape, wildlife photography, high quality
 ```
 
@@ -122,7 +122,7 @@ An elephant family with matriarch leading, natural habitat, golden hour lighting
 
 ### 5. Tiger Hunting
 
-```
+```text
 A bengal tiger stalking prey, natural hunting behavior, tall grass, dramatic lighting, wild tiger, wildlife photography style, high quality
 ```
 
@@ -130,7 +130,7 @@ A bengal tiger stalking prey, natural hunting behavior, tall grass, dramatic lig
 
 ### 6. Mountain Lake
 
-```
+```text
 An alpine lake with crystal clear water, mountain peaks, reflection, natural landscape, pristine wilderness, nature photography, high quality
 ```
 
@@ -138,7 +138,7 @@ An alpine lake with crystal clear water, mountain peaks, reflection, natural lan
 
 ### 7. Tropical Rainforest
 
-```
+```text
 A dense rainforest with lush vegetation, tropical plants, natural lighting, biodiversity, wild nature, nature photography style, high quality
 ```
 
@@ -146,7 +146,7 @@ A dense rainforest with lush vegetation, tropical plants, natural lighting, biod
 
 ### 8. Desert Sunset
 
-```
+```text
 A desert landscape with sand dunes, sunset colors, dramatic sky, natural lighting, arid environment, nature photography, high quality
 ```
 
@@ -154,7 +154,7 @@ A desert landscape with sand dunes, sunset colors, dramatic sky, natural lightin
 
 ### 9. Coral Reef
 
-```
+```text
 A vibrant coral reef with marine life, underwater scene, natural colors, ocean environment, biodiversity, nature photography style, high quality
 ```
 
@@ -162,7 +162,7 @@ A vibrant coral reef with marine life, underwater scene, natural colors, ocean e
 
 ### 10. Arctic Tundra
 
-```
+```text
 An arctic landscape with snow coverage, polar environment, natural lighting, pristine wilderness, cold climate, nature photography, high quality
 ```
 

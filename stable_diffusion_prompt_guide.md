@@ -25,13 +25,13 @@
 
 ### Base Template
 
-```
+```text
 [subject], [action/pose], [lighting], [camera settings], [style], [quality], [composition], [mood/atmosphere]
 ```
 
 ### Example
 
-```
+```text
 A majestic lion, standing proudly on a rocky outcrop, golden hour lighting, shot on Canon EOS R5 with 200mm f/2.8 lens, shallow depth of field, photorealistic, 8K resolution, rule of thirds composition, dramatic atmosphere, National Geographic style
 ```
 
@@ -66,13 +66,13 @@ A majestic lion, standing proudly on a rocky outcrop, golden hour lighting, shot
 
 ### Essential Negative Prompts
 
-```
+```text
 blurry, low quality, pixelated, distorted, deformed, ugly, bad anatomy, watermark, signature, text, oversaturated, cartoon, anime, painting, drawing, illustration
 ```
 
 ### Advanced Negative Prompts
 
-```
+```text
 low resolution, poor lighting, amateur photography, cell phone photo, grainy, noisy, out of focus, motion blur, chromatic aberration, lens flare, vignette
 ```
 
@@ -80,25 +80,25 @@ low resolution, poor lighting, amateur photography, cell phone photo, grainy, no
 
 ### 1. **Portraits**
 
-```
+```text
 professional headshot, studio lighting, shallow depth of field, sharp focus on eyes, natural skin texture, professional makeup, high-end fashion photography
 ```
 
 ### 2. **Landscapes**
 
-```
+```text
 aerial photography, drone shot, golden hour, dramatic clouds, leading lines, rule of thirds, panoramic view, HDR processing
 ```
 
 ### 3. **Architecture**
 
-```
+```text
 architectural photography, clean lines, geometric composition, dramatic shadows, golden hour lighting, wide-angle lens, professional real estate photography
 ```
 
 ### 4. **Nature/Wildlife**
 
-```
+```text
 wildlife photography, natural habitat, environmental portrait, telephoto lens, shallow depth of field, National Geographic style, documentary photography
 ```
 
@@ -116,7 +116,7 @@ Use parentheses and numbers to emphasize elements:
 
 Break complex scenes into parts:
 
-```
+```text
 "professional studio setup, three-point lighting, (subject), (pose), (expression), (clothing), (background), photorealistic, 8K resolution"
 ```
 
@@ -130,19 +130,19 @@ Break complex scenes into parts:
 
 ### Portrait Photography
 
-```
+```text
 A confident businesswoman, professional headshot pose, three-point studio lighting, shot on Canon EOS R5 with 85mm f/1.4 lens, shallow depth of field, sharp focus on eyes, natural skin texture, professional makeup, high-end fashion photography, photorealistic, 8K resolution, award-winning portrait
 ```
 
 ### Landscape Photography
 
-```
+```text
 Majestic mountain range at sunset, golden hour lighting, dramatic clouds, aerial drone photography, wide-angle lens, rule of thirds composition, leading lines, HDR processing, National Geographic style, photorealistic, 8K resolution, professional landscape photography
 ```
 
 ### Wildlife Photography
 
-```
+```text
 A majestic eagle in flight, natural habitat, environmental portrait, shot on Canon EOS R5 with 400mm f/2.8 lens, shallow depth of field, golden hour backlighting, sharp focus on the bird, National Geographic style, wildlife photography, photorealistic, 8K resolution
 ```
 
@@ -150,61 +150,61 @@ A majestic eagle in flight, natural habitat, environmental portrait, shot on Can
 
 ### 1. Portrait Photography
 
-```
+```text
 A confident businesswoman, professional headshot pose, three-point studio lighting, shot on Canon EOS R5 with 85mm f/1.4 lens, shallow depth of field, sharp focus on eyes, natural skin texture, professional makeup, high-end fashion photography, photorealistic, 8K resolution, award-winning portrait
 ```
 
 ### 2. Landscape Photography
 
-```
+```text
 Majestic mountain range at sunset, golden hour lighting, dramatic clouds, aerial drone photography, wide-angle lens, rule of thirds composition, leading lines, HDR processing, National Geographic style, photorealistic, 8K resolution, professional landscape photography
 ```
 
 ### 3. Wildlife Photography
 
-```
+```text
 A majestic eagle in flight, natural habitat, environmental portrait, shot on Canon EOS R5 with 400mm f/2.8 lens, shallow depth of field, golden hour backlighting, sharp focus on the bird, National Geographic style, wildlife photography, photorealistic, 8K resolution
 ```
 
 ### 4. Macro Photography
 
-```
+```text
 A dewdrop on a spider web, macro lens shot, shallow depth of field, natural morning light, shot on Canon EOS R5 with 100mm f/2.8 macro lens, intricate details, National Geographic style, photorealistic, 8K resolution, professional macro photography
 ```
 
 ### 5. Street Photography
 
-```
+```text
 A busy urban intersection at night, street photography, neon lights and traffic streaks, shot on Leica Q2 with 28mm f/1.7 lens, cinematic lighting, documentary style, photorealistic, 8K resolution, award-winning street photography
 ```
 
 ### 6. Architectural Photography
 
-```
+```text
 A modern glass skyscraper, architectural photography, dramatic perspective, golden hour lighting, shot on Canon EOS R5 with 24-70mm f/2.8 lens, clean lines and geometry, professional real estate photography, photorealistic, 8K resolution
 ```
 
 ### 7. Food Photography
 
-```
+```text
 A gourmet dish with artistic plating, food photography, studio lighting setup, shot on Canon EOS R5 with 85mm f/1.4 lens, shallow depth of field, professional food styling, commercial photography, photorealistic, 8K resolution
 ```
 
 ### 8. Fashion Photography
 
-```
+```text
 A fashion model in designer clothing, editorial fashion photography, dramatic studio lighting, shot on Canon EOS R5 with 85mm f/1.4 lens, shallow depth of field, Vogue style, professional fashion photography, photorealistic, 8K resolution
 ```
 
 ### 9. Automotive Photography
 
-```
+```text
 A luxury sports car on a mountain road, automotive photography, golden hour lighting, dynamic angle, shot on Canon EOS R5 with 24-70mm f/2.8 lens, motion blur background, professional automotive photography, photorealistic, 8K resolution
 ```
 
 ### 10. Abstract Photography
 
-```
+```text
 Abstract light patterns and colors, creative photography, experimental lighting, shot on Canon EOS R5 with 50mm f/1.8 lens, artistic composition, fine art photography, photorealistic, 8K resolution, gallery-worthy abstract art
 ```
 

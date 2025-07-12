@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [horror elements], [lighting], [atmosphere], [mood], [artistic style], [technical quality]
 ```
 
@@ -89,7 +89,7 @@
 
 ### 1. Ghostly Apparition
 
-```
+```text
 A ghostly figure, translucent appearance, floating in a dark hallway, flickering candlelight, cold atmosphere, horror mood, unsettling presence, supernatural horror style, high quality
 ```
 
@@ -97,7 +97,7 @@ A ghostly figure, translucent appearance, floating in a dark hallway, flickering
 
 ### 2. Haunted House
 
-```
+```text
 An abandoned mansion with broken windows, cobwebs covering doorways, dark shadows everywhere, creaking floorboards, supernatural presence, horror atmosphere, macabre style, high quality
 ```
 
@@ -105,7 +105,7 @@ An abandoned mansion with broken windows, cobwebs covering doorways, dark shadow
 
 ### 3. Demonic Entity
 
-```
+```text
 A demonic figure with glowing red eyes, dark aura surrounding it, ritual circle on floor, candlelight illumination, occult symbols, horror atmosphere, supernatural horror style, high quality
 ```
 
@@ -113,7 +113,7 @@ A demonic figure with glowing red eyes, dark aura surrounding it, ritual circle 
 
 ### 4. Possessed Child
 
-```
+```text
 A child with completely black eyes, unnatural smile, standing in a dark room, unsettling atmosphere, supernatural horror, psychological tension, macabre style, high quality
 ```
 
@@ -121,7 +121,7 @@ A child with completely black eyes, unnatural smile, standing in a dark room, un
 
 ### 5. Cursed Object
 
-```
+```text
 An ancient artifact emanating dark energy, placed in a shadowy room, ominous lighting, supernatural horror, mysterious atmosphere, macabre style, high quality
 ```
 
@@ -129,7 +129,7 @@ An ancient artifact emanating dark energy, placed in a shadowy room, ominous lig
 
 ### 6. Distorted Reality
 
-```
+```text
 A room with impossible geometry, warped perspective, distorted walls, unsettling atmosphere, psychological horror, mind-bending visuals, horror style, high quality
 ```
 
@@ -137,7 +137,7 @@ A room with impossible geometry, warped perspective, distorted walls, unsettling
 
 ### 7. Paranoid Environment
 
-```
+```text
 An endless corridor with repeating patterns, claustrophobic space, trapped feeling, psychological tension, paranoid atmosphere, horror style, high quality
 ```
 
@@ -145,7 +145,7 @@ An endless corridor with repeating patterns, claustrophobic space, trapped feeli
 
 ### 8. Memory Flashback
 
-```
+```text
 Fragmented memories with distorted faces, dark atmosphere, psychological horror, unsettling imagery, mental distress, horror style, high quality
 ```
 
@@ -153,7 +153,7 @@ Fragmented memories with distorted faces, dark atmosphere, psychological horror,
 
 ### 9. Isolation Horror
 
-```
+```text
 An empty house with someone alone, dark corners everywhere, paranoia setting in, psychological horror, unsettling atmosphere, macabre style, high quality
 ```
 
@@ -161,7 +161,7 @@ An empty house with someone alone, dark corners everywhere, paranoia setting in,
 
 ### 10. Mental Breakdown
 
-```
+```text
 A fractured reality with distorted perception, dark mood, psychological horror, unsettling visuals, mental chaos, horror style, high quality
 ```
 

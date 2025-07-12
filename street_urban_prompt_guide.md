@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [urban elements], [location], [lighting], [atmosphere], [artistic style], [technical quality]
 ```
 
@@ -89,61 +89,61 @@
 
 ### 1. Busy Street Scene
 
-```
+```text
 A busy urban street with diverse crowd, natural lighting, city atmosphere, street photography, authentic urban life, high quality
 ```
 
 ### 2. Street Vendor
 
-```
+```text
 A street vendor at urban market, authentic scene, natural lighting, city life, street photography style, high quality
 ```
 
 ### 3. Urban Commuter
 
-```
+```text
 A commuter on street with city background, natural pose, urban environment, street photography, documentary style, high quality
 ```
 
 ### 4. Street Musician
 
-```
+```text
 A street performer in urban setting, natural lighting, city entertainment, authentic moment, street photography, high quality
 ```
 
 ### 5. Urban Family
 
-```
+```text
 A family on city street, natural interaction, urban background, street life, documentary style photography, high quality
 ```
 
 ### 6. City Skyline
 
-```
+```text
 An urban skyline with modern buildings, cityscape view, natural lighting, urban architecture, street photography, high quality
 ```
 
 ### 7. Historic Street
 
-```
+```text
 A historic urban street with old buildings, traditional architecture, city heritage, street photography style, high quality
 ```
 
 ### 8. Street Market
 
-```
+```text
 An urban market with street vendors, city commerce, natural lighting, street life, authentic atmosphere, high quality
 ```
 
 ### 9. Industrial Area
 
-```
+```text
 An industrial urban area with factories, urban industry, gritty atmosphere, city environment, street photography, high quality
 ```
 
 ### 10. Urban Park
 
-```
+```text
 A city park with urban green space, people relaxing, natural lighting, urban recreation, street photography, high quality
 ```
 

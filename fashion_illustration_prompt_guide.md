@@ -28,13 +28,13 @@
 
 ### Base Template
 
-```
+```text
 [fashion item], [style/category], [pose/action], [background], [lighting], [fashion style], [quality], [mood]
 ```
 
 ### Example
 
-```
+```text
 A fashion model wearing an elegant evening gown, haute couture style, dynamic pose, minimal background, studio lighting, fashion illustration style, high quality, sophisticated mood
 ```
 
@@ -72,13 +72,13 @@ A fashion model wearing an elegant evening gown, haute couture style, dynamic po
 
 ### Fashion Illustration Quality Enhancers
 
-```
+```text
 fashion illustration, fashion art, fashion design, fashion sketch, fashion drawing, professional fashion, fashion model, fashion photography
 ```
 
 ### Fashion References
 
-```
+```text
 Vogue style, Harper's Bazaar style, Elle style, fashion magazine, runway fashion, haute couture, designer fashion
 ```
 
@@ -86,13 +86,13 @@ Vogue style, Harper's Bazaar style, Elle style, fashion magazine, runway fashion
 
 ### Essential Fashion Negatives
 
-```
+```text
 realistic proportions, normal proportions, everyday clothing, casual wear, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
 ### Advanced Negatives
 
-```
+```text
 amateur photography, poor lighting, bad composition, unrealistic poses, impossible anatomy, cartoon, anime, manga
 ```
 
@@ -100,19 +100,19 @@ amateur photography, poor lighting, bad composition, unrealistic poses, impossib
 
 ### Haute Couture Fashion
 
-```
+```text
 A fashion model wearing an elaborate haute couture gown, elegant pose with flowing fabric, minimal background, studio lighting, fashion illustration style, high quality, luxury mood
 ```
 
 ### Streetwear Fashion
 
-```
+```text
 A fashion model wearing contemporary streetwear, dynamic urban pose, city background, natural lighting, fashion illustration style, high quality, trendy mood
 ```
 
 ### Fashion Accessories
 
-```
+```text
 A fashion illustration of luxury handbags and shoes, elegant composition, minimal background, studio lighting, fashion illustration style, high quality, sophisticated mood
 ```
 
@@ -120,7 +120,7 @@ A fashion illustration of luxury handbags and shoes, elegant composition, minima
 
 ### 1. Haute Couture Fashion
 
-```
+```text
 A fashion model wearing an elaborate haute couture gown, elegant pose with flowing fabric, minimal background, studio lighting, fashion illustration style, high quality, luxury mood
 ```
 
@@ -128,7 +128,7 @@ A fashion model wearing an elaborate haute couture gown, elegant pose with flowi
 
 ### 2. Streetwear Fashion
 
-```
+```text
 A fashion model wearing contemporary streetwear, dynamic urban pose, city background, natural lighting, fashion illustration style, high quality, trendy mood
 ```
 
@@ -136,7 +136,7 @@ A fashion model wearing contemporary streetwear, dynamic urban pose, city backgr
 
 ### 3. Fashion Accessories
 
-```
+```text
 A fashion illustration of luxury handbags and shoes, elegant composition, minimal background, studio lighting, fashion illustration style, high quality, sophisticated mood
 ```
 
@@ -144,7 +144,7 @@ A fashion illustration of luxury handbags and shoes, elegant composition, minima
 
 ### 4. Evening Wear
 
-```
+```text
 A fashion model wearing an elegant evening dress, sophisticated pose, minimal background, studio lighting, fashion illustration style, high quality, glamorous mood
 ```
 
@@ -152,7 +152,7 @@ A fashion model wearing an elegant evening dress, sophisticated pose, minimal ba
 
 ### 5. Business Fashion
 
-```
+```text
 A fashion model wearing a business suit, professional pose, office background, natural lighting, fashion illustration style, high quality, professional mood
 ```
 
@@ -160,7 +160,7 @@ A fashion model wearing a business suit, professional pose, office background, n
 
 ### 6. Casual Fashion
 
-```
+```text
 A fashion model wearing casual clothing, relaxed pose, urban background, natural lighting, fashion illustration style, high quality, comfortable mood
 ```
 
@@ -168,7 +168,7 @@ A fashion model wearing casual clothing, relaxed pose, urban background, natural
 
 ### 7. Vintage Fashion
 
-```
+```text
 A fashion model wearing vintage clothing, classic pose, retro background, warm lighting, fashion illustration style, high quality, nostalgic mood
 ```
 
@@ -176,7 +176,7 @@ A fashion model wearing vintage clothing, classic pose, retro background, warm l
 
 ### 8. Wedding Fashion
 
-```
+```text
 A fashion model wearing a wedding dress, elegant pose, minimal background, soft lighting, fashion illustration style, high quality, romantic mood
 ```
 
@@ -184,7 +184,7 @@ A fashion model wearing a wedding dress, elegant pose, minimal background, soft 
 
 ### 9. Swimwear Fashion
 
-```
+```text
 A fashion model wearing swimwear, dynamic pose, beach background, natural lighting, fashion illustration style, high quality, summer mood
 ```
 
@@ -192,7 +192,7 @@ A fashion model wearing swimwear, dynamic pose, beach background, natural lighti
 
 ### 10. Accessories Focus
 
-```
+```text
 A fashion illustration focusing on jewelry and accessories, elegant composition, minimal background, studio lighting, fashion illustration style, high quality, luxury mood
 ```
 

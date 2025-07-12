@@ -28,13 +28,13 @@
 
 ### Base Template
 
-```
+```text
 [subject/scene], [noir elements], [lighting], [environment], [film style], [quality], [mood/atmosphere]
 ```
 
 ### Example
 
-```
+```text
 A detective in a trench coat, dramatic shadows and high contrast, rain-soaked city street, film noir photography style, high quality, mysterious atmosphere
 ```
 
@@ -72,13 +72,13 @@ A detective in a trench coat, dramatic shadows and high contrast, rain-soaked ci
 
 ### Noir Quality Enhancers
 
-```
+```text
 film noir, noir photography, black and white photography, dramatic photography, moody photography, vintage photography, classic film, noir art
 ```
 
 ### Film References
 
-```
+```text
 Casablanca style, The Maltese Falcon style, Double Indemnity style, classic noir film, vintage film photography, retro photography
 ```
 
@@ -86,13 +86,13 @@ Casablanca style, The Maltese Falcon style, Double Indemnity style, classic noir
 
 ### Essential Noir Negatives
 
-```
+```text
 color photography, bright lighting, cheerful mood, happy atmosphere, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
 ### Advanced Negatives
 
-```
+```text
 modern photography, digital photography, bright colors, sunny day, cheerful scene, happy mood, light atmosphere
 ```
 
@@ -100,19 +100,19 @@ modern photography, digital photography, bright colors, sunny day, cheerful scen
 
 ### Classic Film Noir Scene
 
-```
+```text
 A detective in a trench coat standing in a rain-soaked alley, dramatic shadows and high contrast lighting, film noir photography style, black and white, high quality, mysterious atmosphere
 ```
 
 ### Neo-Noir Character
 
-```
+```text
 A femme fatale in elegant dress, dramatic side lighting with deep shadows, urban background, neo-noir photography style, high quality, seductive and mysterious mood
 ```
 
 ### Vintage Film Photography
 
-```
+```text
 A vintage car on a foggy street, black and white photography with film grain, dramatic lighting, classic film photography style, high quality, nostalgic atmosphere
 ```
 
@@ -120,7 +120,7 @@ A vintage car on a foggy street, black and white photography with film grain, dr
 
 ### 1. Classic Film Noir Scene
 
-```
+```text
 A detective in a trench coat standing in a rain-soaked alley, dramatic shadows and high contrast lighting, film noir photography style, black and white, high quality, mysterious atmosphere
 ```
 
@@ -128,7 +128,7 @@ A detective in a trench coat standing in a rain-soaked alley, dramatic shadows a
 
 ### 2. Neo-Noir Character
 
-```
+```text
 A femme fatale in elegant dress, dramatic side lighting with deep shadows, urban background, neo-noir photography style, high quality, seductive and mysterious mood
 ```
 
@@ -136,7 +136,7 @@ A femme fatale in elegant dress, dramatic side lighting with deep shadows, urban
 
 ### 3. Vintage Film Photography
 
-```
+```text
 A vintage car on a foggy street, black and white photography with film grain, dramatic lighting, classic film photography style, high quality, nostalgic atmosphere
 ```
 
@@ -144,7 +144,7 @@ A vintage car on a foggy street, black and white photography with film grain, dr
 
 ### 4. Urban Noir Scene
 
-```
+```text
 A shadowy figure in a neon-lit alley, dramatic side lighting with deep shadows, urban environment, film noir photography style, black and white, high quality, mysterious atmosphere
 ```
 
@@ -152,7 +152,7 @@ A shadowy figure in a neon-lit alley, dramatic side lighting with deep shadows, 
 
 ### 5. Interior Noir Scene
 
-```
+```text
 A dimly lit office with dramatic shadows, chiaroscuro lighting, urban interior, film noir photography style, black and white, high quality, moody atmosphere
 ```
 
@@ -160,7 +160,7 @@ A dimly lit office with dramatic shadows, chiaroscuro lighting, urban interior, 
 
 ### 6. Rainy Street Scene
 
-```
+```text
 A rain-soaked city street with dramatic lighting, high contrast shadows, urban environment, film noir photography style, black and white, high quality, atmospheric mood
 ```
 
@@ -168,7 +168,7 @@ A rain-soaked city street with dramatic lighting, high contrast shadows, urban e
 
 ### 7. Silhouette Scene
 
-```
+```text
 A mysterious silhouette against a dramatic background, backlighting with deep shadows, urban environment, film noir photography style, black and white, high quality, mysterious atmosphere
 ```
 
@@ -176,7 +176,7 @@ A mysterious silhouette against a dramatic background, backlighting with deep sh
 
 ### 8. Foggy Scene
 
-```
+```text
 A foggy street with dramatic lighting, atmospheric weather conditions, urban environment, film noir photography style, black and white, high quality, moody atmosphere
 ```
 
@@ -184,7 +184,7 @@ A foggy street with dramatic lighting, atmospheric weather conditions, urban env
 
 ### 9. Bar Scene
 
-```
+```text
 A smoky bar interior with dramatic lighting, chiaroscuro shadows, urban interior, film noir photography style, black and white, high quality, atmospheric mood
 ```
 
@@ -192,7 +192,7 @@ A smoky bar interior with dramatic lighting, chiaroscuro shadows, urban interior
 
 ### 10. Mystery Scene
 
-```
+```text
 A mysterious figure in a dramatic environment, high contrast lighting with deep shadows, urban setting, film noir photography style, black and white, high quality, mysterious atmosphere
 ```
 

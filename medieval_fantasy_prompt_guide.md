@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [medieval/fantasy elements], [materials], [lighting], [atmosphere], [artistic style], [technical quality]
 ```
 
@@ -89,7 +89,7 @@
 
 ### 1. Gothic Castle
 
-```
+```text
 A medieval gothic castle with stone towers and battlements, surrounded by a moat, dramatic lighting, fantasy atmosphere, medieval architecture, high quality
 ```
 
@@ -97,7 +97,7 @@ A medieval gothic castle with stone towers and battlements, surrounded by a moat
 
 ### 2. Mountain Fortress
 
-```
+```text
 A medieval mountain fortress with stone walls and high towers, rugged terrain, dramatic sky, medieval architecture, fortress design, high quality
 ```
 
@@ -105,7 +105,7 @@ A medieval mountain fortress with stone walls and high towers, rugged terrain, d
 
 ### 3. Enchanted Castle
 
-```
+```text
 An enchanted medieval castle with magical aura, floating towers, mystical lighting, fantasy realm, medieval fantasy style, high quality
 ```
 
@@ -113,7 +113,7 @@ An enchanted medieval castle with magical aura, floating towers, mystical lighti
 
 ### 4. Viking Longhouse
 
-```
+```text
 A viking longhouse with wooden structure and thatched roof, medieval interior with fire pit, historical atmosphere, medieval style, high quality
 ```
 
@@ -121,7 +121,7 @@ A viking longhouse with wooden structure and thatched roof, medieval interior wi
 
 ### 5. Medieval Village
 
-```
+```text
 A medieval village with timber-framed houses, stone church, market square, period atmosphere, medieval architecture, high quality
 ```
 
@@ -129,7 +129,7 @@ A medieval village with timber-framed houses, stone church, market square, perio
 
 ### 6. Medieval Knight
 
-```
+```text
 A medieval knight in steel armor with heraldic symbols, castle background, chivalric pose, medieval fantasy style, high quality
 ```
 
@@ -137,7 +137,7 @@ A medieval knight in steel armor with heraldic symbols, castle background, chiva
 
 ### 7. Fantasy Wizard
 
-```
+```text
 A fantasy wizard with magical staff and enchanted robes, mystical aura, spell effects, medieval fantasy style, high quality
 ```
 
@@ -145,7 +145,7 @@ A fantasy wizard with magical staff and enchanted robes, mystical aura, spell ef
 
 ### 8. Elven Archer
 
-```
+```text
 An elven archer with graceful pose and magical bow, enchanted forest background, ethereal beauty, medieval fantasy style, high quality
 ```
 
@@ -153,7 +153,7 @@ An elven archer with graceful pose and magical bow, enchanted forest background,
 
 ### 9. Dwarven Smith
 
-```
+```text
 A dwarven blacksmith at underground forge, metalworking scene, stone halls, medieval fantasy atmosphere, high quality
 ```
 
@@ -161,7 +161,7 @@ A dwarven blacksmith at underground forge, metalworking scene, stone halls, medi
 
 ### 10. Medieval Princess
 
-```
+```text
 A medieval princess in elegant dress, castle interior, royal atmosphere, period clothing, medieval fantasy style, high quality
 ```
 

@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [travel/adventure elements], [location], [activity], [lighting], [artistic style], [technical quality]
 ```
 
@@ -89,61 +89,61 @@
 
 ### 1. Mountain Vista
 
-```
+```text
 A mountain landscape with panoramic view, natural lighting, outdoor adventure, wilderness setting, travel photography style, high quality
 ```
 
 ### 2. Tropical Beach
 
-```
+```text
 A tropical beach with crystal clear water, palm trees, natural lighting, paradise setting, travel photography, high quality
 ```
 
 ### 3. Desert Sunset
 
-```
+```text
 A desert landscape with sand dunes, sunset colors, dramatic sky, adventure atmosphere, travel photography style, high quality
 ```
 
 ### 4. Forest Trail
 
-```
+```text
 A forest trail with dense vegetation, natural lighting, hiking adventure, wilderness, travel photography, high quality
 ```
 
 ### 5. Alpine Lake
 
-```
+```text
 An alpine lake with mountain reflection, clear water, natural beauty, outdoor adventure, travel photography style, high quality
 ```
 
 ### 6. Local Market
 
-```
+```text
 A local market with street vendors, cultural immersion, authentic experience, travel photography, documentary style, high quality
 ```
 
 ### 7. Traditional Village
 
-```
+```text
 A traditional village with local architecture, cultural heritage, authentic travel, rural setting, travel photography style, high quality
 ```
 
 ### 8. Cultural Festival
 
-```
+```text
 A cultural festival with traditional celebration, local people, authentic experience, travel documentary, cultural photography, high quality
 ```
 
 ### 9. Local Craftsman
 
-```
+```text
 A local craftsman doing traditional work, cultural immersion, authentic portrait, travel photography style, high quality
 ```
 
 ### 10. Street Food
 
-```
+```text
 A street food vendor with local cuisine, cultural experience, authentic travel, urban setting, travel photography, high quality
 ```
 

@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [underwater elements], [depth], [lighting], [marine life], [artistic style], [technical quality]
 ```
 
@@ -89,61 +89,61 @@
 
 ### 1. Vibrant Coral Reef
 
-```
+```text
 A colorful coral reef with tropical fish, clear water, sunlight through surface, marine ecosystem, underwater photography style, high quality
 ```
 
 ### 2. Reef Fish School
 
-```
+```text
 Schooling tropical fish with coral background, underwater lighting, marine life, natural behavior, underwater photography, high quality
 ```
 
 ### 3. Coral Garden
 
-```
+```text
 An underwater coral garden with diverse marine life, clear blue water, natural lighting, reef ecosystem, underwater photography style, high quality
 ```
 
 ### 4. Anemone and Clownfish
 
-```
+```text
 Clownfish in anemone, coral reef environment, underwater close-up, marine symbiosis, underwater photography, high quality
 ```
 
 ### 5. Reef Exploration
 
-```
+```text
 A diver exploring coral reef, colorful marine life, underwater photography, marine adventure, underwater photography style, high quality
 ```
 
 ### 6. Abyssal Plain
 
-```
+```text
 A deep sea environment with bioluminescent creatures, complete darkness, abyssal depth, marine life, underwater photography, high quality
 ```
 
 ### 7. Hydrothermal Vents
 
-```
+```text
 Hydrothermal vents with deep sea ecosystem, chemosynthetic life, underwater geology, underwater photography style, high quality
 ```
 
 ### 8. Deep Sea Fish
 
-```
+```text
 Deep sea fish with bioluminescence, dark environment, pressure effects, abyssal creatures, underwater photography, high quality
 ```
 
 ### 9. Giant Squid
 
-```
+```text
 A giant squid in deep ocean, mysterious creature, underwater encounter, marine biology, underwater photography style, high quality
 ```
 
 ### 10. Deep Sea Exploration
 
-```
+```text
 A submarine in deep sea, underwater lights, marine exploration, deep ocean environment, underwater photography, high quality
 ```
 

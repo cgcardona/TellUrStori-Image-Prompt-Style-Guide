@@ -29,13 +29,13 @@
 
 ### Base Template
 
-```
+```text
 [main subject], [simple composition], [limited elements], [flat design], [color palette], [minimalist style], [quality], [purpose]
 ```
 
 ### Example
 
-```
+```text
 A single tree silhouette, centered composition with generous white space, flat design with solid colors, minimalist art style, clean and simple, high quality
 ```
 
@@ -73,13 +73,13 @@ A single tree silhouette, centered composition with generous white space, flat d
 
 ### Minimalist Quality Enhancers
 
-```
+```text
 minimalist art, flat design, clean design, simple art, geometric art, modern minimalist, contemporary minimalist, clean illustration, flat illustration
 ```
 
 ### Design References
 
-```
+```text
 Swiss design style, Bauhaus style, Scandinavian design style, Japanese minimalist style, modern flat design, contemporary minimalist
 ```
 
@@ -87,13 +87,13 @@ Swiss design style, Bauhaus style, Scandinavian design style, Japanese minimalis
 
 ### Essential Minimalist Negatives
 
-```
+```text
 cluttered, busy, complex, detailed, ornate, decorative, realistic, photorealistic, 3d, gradients, shadows, textures, patterns, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
 ### Advanced Negatives
 
-```
+```text
 realistic lighting, photographic, detailed textures, complex backgrounds, multiple elements, busy composition, ornate details, decorative elements
 ```
 
@@ -101,19 +101,19 @@ realistic lighting, photographic, detailed textures, complex backgrounds, multip
 
 ### Minimalist Logo Design
 
-```
+```text
 A simple geometric logo, centered composition with clean lines, flat design with solid colors, minimalist art style, professional and clean, high quality
 ```
 
 ### Flat Design Icon
 
-```
+```text
 A flat design icon with simple geometric shapes, clean composition with white space, bold solid colors, modern flat design style, highly detailed, clean and simple
 ```
 
 ### Minimalist Landscape
 
-```
+```text
 A minimalist mountain landscape, simple silhouettes with generous white space, flat design with limited color palette, clean and simple art style, high quality
 ```
 
@@ -121,7 +121,7 @@ A minimalist mountain landscape, simple silhouettes with generous white space, f
 
 ### 1. Minimalist Logo
 
-```
+```text
 A simple geometric logo with clean lines, centered composition, flat design with solid colors, minimalist art style, professional and clean, high quality
 ```
 
@@ -129,7 +129,7 @@ A simple geometric logo with clean lines, centered composition, flat design with
 
 ### 2. Flat Design Icon
 
-```
+```text
 A flat design icon with simple geometric shapes, clean composition with white space, bold solid colors, modern flat design style, highly detailed, clean and simple
 ```
 
@@ -137,7 +137,7 @@ A flat design icon with simple geometric shapes, clean composition with white sp
 
 ### 3. Minimalist Landscape
 
-```
+```text
 A minimalist mountain landscape, simple silhouettes with generous white space, flat design with limited color palette, clean and simple art style, high quality
 ```
 
@@ -145,7 +145,7 @@ A minimalist mountain landscape, simple silhouettes with generous white space, f
 
 ### 4. Geometric Abstract
 
-```
+```text
 Abstract geometric composition with simple shapes, clean lines and minimal elements, flat design with bold colors, minimalist art style, high quality
 ```
 
@@ -153,7 +153,7 @@ Abstract geometric composition with simple shapes, clean lines and minimal eleme
 
 ### 5. Flat Design Character
 
-```
+```text
 A simple flat design character with basic geometric shapes, clean composition with white space, limited color palette, modern flat design style, high quality
 ```
 
@@ -161,7 +161,7 @@ A simple flat design character with basic geometric shapes, clean composition wi
 
 ### 6. Minimalist Typography
 
-```
+```text
 Clean typography design with simple fonts, centered composition with generous white space, flat design with solid colors, minimalist art style, high quality
 ```
 
@@ -169,7 +169,7 @@ Clean typography design with simple fonts, centered composition with generous wh
 
 ### 7. Flat Design Scene
 
-```
+```text
 A simple flat design scene with geometric elements, clean composition with minimal details, flat design with bold colors, modern flat design style, high quality
 ```
 
@@ -177,7 +177,7 @@ A simple flat design scene with geometric elements, clean composition with minim
 
 ### 8. Minimalist Pattern
 
-```
+```text
 A minimalist pattern with simple geometric shapes, clean composition with white space, flat design with limited colors, minimalist art style, high quality
 ```
 
@@ -185,7 +185,7 @@ A minimalist pattern with simple geometric shapes, clean composition with white 
 
 ### 9. Flat Design Object
 
-```
+```text
 A simple flat design object with clean lines, centered composition with white space, flat design with solid colors, modern flat design style, high quality
 ```
 
@@ -193,7 +193,7 @@ A simple flat design object with clean lines, centered composition with white sp
 
 ### 10. Minimalist Composition
 
-```
+```text
 A minimalist composition with essential elements only, clean design with generous white space, flat design with simple colors, minimalist art style, high quality
 ```
 

@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [sci-fi elements], [technology], [environment], [lighting], [artistic style], [technical quality]
 ```
 
@@ -89,69 +89,83 @@
 
 ### 1. Advanced Spaceship
 
-```
+```text
 A futuristic spaceship with sleek design, energy engines, holographic controls, cosmic background, sci-fi lighting, space technology, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/advanced_spaceship.png)
 
 ### 2. Space Station
 
-```
+```text
 An orbital space station with modular design, solar panels, docking bays, earth view, space environment, sci-fi technology, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/space_station.png)
 
 ### 3. Alien Vessel
 
-```
+```text
 An alien spacecraft with organic technology, bioluminescent features, cosmic energy, otherworldly design, sci-fi art style, high quality
 ```
 
-![image](assets/atmospheric_abstract.png)
+![image](assets/alien_vessel.png)
 
 ### 4. Military Starship
 
-```
+```text
 A battle cruiser with weapon systems, armor plating, tactical displays, space combat scene, sci-fi military style, high quality
 ```
 
+![image](assets/military_starship.png)
+
 ### 5. Exploration Ship
 
-```
+```text
 A deep space explorer with scientific equipment, observation deck, stellar navigation, cosmic phenomena, sci-fi exploration style, high quality
 ```
 
+![image](assets/exploration_ship.png)
+
 ### 6. Crystal Planet
 
-```
+```text
 An alien crystal world with geometric formations, crystalline structures, exotic atmosphere, otherworldly landscape, sci-fi art style, high quality
 ```
 
+![image](assets/crystal_planet.png)
+
 ### 7. Gas Giant
 
-```
+```text
 A massive gas giant with swirling storms, atmospheric bands, orbital rings, cosmic scale, sci-fi space art, high quality
 ```
 
+![image](assets/gas_giant.png)
+
 ### 8. Ice World
 
-```
+```text
 A frozen alien planet with ice formations, subsurface ocean, geothermal vents, extreme environment, sci-fi landscape style, high quality
 ```
 
+![image](assets/ice_world.png)
+
 ### 9. Desert Planet
 
-```
+```text
 An arid alien world with sand dunes, rock formations, twin suns, harsh climate, sci-fi landscape art, high quality
 ```
 
+![image](assets/desert_planet.png)
+
 ### 10. Ocean World
 
-```
+```text
 A water planet with floating cities, underwater structures, alien sea life, aquatic technology, sci-fi ocean world style, high quality
 ```
+
+![image](assets/ocean_world.png)
 
 ## Advanced Tips
 
@@ -178,4 +192,3 @@ A water planet with floating cities, underwater structures, alien sea life, aqua
 - Science fiction literature
 - NASA photography
 - Astronomical imagery
-</rewritten_file>

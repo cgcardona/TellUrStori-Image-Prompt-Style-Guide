@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [sport/action], [movement], [environment], [lighting], [artistic style], [technical quality]
 ```
 
@@ -89,61 +89,61 @@
 
 ### 1. Basketball Action
 
-```
+```text
 A basketball player in mid-air dunk, dynamic action, indoor arena, dramatic lighting, sports photography, athletic performance, high quality
 ```
 
 ### 2. Soccer Match
 
-```
+```text
 Soccer players in competitive match, outdoor field, natural lighting, team sport, action shot, sports photography style, high quality
 ```
 
 ### 3. Football Play
 
-```
+```text
 A football player running with ball, stadium lighting, team sport, athletic action, sports moment, sports photography, high quality
 ```
 
 ### 4. Baseball Pitch
 
-```
+```text
 A baseball pitcher in throwing motion, outdoor stadium, natural lighting, athletic performance, sports photography style, high quality
 ```
 
 ### 5. Hockey Game
 
-```
+```text
 Hockey players in fast action, indoor rink, arena lighting, team sport, dynamic movement, sports photography, high quality
 ```
 
 ### 6. Tennis Serve
 
-```
+```text
 A tennis player in serving motion, outdoor court, natural lighting, individual sport, athletic action, sports photography style, high quality
 ```
 
 ### 7. Gymnastics
 
-```
+```text
 A gymnast in mid-routine, indoor gym, dramatic lighting, athletic performance, dynamic pose, sports photography, high quality
 ```
 
 ### 8. Swimming
 
-```
+```text
 A swimmer in racing stroke, indoor pool, aquatic lighting, individual sport, water action, sports photography style, high quality
 ```
 
 ### 9. Track Running
 
-```
+```text
 A track runner sprinting, outdoor track, natural lighting, athletic movement, speed, sports photography, high quality
 ```
 
 ### 10. Boxing Match
 
-```
+```text
 Boxers in fighting stance, indoor ring, dramatic lighting, combat sport, action shot, sports photography style, high quality
 ```
 

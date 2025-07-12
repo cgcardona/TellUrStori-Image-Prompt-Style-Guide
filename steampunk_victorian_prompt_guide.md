@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [steampunk/victorian elements], [materials], [lighting], [atmosphere], [artistic style], [technical quality]
 ```
 
@@ -84,61 +84,61 @@
 
 ### 1. Steampunk Inventor
 
-```
+```text
 A portrait of a steampunk inventor with brass goggles, leather apron, copper tools, gas lamp lighting, detailed facial features, victorian workshop background, steampunk style, high quality
 ```
 
 ### 2. Victorian Lady
 
-```
+```text
 An elegant victorian lady in silk dress, lace gloves, parasol, ornate jewelry, soft natural lighting, garden setting, victorian style, high quality
 ```
 
 ### 3. Steam Engineer
 
-```
+```text
 A steam engineer with brass helmet, copper pipes, leather gloves, workshop environment, dramatic lighting, steampunk style, high quality
 ```
 
 ### 4. Victorian Gentleman
 
-```
+```text
 A distinguished victorian gentleman with top hat, waistcoat, pocket watch, library interior, warm lighting, victorian style, high quality
 ```
 
 ### 5. Steampunk Aviator
 
-```
+```text
 A steampunk aviator with leather flying cap, brass goggles, copper airship controls, sky background, steampunk style, high quality
 ```
 
 ### 6. Steam-Powered Factory
 
-```
+```text
 A steam-powered factory interior with brass machinery, copper pipes, coal smoke, industrial lighting, workers, steampunk style, high quality
 ```
 
 ### 7. Victorian Parlor
 
-```
+```text
 A victorian parlor with ornate furniture, gas lighting, lace curtains, fireplace, elegant atmosphere, victorian style, high quality
 ```
 
 ### 8. Steampunk Airship
 
-```
+```text
 A steampunk airship deck with brass controls, copper tubing, wooden deck, sky views, steam clouds, steampunk style, high quality
 ```
 
 ### 9. Victorian Street
 
-```
+```text
 A victorian street scene with gas lamps, horse-drawn carriages, brick buildings, cobblestone streets, victorian style, high quality
 ```
 
 ### 10. Steam Workshop
 
-```
+```text
 A steam workshop with brass tools, copper pipes, leather aprons, wood workbenches, warm lighting, steampunk style, high quality
 ```
 

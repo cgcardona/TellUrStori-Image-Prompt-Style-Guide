@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [vintage/retro elements], [period], [materials], [lighting], [artistic style], [technical quality]
 ```
 
@@ -95,61 +95,61 @@
 
 ### 1. Art Deco Portrait
 
-```
+```text
 A vintage portrait with art deco style, flapper dress, geometric background, vintage lighting, 1920s aesthetic, retro photography, high quality
 ```
 
 ### 2. Speakeasy Scene
 
-```
+```text
 A vintage speakeasy with jazz musicians, art deco interior, vintage lighting, prohibition era atmosphere, 1920s style, high quality
 ```
 
 ### 3. Vintage Car
 
-```
+```text
 A classic vintage car with art deco design, chrome details, vintage street scene, 1930s aesthetic, retro photography, high quality
 ```
 
 ### 4. Gangster Portrait
 
-```
+```text
 A vintage gangster in pinstripe suit, fedora hat, vintage film noir lighting, 1920s style, retro photography, high quality
 ```
 
 ### 5. Vintage Advertisement
 
-```
+```text
 A vintage ad with art deco typography, vintage product, retro colors, 1930s advertising style, vintage design, high quality
 ```
 
 ### 6. Pin-up Girl
 
-```
+```text
 A vintage pin-up in 1940s style, retro fashion, vintage photography, classic beauty, pin-up art style, high quality
 ```
 
 ### 7. Vintage Diner
 
-```
+```text
 A classic diner with vintage interior, jukebox, vintage cars outside, 1950s aesthetic, retro photography, high quality
 ```
 
 ### 8. Rock and Roll
 
-```
+```text
 A vintage rock concert with 1950s musicians, vintage instruments, retro lighting, classic rock atmosphere, vintage style, high quality
 ```
 
 ### 9. Suburban Life
 
-```
+```text
 A vintage suburban home with 1950s family, vintage appliances, retro lifestyle, classic americana, vintage photography, high quality
 ```
 
 ### 10. Vintage Military
 
-```
+```text
 A vintage military portrait with 1940s uniform, vintage photography, war era atmosphere, classic style, retro photography, high quality
 ```
 

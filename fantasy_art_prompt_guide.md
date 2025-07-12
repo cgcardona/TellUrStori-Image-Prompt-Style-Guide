@@ -28,13 +28,13 @@
 
 ### Base Template
 
-```
+```text
 [subject/scene], [action/pose], [environment], [lighting], [magical elements], [fantasy style], [quality], [mood/atmosphere]
 ```
 
 ### Example
 
-```
+```text
 A majestic dragon perched on a mountain peak, wings spread wide, mystical floating islands in the background, dramatic sunset lighting with magical aurora, high fantasy art style, highly detailed, epic atmosphere
 ```
 
@@ -72,13 +72,13 @@ A majestic dragon perched on a mountain peak, wings spread wide, mystical floati
 
 ### Fantasy Quality Enhancers
 
-```
+```text
 fantasy art, high fantasy, epic fantasy, magical art, mystical illustration, fantasy concept art, detailed fantasy, professional fantasy illustration, otherworldly art
 ```
 
 ### Artist References
 
-```
+```text
 Frank Frazetta style, Boris Vallejo style, Larry Elmore style, Todd Lockwood style, Michael Whelan style, Donato Giancola style
 ```
 
@@ -86,13 +86,13 @@ Frank Frazetta style, Boris Vallejo style, Larry Elmore style, Todd Lockwood sty
 
 ### Essential Fantasy Negatives
 
-```
+```text
 realistic, photorealistic, modern, contemporary, mundane, everyday, boring, simple, low quality, blurry, pixelated, distorted, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
 ### Advanced Negatives
 
-```
+```text
 sci-fi, futuristic, technological, urban, cityscape, modern architecture, contemporary fashion, realistic proportions, photographic
 ```
 
@@ -100,19 +100,19 @@ sci-fi, futuristic, technological, urban, cityscape, modern architecture, contem
 
 ### High Fantasy Character
 
-```
+```text
 A noble elven warrior with flowing silver hair and glowing blue eyes, wearing ornate golden armor with magical runes, standing on a floating crystal platform, ethereal lighting with magical particles, high fantasy art style, highly detailed, epic hero pose
 ```
 
 ### Dark Fantasy Scene
 
-```
+```text
 A dark sorcerer in flowing black robes with glowing red eyes, casting dark magic in a gothic cathedral, dramatic shadows and ominous lighting, dark fantasy art style, highly detailed, sinister atmosphere
 ```
 
 ### Fantasy Landscape
 
-```
+```text
 A mystical floating city with crystal spires and magical bridges, surrounded by ethereal clouds and floating islands, golden hour lighting with magical aurora, fantasy landscape art, highly detailed, otherworldly atmosphere
 ```
 
@@ -120,7 +120,7 @@ A mystical floating city with crystal spires and magical bridges, surrounded by 
 
 ### 1. Dragon Rider
 
-```
+```text
 A brave warrior riding a majestic dragon, soaring over a fantasy landscape, dramatic sunset lighting, high fantasy art style, highly detailed, epic adventure atmosphere
 ```
 
@@ -128,7 +128,7 @@ A brave warrior riding a majestic dragon, soaring over a fantasy landscape, dram
 
 ### 2. Enchanted Forest
 
-```
+```text
 A mystical forest with glowing mushrooms and ethereal mist, magical creatures hidden among ancient trees, soft magical lighting, fantasy landscape art, highly detailed, mysterious atmosphere
 ```
 
@@ -136,7 +136,7 @@ A mystical forest with glowing mushrooms and ethereal mist, magical creatures hi
 
 ### 3. Wizard's Tower
 
-```
+```text
 A towering wizard's tower with magical energy swirling around it, floating in a mystical realm, dramatic lighting with magical effects, fantasy architecture art, highly detailed, magical atmosphere
 ```
 
@@ -144,7 +144,7 @@ A towering wizard's tower with magical energy swirling around it, floating in a 
 
 ### 4. Battle Scene
 
-```
+```text
 A massive battle between fantasy armies, with magical spells and flying creatures, epic scale composition, dramatic lighting, high fantasy art style, highly detailed, intense action atmosphere
 ```
 
@@ -152,7 +152,7 @@ A massive battle between fantasy armies, with magical spells and flying creature
 
 ### 5. Fairy Tale Castle
 
-```
+```text
 A beautiful castle floating on clouds, with rainbow bridges and magical gardens, golden hour lighting, fantasy architecture art, highly detailed, dreamlike atmosphere
 ```
 
@@ -160,7 +160,7 @@ A beautiful castle floating on clouds, with rainbow bridges and magical gardens,
 
 ### 6. Dark Sorcerer
 
-```
+```text
 A powerful dark sorcerer casting forbidden magic, surrounded by dark energy and shadowy creatures, ominous lighting, dark fantasy art style, highly detailed, sinister atmosphere
 ```
 
@@ -168,7 +168,7 @@ A powerful dark sorcerer casting forbidden magic, surrounded by dark energy and 
 
 ### 7. Mythical Beast
 
-```
+```text
 A majestic unicorn with glowing horn and ethereal mane, standing in a crystal cave, magical lighting, fantasy creature art, highly detailed, mystical atmosphere
 ```
 
@@ -176,7 +176,7 @@ A majestic unicorn with glowing horn and ethereal mane, standing in a crystal ca
 
 ### 8. Fantasy City
 
-```
+```text
 A sprawling fantasy city with flying ships and magical architecture, bustling with magical creatures, warm lighting, fantasy urban art, highly detailed, vibrant atmosphere
 ```
 
@@ -184,7 +184,7 @@ A sprawling fantasy city with flying ships and magical architecture, bustling wi
 
 ### 9. Elemental Battle
 
-```
+```text
 A battle between elemental beings, fire, water, earth, and air clashing in spectacular fashion, dynamic lighting, fantasy action art, highly detailed, elemental atmosphere
 ```
 
@@ -192,7 +192,7 @@ A battle between elemental beings, fire, water, earth, and air clashing in spect
 
 ### 10. Ancient Ruins
 
-```
+```text
 Mysterious ancient ruins with magical inscriptions and glowing artifacts, overgrown with mystical plants, atmospheric lighting, fantasy exploration art, highly detailed, mysterious atmosphere
 ```
 

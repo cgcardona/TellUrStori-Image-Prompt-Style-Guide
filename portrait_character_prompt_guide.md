@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [character elements], [expression], [lighting], [background], [artistic style], [technical quality]
 ```
 
@@ -89,7 +89,7 @@
 
 ### 1. Business Executive
 
-```
+```text
 A business executive with confident pose, wearing professional attire, studio lighting, formal portrait style, authentic expression, character depth, high quality
 ```
 
@@ -97,7 +97,7 @@ A business executive with confident pose, wearing professional attire, studio li
 
 ### 2. Creative Professional
 
-```
+```text
 A creative professional in artistic environment, natural lighting, authentic expression, character study, artistic atmosphere, portrait photography style, high quality
 ```
 
@@ -105,7 +105,7 @@ A creative professional in artistic environment, natural lighting, authentic exp
 
 ### 3. Medical Professional
 
-```
+```text
 A medical professional in healthcare setting, natural lighting, caring expression, character portrait, professional atmosphere, documentary style, high quality
 ```
 
@@ -113,7 +113,7 @@ A medical professional in healthcare setting, natural lighting, caring expressio
 
 ### 4. Teacher
 
-```
+```text
 A teacher in classroom environment, warm lighting, encouraging expression, educational setting, character study, portrait photography style, high quality
 ```
 
@@ -121,7 +121,7 @@ A teacher in classroom environment, warm lighting, encouraging expression, educa
 
 ### 5. Chef
 
-```
+```text
 A chef in kitchen environment, warm lighting, passionate expression, culinary professional, character portrait, authentic atmosphere, high quality
 ```
 
@@ -129,7 +129,7 @@ A chef in kitchen environment, warm lighting, passionate expression, culinary pr
 
 ### 6. Artist at Work
 
-```
+```text
 An artist in creative process, studio environment, natural lighting, focused expression, character study, artistic atmosphere, portrait style, high quality
 ```
 
@@ -137,7 +137,7 @@ An artist in creative process, studio environment, natural lighting, focused exp
 
 ### 7. Elderly Wisdom
 
-```
+```text
 An elderly person with wise expression, natural lighting, life experience showing, dignified portrait, character depth, respectful atmosphere, high quality
 ```
 
@@ -145,7 +145,7 @@ An elderly person with wise expression, natural lighting, life experience showin
 
 ### 8. Young Dreamer
 
-```
+```text
 A young person with hopeful expression, natural lighting, future aspirations, youthful energy, character portrait, optimistic atmosphere, high quality
 ```
 
@@ -153,7 +153,7 @@ A young person with hopeful expression, natural lighting, future aspirations, yo
 
 ### 9. Cultural Elder
 
-```
+```text
 A cultural elder in traditional dress, respectful lighting, heritage representation, dignified portrait, cultural authenticity, character study, high quality
 ```
 
@@ -161,7 +161,7 @@ A cultural elder in traditional dress, respectful lighting, heritage representat
 
 ### 10. Everyday Hero
 
-```
+```text
 An everyday person with authentic expression, natural lighting, relatable character, human warmth, documentary style, genuine atmosphere, high quality
 ```
 

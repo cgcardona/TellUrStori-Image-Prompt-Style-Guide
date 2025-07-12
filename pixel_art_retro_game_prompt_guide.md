@@ -28,13 +28,13 @@
 
 ### Base Template
 
-```
+```text
 [subject/scene], [pixel art style], [color palette], [resolution], [game era], [quality], [mood]
 ```
 
 ### Example
 
-```
+```text
 A pixel art character sprite, 16-bit style with limited color palette, high resolution pixel art, retro game art style, high quality, nostalgic mood
 ```
 
@@ -72,13 +72,13 @@ A pixel art character sprite, 16-bit style with limited color palette, high reso
 
 ### Pixel Art Quality Enhancers
 
-```
+```text
 pixel art, retro game art, 8-bit art, 16-bit art, sprite art, pixel perfect, retro gaming, classic game art, modern pixel art
 ```
 
 ### Game References
 
-```
+```text
 Super Mario style, Zelda style, Final Fantasy style, Sonic style, Mega Man style, Pokemon style
 ```
 
@@ -86,13 +86,13 @@ Super Mario style, Zelda style, Final Fantasy style, Sonic style, Mega Man style
 
 ### Essential Pixel Art Negatives
 
-```
+```text
 smooth art, vector art, high resolution, realistic, photorealistic, 3d render, CGI, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
 ### Advanced Negatives
 
-```
+```text
 watercolor, oil painting, acrylic painting, sketch, cartoon, anime, manga, flat design, minimalist art
 ```
 
@@ -100,19 +100,19 @@ watercolor, oil painting, acrylic painting, sketch, cartoon, anime, manga, flat 
 
 ### 8-bit Character Sprite
 
-```
+```text
 A pixel art character sprite, 8-bit style with limited color palette, 16x16 resolution, retro game art style, high quality, nostalgic mood
 ```
 
 ### 16-bit RPG Scene
 
-```
+```text
 A pixel art RPG scene, 16-bit style with expanded color palette, detailed sprites, retro game art style, high quality, fantasy atmosphere
 ```
 
 ### Modern Pixel Art
 
-```
+```text
 A modern pixel art landscape, high-resolution pixels with rich color palette, contemporary pixel art style, high quality, artistic mood
 ```
 
@@ -120,7 +120,7 @@ A modern pixel art landscape, high-resolution pixels with rich color palette, co
 
 ### 1. 8-bit Character Sprite
 
-```
+```text
 A pixel art character sprite, 8-bit style with limited color palette, 16x16 resolution, retro game art style, high quality, nostalgic mood
 ```
 
@@ -128,7 +128,7 @@ A pixel art character sprite, 8-bit style with limited color palette, 16x16 reso
 
 ### 2. 16-bit RPG Scene
 
-```
+```text
 A pixel art RPG scene, 16-bit style with expanded color palette, detailed sprites, retro game art style, high quality, fantasy atmosphere
 ```
 
@@ -136,7 +136,7 @@ A pixel art RPG scene, 16-bit style with expanded color palette, detailed sprite
 
 ### 3. Modern Pixel Art
 
-```
+```text
 A modern pixel art landscape, high-resolution pixels with rich color palette, contemporary pixel art style, high quality, artistic mood
 ```
 
@@ -144,7 +144,7 @@ A modern pixel art landscape, high-resolution pixels with rich color palette, co
 
 ### 4. Platformer Sprite
 
-```
+```text
 A pixel art platformer character, 16-bit style with jumping pose, limited color palette, retro game art style, high quality, action mood
 ```
 
@@ -152,7 +152,7 @@ A pixel art platformer character, 16-bit style with jumping pose, limited color 
 
 ### 5. Arcade Sprite
 
-```
+```text
 A pixel art arcade character, 8-bit style with simple design, limited colors, classic arcade art style, high quality, retro mood
 ```
 
@@ -160,7 +160,7 @@ A pixel art arcade character, 8-bit style with simple design, limited colors, cl
 
 ### 6. RPG Character
 
-```
+```text
 A pixel art RPG character, 16-bit style with detailed design, expanded color palette, retro game art style, high quality, fantasy mood
 ```
 
@@ -168,7 +168,7 @@ A pixel art RPG character, 16-bit style with detailed design, expanded color pal
 
 ### 7. Strategy Game Sprite
 
-```
+```text
 A pixel art strategy game unit, 16-bit style with tactical pose, limited color palette, retro game art style, high quality, strategic mood
 ```
 
@@ -176,7 +176,7 @@ A pixel art strategy game unit, 16-bit style with tactical pose, limited color p
 
 ### 8. Isometric Scene
 
-```
+```text
 A pixel art isometric scene, 16-bit style with 3D perspective, expanded color palette, retro game art style, high quality, architectural mood
 ```
 
@@ -184,7 +184,7 @@ A pixel art isometric scene, 16-bit style with 3D perspective, expanded color pa
 
 ### 9. Modern Pixel Portrait
 
-```
+```text
 A modern pixel art portrait, high-resolution pixels with rich colors, contemporary pixel art style, high quality, artistic mood
 ```
 
@@ -192,7 +192,7 @@ A modern pixel art portrait, high-resolution pixels with rich colors, contempora
 
 ### 10. Retro Game Scene
 
-```
+```text
 A pixel art retro game scene, 16-bit style with multiple sprites, expanded color palette, retro game art style, high quality, nostalgic atmosphere
 ```
 

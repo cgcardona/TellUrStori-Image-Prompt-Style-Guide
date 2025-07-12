@@ -28,13 +28,13 @@
 
 ### Base Template
 
-```
+```text
 [subject/scene], [painting technique], [brushwork style], [color palette], [texture], [traditional style], [quality], [mood]
 ```
 
 ### Example
 
-```
+```text
 A serene lake landscape, watercolor painting with soft washes, loose brushwork, cool blue and green palette, paper texture visible, traditional watercolor art style, high quality, peaceful mood
 ```
 
@@ -72,13 +72,13 @@ A serene lake landscape, watercolor painting with soft washes, loose brushwork, 
 
 ### Watercolor Quality Enhancers
 
-```
+```text
 watercolor painting, traditional watercolor, professional watercolor, watercolor art, watercolor illustration, watercolor technique, traditional painting, artist quality watercolor
 ```
 
 ### Traditional Painting References
 
-```
+```text
 impressionist style, expressionist style, realistic painting, traditional oil painting, acrylic painting, gouache painting, ink painting, traditional art
 ```
 
@@ -86,13 +86,13 @@ impressionist style, expressionist style, realistic painting, traditional oil pa
 
 ### Essential Watercolor Negatives
 
-```
+```text
 digital art, computer generated, vector art, flat design, geometric, mechanical, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
 ### Advanced Negatives
 
-```
+```text
 photographic, realistic, 3d render, CGI, digital illustration, flat colors, geometric shapes, modern design, contemporary art
 ```
 
@@ -100,19 +100,19 @@ photographic, realistic, 3d render, CGI, digital illustration, flat colors, geom
 
 ### Watercolor Landscape
 
-```
+```text
 A misty mountain landscape, watercolor painting with soft washes and loose brushwork, cool blue and purple palette, paper texture visible, traditional watercolor art style, high quality, atmospheric mood
 ```
 
 ### Oil Painting Portrait
 
-```
+```text
 A classical portrait, oil painting with rich textures and layered colors, detailed brushwork, warm earth tones, canvas texture, traditional oil painting style, highly detailed, classical mood
 ```
 
 ### Ink Painting
 
-```
+```text
 A bamboo forest scene, ink painting with calligraphic strokes, monochromatic black and white, flowing lines, traditional ink painting style, high quality, zen atmosphere
 ```
 
@@ -120,61 +120,61 @@ A bamboo forest scene, ink painting with calligraphic strokes, monochromatic bla
 
 ### 1. Watercolor Landscape
 
-```
+```text
 A misty mountain landscape, watercolor painting with soft washes and loose brushwork, cool blue and purple palette, paper texture visible, traditional watercolor art style, high quality, atmospheric mood
 ```
 
 ### 2. Oil Painting Portrait
 
-```
+```text
 A classical portrait, oil painting with rich textures and layered colors, detailed brushwork, warm earth tones, canvas texture, traditional oil painting style, highly detailed, classical mood
 ```
 
 ### 3. Ink Painting
 
-```
+```text
 A bamboo forest scene, ink painting with calligraphic strokes, monochromatic black and white, flowing lines, traditional ink painting style, high quality, zen atmosphere
 ```
 
 ### 4. Impressionist Scene
 
-```
+```text
 A garden in bloom, impressionist painting with loose brushwork and light effects, vibrant color palette, canvas texture, impressionist art style, high quality, joyful mood
 ```
 
 ### 5. Gouache Illustration
 
-```
+```text
 A children's book illustration, gouache painting with opaque colors and flat design, bright color palette, matte finish, traditional gouache art style, high quality, whimsical mood
 ```
 
 ### 6. Watercolor Portrait
 
-```
+```text
 A delicate portrait, watercolor painting with soft washes and transparent colors, warm skin tones, paper texture visible, traditional watercolor art style, high quality, gentle mood
 ```
 
 ### 7. Oil Painting Still Life
 
-```
+```text
 A classical still life, oil painting with rich textures and impasto technique, warm earth tones, canvas texture, traditional oil painting style, highly detailed, contemplative mood
 ```
 
 ### 8. Acrylic Abstract
 
-```
+```text
 An abstract composition, acrylic painting with bold colors and textured surface, vibrant palette, canvas texture, contemporary acrylic art style, high quality, energetic mood
 ```
 
 ### 9. Watercolor Seascape
 
-```
+```text
 A peaceful seascape, watercolor painting with flowing washes and soft edges, cool blue palette, paper texture visible, traditional watercolor art style, high quality, serene mood
 ```
 
 ### 10. Traditional Landscape
 
-```
+```text
 A rural landscape, traditional painting with detailed brushwork and natural colors, earth tone palette, canvas texture, classical landscape art style, high quality, pastoral mood
 ```
 

@@ -29,13 +29,13 @@
 
 ### Base Template
 
-```
+```text
 [main subject], [surreal elements], [impossible scene], [lighting], [symbolic elements], [surrealist style], [quality], [mood/emotion]
 ```
 
 ### Example
 
-```
+```text
 A melting clock draped over a barren tree branch, floating in an infinite desert landscape, impossible shadows cast by multiple suns, surrealist art style, highly detailed, dreamlike atmosphere
 ```
 
@@ -73,13 +73,13 @@ A melting clock draped over a barren tree branch, floating in an infinite desert
 
 ### Surrealist Quality Enhancers
 
-```
+```text
 surrealist art, dreamlike art, surreal illustration, symbolic art, metaphysical art, surrealist painting, dream art, impossible art, surrealist style
 ```
 
 ### Artist References
 
-```
+```text
 Salvador Dalí style, René Magritte style, Max Ernst style, Frida Kahlo style, Giorgio de Chirico style, Yves Tanguy style
 ```
 
@@ -87,13 +87,13 @@ Salvador Dalí style, René Magritte style, Max Ernst style, Frida Kahlo style, 
 
 ### Essential Surrealist Negatives
 
-```
+```text
 realistic, photorealistic, normal, ordinary, everyday, mundane, logical, rational, realistic proportions, realistic physics, realistic lighting, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
 ### Advanced Negatives
 
-```
+```text
 conventional, traditional, realistic architecture, normal objects, everyday scenes, logical composition, realistic perspective, photographic
 ```
 
@@ -101,19 +101,19 @@ conventional, traditional, realistic architecture, normal objects, everyday scen
 
 ### Classic Surrealist Scene
 
-```
+```text
 A giant eye floating in a desert landscape, with melting clocks draped over its eyelashes, impossible shadows cast by multiple moons, surrealist art style, highly detailed, dreamlike atmosphere, symbolic imagery
 ```
 
 ### Dreamlike Character
 
-```
+```text
 A figure with a cloud for a head floating through a library of impossible books, wearing flowing robes made of liquid light, surrounded by floating symbols, dreamlike art style, highly detailed, ethereal mood
 ```
 
 ### Impossible Architecture
 
-```
+```text
 A floating castle made of melting stone, with staircases leading to nowhere, windows opening into different dimensions, surreal lighting with impossible shadows, surrealist architecture art, highly detailed, dreamlike atmosphere
 ```
 
@@ -121,61 +121,61 @@ A floating castle made of melting stone, with staircases leading to nowhere, win
 
 ### 1. Melting Reality
 
-```
+```text
 A landscape where mountains are melting like wax, with floating clocks and impossible shadows, surreal lighting, surrealist art style, highly detailed, dreamlike atmosphere
 ```
 
 ### 2. Floating Library
 
-```
+```text
 A library floating in space with books that have wings, impossible staircases leading to nowhere, ethereal lighting, surrealist art style, highly detailed, mystical atmosphere
 ```
 
 ### 3. Dream Portrait
 
-```
+```text
 A person with a face made of clouds and eyes that are windows to different worlds, floating in a surreal landscape, dreamlike lighting, surrealist portrait art, highly detailed, ethereal mood
 ```
 
 ### 4. Impossible Garden
 
-```
+```text
 A garden where flowers grow upside down and trees have roots in the sky, with floating water and impossible colors, surreal lighting, surrealist landscape art, highly detailed, dreamlike atmosphere
 ```
 
 ### 5. Time Distortion
 
-```
+```text
 A scene where time flows backwards, with clocks running counterclockwise and people walking backwards, impossible lighting, surrealist art style, highly detailed, temporal distortion atmosphere
 ```
 
 ### 6. Floating City
 
-```
+```text
 A city floating in the clouds with buildings made of impossible materials, staircases leading to the sky, dreamlike lighting, surrealist urban art, highly detailed, otherworldly atmosphere
 ```
 
 ### 7. Morphing Objects
 
-```
+```text
 Objects that are constantly changing shape, a chair becoming a bird, a table becoming a tree, surreal lighting, surrealist transformation art, highly detailed, metamorphic atmosphere
 ```
 
 ### 8. Dream Forest
 
-```
+```text
 A forest where trees have faces and branches are made of light, with floating leaves and impossible shadows, mystical lighting, surrealist nature art, highly detailed, enchanted atmosphere
 ```
 
 ### 9. Infinite Mirror
 
-```
+```text
 A mirror that reflects infinite versions of the same scene, with each reflection showing a different impossible world, surreal lighting, surrealist art style, highly detailed, infinite atmosphere
 ```
 
 ### 10. Liquid Reality
 
-```
+```text
 A world where solid objects are made of liquid, with flowing buildings and liquid people, impossible physics, surreal lighting, surrealist art style, highly detailed, fluid atmosphere
 ```
 

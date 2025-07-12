@@ -10,7 +10,7 @@
 
 ## Essential Prompt Structure
 
-```
+```text
 [subject], [culinary elements], [preparation], [presentation], [lighting], [artistic style], [technical quality]
 ```
 
@@ -90,7 +90,7 @@
 
 ### 1. Elegant Plated Dish
 
-```
+```text
 An elegant plated dish with fine dining presentation, professional lighting, restaurant quality, culinary art, food photography style, high quality
 ```
 
@@ -98,7 +98,7 @@ An elegant plated dish with fine dining presentation, professional lighting, res
 
 ### 2. Chef's Special
 
-```
+```text
 A chef's special dish with artistic plating, professional kitchen, culinary expertise, fine dining atmosphere, food photography, high quality
 ```
 
@@ -106,7 +106,7 @@ A chef's special dish with artistic plating, professional kitchen, culinary expe
 
 ### 3. Gourmet Ingredients
 
-```
+```text
 Premium ingredients with fresh produce, professional food photography, culinary quality, food styling, high quality
 ```
 
@@ -114,7 +114,7 @@ Premium ingredients with fresh produce, professional food photography, culinary 
 
 ### 4. Wine Pairing
 
-```
+```text
 A fine dining meal with wine pairing, elegant table setting, restaurant atmosphere, culinary experience, food photography, high quality
 ```
 
@@ -122,7 +122,7 @@ A fine dining meal with wine pairing, elegant table setting, restaurant atmosphe
 
 ### 5. Dessert Course
 
-```
+```text
 An elegant dessert with pastry chef creation, fine dining presentation, culinary artistry, food photography style, high quality
 ```
 
@@ -130,7 +130,7 @@ An elegant dessert with pastry chef creation, fine dining presentation, culinary
 
 ### 6. Family Meal
 
-```
+```text
 A homestyle cooking scene with family meal, comfortable atmosphere, natural lighting, home kitchen, food photography, high quality
 ```
 
@@ -138,7 +138,7 @@ A homestyle cooking scene with family meal, comfortable atmosphere, natural ligh
 
 ### 7. Baking Scene
 
-```
+```text
 Fresh baked goods in home kitchen, warm lighting, homemade atmosphere, baking scene, food photography style, high quality
 ```
 
@@ -146,7 +146,7 @@ Fresh baked goods in home kitchen, warm lighting, homemade atmosphere, baking sc
 
 ### 8. Comfort Food
 
-```
+```text
 Comfort food with homestyle cooking, cozy atmosphere, family recipe, home cooking style, food photography, high quality
 ```
 
@@ -154,7 +154,7 @@ Comfort food with homestyle cooking, cozy atmosphere, family recipe, home cookin
 
 ### 9. Garden Fresh
 
-```
+```text
 Garden fresh vegetables for home cooking, natural ingredients, farm to table, organic food, food photography style, high quality
 ```
 
@@ -162,7 +162,7 @@ Garden fresh vegetables for home cooking, natural ingredients, farm to table, or
 
 ### 10. Sunday Dinner
 
-```
+```text
 A sunday family dinner with traditional meal, home kitchen, warm atmosphere, family gathering, food photography, high quality
 ```
 
