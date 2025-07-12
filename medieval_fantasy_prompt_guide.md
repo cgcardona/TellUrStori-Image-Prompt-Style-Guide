@@ -62,10 +62,9 @@
 
 ## Negative Prompts
 
-- "modern", "contemporary", "futuristic", "high technology"
-- "industrial", "steam-powered", "electric", "digital"
-- "clean", "minimalist", "sleek", "modern design"
-- "bright neon", "LED", "electronic", "synthetic materials"
+```text
+modern, contemporary, futuristic, high technology, industrial, steam-powered, electric, digital, clean, minimalist, sleek, modern design, bright neon, LED, electronic, synthetic materials
+```
 
 ## Sample Prompts by Category
 
