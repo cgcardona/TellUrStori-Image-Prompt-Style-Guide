@@ -62,10 +62,9 @@
 
 ## Negative Prompts
 
-- "static", "still", "motionless", "stationary"
-- "casual", "relaxed", "lazy", "inactive"
-- "artificial", "fake", "staged", "posed"
-- "slow", "sluggish", "weak", "unathletic"
+```text
+static, still, motionless, stationary, casual, relaxed, lazy, inactive, artificial, fake, staged, posed, slow, sluggish, weak, unathletic
+```
 
 ## Sample Prompts by Category
 
