@@ -3,6 +3,7 @@
 ## Core Principles
 
 ### 1. **Minimalist Aesthetics**
+
 - Clean, uncluttered compositions
 - Essential elements only
 - Generous white space
@@ -10,6 +11,7 @@
 - Limited color palettes
 
 ### 2. **Flat Design Elements**
+
 - Two-dimensional appearance
 - No gradients or shadows
 - Bold, solid colors
@@ -17,6 +19,7 @@
 - Iconic and symbolic imagery
 
 ### 3. **Design Philosophy**
+
 - **Less is More**: Focus on essential elements
 - **Function Over Form**: Clear communication
 - **Visual Hierarchy**: Important elements stand out
@@ -25,11 +28,13 @@
 ## Essential Prompt Structure
 
 ### Base Template:
+
 ```
 [main subject], [simple composition], [limited elements], [flat design], [color palette], [minimalist style], [quality], [purpose]
 ```
 
 ### Example:
+
 ```
 A single tree silhouette, centered composition with generous white space, flat design with solid colors, minimalist art style, clean and simple, high quality
 ```
@@ -37,24 +42,28 @@ A single tree silhouette, centered composition with generous white space, flat d
 ## Advanced Techniques
 
 ### 1. **Composition Elements**
+
 - **Centered**: "centered composition, balanced layout, symmetrical design"
 - **Grid-based**: "grid layout, aligned elements, structured composition"
 - **Negative Space**: "generous white space, minimal elements, clean background"
 - **Hierarchy**: "visual hierarchy, focal point, emphasis on main element"
 
 ### 2. **Geometric Shapes**
+
 - **Basic Shapes**: "simple geometric shapes, circles, squares, triangles"
 - **Abstract Forms**: "abstract geometric forms, minimal shapes, clean lines"
 - **Organic Shapes**: "simple organic shapes, minimal curves, clean silhouettes"
 - **Combined**: "geometric and organic elements, balanced composition"
 
 ### 3. **Color Strategies**
+
 - **Monochromatic**: "single color palette, tonal variations, minimal colors"
 - **Limited Palette**: "two or three colors, restrained color scheme"
 - **High Contrast**: "bold contrast, black and white, strong visual impact"
 - **Subtle**: "soft colors, muted tones, gentle palette"
 
 ### 4. **Typography Elements**
+
 - **Simple Fonts**: "clean typography, simple fonts, minimal text"
 - **Iconic**: "iconic symbols, simple icons, flat icons"
 - **Symbolic**: "symbolic imagery, meaningful symbols, clean symbols"
@@ -63,11 +72,13 @@ A single tree silhouette, centered composition with generous white space, flat d
 ## Style-Specific Modifiers
 
 ### Minimalist Quality Enhancers:
+
 ```
 minimalist art, flat design, clean design, simple art, geometric art, modern minimalist, contemporary minimalist, clean illustration, flat illustration
 ```
 
 ### Design References:
+
 ```
 Swiss design style, Bauhaus style, Scandinavian design style, Japanese minimalist style, modern flat design, contemporary minimalist
 ```
@@ -75,11 +86,13 @@ Swiss design style, Bauhaus style, Scandinavian design style, Japanese minimalis
 ## Negative Prompts
 
 ### Essential Minimalist Negatives:
+
 ```
 cluttered, busy, complex, detailed, ornate, decorative, realistic, photorealistic, 3d, gradients, shadows, textures, patterns, low quality, blurry, pixelated, deformed, bad anatomy, extra limbs, missing fingers, fused body parts, bad proportions, poorly drawn
 ```
 
 ### Advanced Negatives:
+
 ```
 realistic lighting, photographic, detailed textures, complex backgrounds, multiple elements, busy composition, ornate details, decorative elements
 ```
@@ -87,16 +100,19 @@ realistic lighting, photographic, detailed textures, complex backgrounds, multip
 ## Sample Prompts by Category
 
 ### Minimalist Logo Design
+
 ```
 A simple geometric logo, centered composition with clean lines, flat design with solid colors, minimalist art style, professional and clean, high quality
 ```
 
 ### Flat Design Icon
+
 ```
 A flat design icon with simple geometric shapes, clean composition with white space, bold solid colors, modern flat design style, highly detailed, clean and simple
 ```
 
 ### Minimalist Landscape
+
 ```
 A minimalist mountain landscape, simple silhouettes with generous white space, flat design with limited color palette, clean and simple art style, high quality
 ```
@@ -104,51 +120,61 @@ A minimalist mountain landscape, simple silhouettes with generous white space, f
 ## 10 Example Prompts
 
 ### 1. Minimalist Logo
+
 ```
 A simple geometric logo with clean lines, centered composition, flat design with solid colors, minimalist art style, professional and clean, high quality
 ```
 
 ### 2. Flat Design Icon
+
 ```
 A flat design icon with simple geometric shapes, clean composition with white space, bold solid colors, modern flat design style, highly detailed, clean and simple
 ```
 
 ### 3. Minimalist Landscape
+
 ```
 A minimalist mountain landscape, simple silhouettes with generous white space, flat design with limited color palette, clean and simple art style, high quality
 ```
 
 ### 4. Geometric Abstract
+
 ```
 Abstract geometric composition with simple shapes, clean lines and minimal elements, flat design with bold colors, minimalist art style, high quality
 ```
 
 ### 5. Flat Design Character
+
 ```
 A simple flat design character with basic geometric shapes, clean composition with white space, limited color palette, modern flat design style, high quality
 ```
 
 ### 6. Minimalist Typography
+
 ```
 Clean typography design with simple fonts, centered composition with generous white space, flat design with solid colors, minimalist art style, high quality
 ```
 
 ### 7. Flat Design Scene
+
 ```
 A simple flat design scene with geometric elements, clean composition with minimal details, flat design with bold colors, modern flat design style, high quality
 ```
 
 ### 8. Minimalist Pattern
+
 ```
 A minimalist pattern with simple geometric shapes, clean composition with white space, flat design with limited colors, minimalist art style, high quality
 ```
 
 ### 9. Flat Design Object
+
 ```
 A simple flat design object with clean lines, centered composition with white space, flat design with solid colors, modern flat design style, high quality
 ```
 
 ### 10. Minimalist Composition
+
 ```
 A minimalist composition with essential elements only, clean design with generous white space, flat design with simple colors, minimalist art style, high quality
 ```
@@ -156,24 +182,28 @@ A minimalist composition with essential elements only, clean design with generou
 ## Advanced Tips
 
 ### 1. **Design Principles**
+
 - "clean composition" for uncluttered layouts
 - "visual hierarchy" for clear focal points
 - "balanced design" for harmonious compositions
 - "minimal elements" for essential-only approach
 
 ### 2. **Color Theory**
+
 - "limited palette" for restrained color use
 - "high contrast" for bold visual impact
 - "monochromatic" for single-color variations
 - "subtle colors" for gentle visual appeal
 
 ### 3. **Composition Techniques**
+
 - "centered layout" for balanced compositions
 - "grid system" for structured designs
 - "negative space" for breathing room
 - "focal point" for clear emphasis
 
 ### 4. **Style Variations**
+
 - "modern minimalist" for contemporary approach
 - "classic minimalist" for timeless design
 - "geometric minimalist" for structured forms

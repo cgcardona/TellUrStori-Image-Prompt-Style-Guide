@@ -3,6 +3,7 @@
 ## Core Principles
 
 ### 1. **Cyberpunk Aesthetics**
+
 - Neon-lit urban environments
 - High-tech, low-life atmosphere
 - Corporate dystopia themes
@@ -10,6 +11,7 @@
 - Glitch and digital artifacts
 
 ### 2. **Futuristic Elements**
+
 - Advanced technology and AI
 - Space exploration and colonies
 - Transhumanism and augmentation
@@ -17,6 +19,7 @@
 - Sustainable and eco-friendly tech
 
 ### 3. **Visual Style Variations**
+
 - **Classic Cyberpunk**: Blade Runner, Neuromancer aesthetic
 - **Neo-Cyberpunk**: Modern interpretation with current tech
 - **Solarpunk**: Optimistic, green future
@@ -37,24 +40,28 @@ A cyberpunk street samurai with neon-lit cybernetic implants, walking through a 
 ## Advanced Techniques
 
 ### 1. **Character Descriptions**
+
 - **Cyberpunk**: "cybernetically enhanced, neon-lit implants, holographic tattoos, augmented reality visor"
 - **Corporate**: "pristine business suit, neural interface, holographic displays, corporate logo"
 - **Street**: "worn leather jacket, visible cybernetics, street-smart attitude, neon accessories"
 - **Hacker**: "data gloves, neural jack, holographic screens, underground aesthetic"
 
 ### 2. **Environment Elements**
+
 - **Cityscapes**: "mega-city, towering skyscrapers, flying cars, neon-lit streets"
 - **Interiors**: "high-tech laboratory, corporate office, underground club, hacker den"
 - **Spaces**: "space station, lunar colony, orbital habitat, interstellar ship"
 - **Nature**: "cyberpunk forest, neon-lit gardens, artificial ecosystems, terraformed landscapes"
 
 ### 3. **Technology Features**
+
 - **Holograms**: "holographic displays, floating screens, projected interfaces, light-based technology"
 - **Cybernetics**: "mechanical limbs, neural implants, cybernetic eyes, augmented reality"
 - **AI**: "artificial intelligence, robotic assistants, autonomous systems, smart technology"
 - **Transport**: "flying vehicles, magnetic levitation, teleportation devices, space travel"
 
 ### 4. **Lighting and Effects**
+
 - **Neon**: "neon lighting, colorful glow, electric blue, hot pink, vibrant purples"
 - **Digital**: "digital artifacts, glitch effects, pixelated elements, data streams"
 - **Atmospheric**: "rain, fog, smoke, steam, industrial pollution"
@@ -156,24 +163,28 @@ A high-tech AI laboratory with artificial intelligence displays and robotic assi
 ## Advanced Tips
 
 ### 1. **Technology Integration**
+
 - "neural interface" for brain-computer connections
 - "holographic displays" for futuristic screens
 - "cybernetic augmentation" for human enhancement
 - "artificial intelligence" for AI presence
 
 ### 2. **Atmospheric Elements**
+
 - "neon rain" for cyberpunk weather
 - "digital fog" for technological atmosphere
 - "holographic mist" for futuristic effects
 - "electric atmosphere" for high-tech mood
 
 ### 3. **Color Palettes**
+
 - **Neon**: "electric blue, hot pink, vibrant purple, neon green"
 - **Corporate**: "clean whites, metallic grays, professional blues"
 - **Street**: "dark blacks, neon accents, worn browns, street grays"
 - **Space**: "deep blacks, star whites, metallic silvers, cosmic blues"
 
 ### 4. **Cultural References**
+
 - "Blade Runner style" for classic cyberpunk
 - "Ghost in the Shell style" for anime cyberpunk
 - "Star Wars style" for space opera

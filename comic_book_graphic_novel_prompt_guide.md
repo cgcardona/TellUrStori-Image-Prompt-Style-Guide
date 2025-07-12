@@ -3,6 +3,7 @@
 ## Core Principles
 
 ### 1. **Comic Book Aesthetics**
+
 - Bold, dynamic compositions
 - Strong line work and inking
 - Vibrant, saturated colors
@@ -10,6 +11,7 @@
 - Clear visual storytelling
 
 ### 2. **Graphic Novel Elements**
+
 - Sophisticated storytelling
 - Detailed character development
 - Complex narratives and themes
@@ -17,6 +19,7 @@
 - Literary quality illustrations
 
 ### 3. **Style Variations**
+
 - **Superhero Comics**: Dynamic action, bold colors, heroic poses
 - **Indie Comics**: Artistic experimentation, unique styles
 - **Manga-Influenced**: Anime-style with comic book techniques
@@ -37,24 +40,28 @@ A superhero in dynamic action pose, flying through a cityscape, dramatic lightin
 ## Advanced Techniques
 
 ### 1. **Character Design**
+
 - **Heroes**: "muscular build, heroic pose, flowing cape, determined expression"
 - **Villains**: "sinister appearance, dark costume, menacing pose, evil expression"
 - **Civilians**: "everyday clothing, natural poses, relatable appearance"
 - **Creatures**: "fantastical design, unique features, otherworldly appearance"
 
 ### 2. **Action and Poses**
+
 - **Dynamic**: "action pose, dynamic movement, flying pose, fighting stance"
 - **Static**: "standing pose, dramatic pose, heroic stance, contemplative pose"
 - **Emotional**: "expressive face, emotional pose, dramatic expression, character emotion"
 - **Group**: "team pose, group composition, multiple characters, ensemble shot"
 
 ### 3. **Background Elements**
+
 - **Urban**: "cityscape, skyscrapers, street scene, urban environment"
 - **Fantasy**: "fantasy world, magical realm, otherworldly landscape, mystical setting"
 - **Space**: "cosmic background, stars, planets, space environment"
 - **Interior**: "room interior, building interior, indoor scene, architectural setting"
 
 ### 4. **Artistic Techniques**
+
 - **Line Work**: "strong line work, bold inking, clean lines, detailed line art"
 - **Coloring**: "bold colors, vibrant palette, comic book colors, flat coloring"
 - **Shading**: "cell shading, comic book shadows, bold shadows, dramatic lighting"
@@ -156,24 +163,28 @@ A sci-fi character in futuristic environment, with technological elements and dr
 ## Advanced Tips
 
 ### 1. **Storytelling Elements**
+
 - "dramatic moment" for story emphasis
 - "character development" for emotional depth
 - "narrative scene" for storytelling focus
 - "plot point" for story progression
 
 ### 2. **Artistic Techniques**
+
 - "bold line work" for strong comic book style
 - "cell shading" for traditional comic coloring
 - "action lines" for dynamic movement
 - "comic book effects" for visual impact
 
 ### 3. **Genre Specificity**
+
 - "superhero comic" for action-oriented art
 - "indie comic" for artistic experimentation
 - "graphic novel" for sophisticated storytelling
 - "comic strip" for humorous or daily life scenes
 
 ### 4. **Cultural References**
+
 - "Marvel style" for superhero comics
 - "DC Comics style" for classic superhero art
 - "European comic" for sophisticated art

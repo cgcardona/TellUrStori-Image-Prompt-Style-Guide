@@ -3,6 +3,7 @@
 ## Core Principles
 
 ### 1. **Fantasy Aesthetics**
+
 - Magical and otherworldly elements
 - Rich, vibrant color palettes
 - Dramatic lighting and atmospheric effects
@@ -10,12 +11,14 @@
 - Epic scale and grandeur
 
 ### 2. **Fantasy Genres**
+
 - **High Fantasy**: Medieval settings, magic, dragons, epic quests
 - **Dark Fantasy**: Grim atmospheres, horror elements, gothic themes
 - **Urban Fantasy**: Modern settings with magical elements
 - **Science Fantasy**: Blend of sci-fi and fantasy elements
 
 ### 3. **Artistic Styles**
+
 - **Classical Fantasy**: Inspired by traditional fantasy illustrators
 - **Modern Fantasy**: Contemporary digital art techniques
 - **Concept Art**: Detailed world-building and character design
@@ -36,24 +39,28 @@ A majestic dragon perched on a mountain peak, wings spread wide, mystical floati
 ## Advanced Techniques
 
 ### 1. **Character Descriptions**
+
 - **Heroes**: "noble warrior, flowing cape, ornate armor, determined expression"
 - **Mages**: "mystical robes, glowing staff, arcane symbols, ethereal aura"
 - **Creatures**: "mythical beast, scales, horns, magical features, otherworldly"
 - **Villains**: "dark lord, sinister armor, malevolent aura, imposing presence"
 
 ### 2. **Environment Elements**
+
 - **Castles**: "ancient fortress, towering spires, stone walls, magical defenses"
 - **Forests**: "enchanted woods, glowing mushrooms, mystical trees, ethereal mist"
 - **Mountains**: "floating peaks, crystal formations, magical caves, epic vistas"
 - **Cities**: "fantasy metropolis, magical architecture, floating buildings, mystical streets"
 
 ### 3. **Magical Effects**
+
 - **Spells**: "arcane energy, magical particles, glowing runes, spell effects"
 - **Lighting**: "ethereal glow, magical illumination, otherworldly light, mystical atmosphere"
 - **Weather**: "magical storms, aurora borealis, mystical fog, enchanted rain"
 - **Elements**: "floating fire, liquid light, solid shadows, living stone"
 
 ### 4. **Color Palettes**
+
 - **Warm**: "golden tones, fiery oranges, warm purples, magical amber"
 - **Cool**: "ethereal blues, mystical greens, icy whites, magical teals"
 - **Dark**: "shadowy blacks, deep purples, ominous reds, mysterious grays"
@@ -155,24 +162,28 @@ Mysterious ancient ruins with magical inscriptions and glowing artifacts, overgr
 ## Advanced Tips
 
 ### 1. **World-Building Elements**
+
 - "ancient ruins" for historical depth
 - "magical artifacts" for story elements
 - "mythical creatures" for fantasy fauna
 - "enchanted items" for magical objects
 
 ### 2. **Atmospheric Effects**
+
 - "ethereal mist" for mystical atmosphere
 - "magical particles" for spell effects
 - "otherworldly glow" for supernatural lighting
 - "mystical aura" for magical presence
 
 ### 3. **Scale and Perspective**
+
 - "epic scale" for grand scenes
 - "dramatic perspective" for dynamic angles
 - "towering heights" for impressive structures
 - "vast landscapes" for expansive views
 
 ### 4. **Cultural References**
+
 - "medieval fantasy" for traditional settings
 - "nordic fantasy" for viking-inspired themes
 - "celtic fantasy" for Irish/Scottish mythology
