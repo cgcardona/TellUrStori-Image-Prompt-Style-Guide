@@ -41,31 +41,27 @@
 
 ### Horror Elements
 
-- "supernatural", "ghostly", "demonic", "cursed"
-- "decaying", "rotting", "moldy", "putrid"
-- "distorted", "twisted", "warped", "nightmarish"
-- "haunted", "possessed", "evil", "malevolent"
+```text
+supernatural, ghostly, demonic, cursed, decaying, rotting, moldy, putrid, distorted, twisted, warped, nightmarish, haunted, possessed, evil, malevolent
+```
 
 ### Psychological Horror Elements
 
-- "uncanny", "unsettling", "disturbing", "wrong"
-- "paranoid", "claustrophobic", "trapped", "isolated"
-- "memory", "flashback", "hallucination", "delusion"
-- "psychological", "mental", "cognitive", "cerebral"
+```text
+uncanny, unsettling, disturbing, wrong, paranoid, claustrophobic, trapped, isolated, memory, flashback, hallucination, delusion, psychological, mental, cognitive, cerebral
+```
 
 ### Physical Horror
 
-- "gore", "blood", "wounds", "injuries"
-- "corpse", "dead", "lifeless", "decaying"
-- "monster", "creature", "abomination", "horror"
-- "pain", "suffering", "agony", "torment"
+```text
+gore, blood, wounds, injuries, corpse, dead, lifeless, decaying, monster, creature, abomination, horror, pain, suffering, agony, torment
+```
 
 ## Negative Prompts
 
-- "bright colors", "cheerful", "happy", "uplifting"
-- "clean", "sterile", "perfect", "beautiful"
-- "safe", "comfortable", "warm", "inviting"
-- "cute", "adorable", "sweet", "gentle"
+```text
+bright colors, cheerful, happy, uplifting, clean, sterile, perfect, beautiful, safe, comfortable, warm, inviting, cute, adorable, sweet, gentle
+```
 
 ## Sample Prompts by Category
 
