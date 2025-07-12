@@ -121,7 +121,7 @@ A brave little mouse exploring a magical garden, early reader age group, detaile
 ### 1. Toddler Color Learning
 
 ```text
-A simple scene with a big red apple and a friendly worm, toddler age group, simple shapes and bright colors, minimal detail, children's book illustration style, high quality, learning about colors
+A simple scene with a big red apple, toddler age group, simple shapes and bright colors, minimal detail, children's book illustration style, high quality, learning about colors
 ```
 
 ![image](assets/toddler_color_learning.png)
