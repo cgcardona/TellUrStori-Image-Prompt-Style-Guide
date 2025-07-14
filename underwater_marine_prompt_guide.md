@@ -62,10 +62,7 @@
 
 ## Negative Prompts
 
-- "dry land", "terrestrial", "above water", "surface"
-- "bright sunlight", "clear air", "dry environment", "land-based"
-- "artificial", "man-made", "urban", "industrial"
-- "dead", "polluted", "dirty water", "contaminated"
+dry land, terrestrial, above water, surface, bright sunlight, clear air, dry environment, land-based, artificial, man-made, urban, industrial, dead, polluted, dirty water, contaminated
 
 ## Sample Prompts by Category
 
