@@ -62,10 +62,7 @@
 
 ## Negative Prompts
 
-- "tourist trap", "artificial", "fake", "staged"
-- "polluted", "overcrowded", "commercial", "touristy"
-- "dangerous", "unsafe", "risky", "hazardous"
-- "expensive", "luxury", "exclusive", "elitist"
+tourist trap, artificial, fake, staged, polluted, overcrowded, commercial, touristy, dangerous, unsafe, risky, hazardous, expensive, luxury, exclusive, elitist
 
 ## Sample Prompts by Category
 
