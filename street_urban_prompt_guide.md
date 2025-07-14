@@ -62,10 +62,7 @@
 
 ## Negative Prompts
 
-- "rural", "countryside", "nature", "wilderness"
-- "clean", "sterile", "perfect", "artificial"
-- "posed", "staged", "professional", "studio"
-- "empty", "deserted", "abandoned", "lifeless"
+rural, countryside, nature, wilderness, clean, sterile, perfect, artificial, posed, staged, professional, studio, empty, deserted, abandoned, lifeless
 
 ## Sample Prompts by Category
 
