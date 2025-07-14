@@ -9,6 +9,7 @@ Welcome to the comprehensive style guide for [**TellUrStori**](https://tellursto
 ## How to Use This Guide
 
 Each style guide contains:
+
 - **Style Overview**: Description of the artistic style or theme
 - **Key Characteristics**: Visual elements that define the style
 - **Prompt Templates**: Ready-to-use prompt structures
