@@ -154,7 +154,7 @@ A majestic eagle in flight, natural habitat, environmental portrait, shot on Can
 A confident businesswoman, professional headshot pose, three-point studio lighting, shot on Canon EOS R5 with 85mm f/1.4 lens, shallow depth of field, sharp focus on eyes, natural skin texture, professional makeup, high-end fashion photography, photorealistic, 8K resolution, award-winning portrait
 ```
 
-![image](asmountainsets/portrait_photography.png)
+![image](assets/portrait_photography.png)
 
 ### 2. Landscape Photography
 

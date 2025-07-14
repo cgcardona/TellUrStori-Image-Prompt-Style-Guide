@@ -58,9 +58,9 @@
 
 ## Negative Prompts
 
-- "modern technology", "digital devices", "plastic", "synthetic materials"
-- "minimalist design", "clean lines", "contemporary", "futuristic"
-- "bright colors", "neon lights", "LED", "electronic components"
+```text
+modern technology, digital devices, plastic, synthetic materials, minimalist design, clean lines, contemporary, futuristic, bright colors, neon lights, LED, electronic components
+```
 
 ## Sample Prompts by Category
 
