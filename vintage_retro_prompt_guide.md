@@ -68,10 +68,7 @@
 
 ## Negative Prompts
 
-- "modern", "contemporary", "current", "present day"
-- "digital", "high tech", "futuristic", "advanced"
-- "clean", "minimalist", "sleek", "modern design"
-- "bright colors", "vibrant", "saturated", "modern processing"
+modern, contemporary, current, present day, digital, high tech, futuristic, advanced, clean, minimalist, sleek, modern design, bright colors, vibrant, saturated, modern processing
 
 ## Sample Prompts by Category
 
