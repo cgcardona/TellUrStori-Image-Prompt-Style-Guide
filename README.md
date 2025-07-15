@@ -1,10 +1,10 @@
 # TellUrStori Image Prompt Style Guide
 
-Welcome to the comprehensive style guide for [**TellUrStori**](https://tellurstori.com), an AI-powered storytelling app that leverages Stable Diffusion for high-quality image generation. This repository contains detailed prompt guides for various artistic styles, themes, and applications to help developers create stunning visuals that perfectly complement their stories.
+Welcome to the official style guide for [**TellUrStori**](https://tellurstori.com), an AI-powered storytelling platform designed to generate high-quality, visually captivating images from text prompts. This guide offers curated prompt templates, artistic frameworks, and best practices to help developers and creators produce imagery that enhances and elevates their narratives.
 
 ## About TellUrStori
 
-[TellUrStori](https://tellurstori.com) uses Stable Diffusion under the hood to generate images based on text prompts. These style guides provide curated prompts, techniques, and best practices for achieving specific artistic styles and visual themes that enhance storytelling experiences.
+[TellUrStori](https://tellurstori.com) turns written ideas into visual art through advanced AI image generation. These style guides provide practical techniques and prompt inspiration for achieving distinct artistic styles and themes, empowering storytellers to match each scene with the perfect visual tone.
 
 ## How to Use This Guide
 
